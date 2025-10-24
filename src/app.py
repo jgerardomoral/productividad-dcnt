@@ -279,7 +279,7 @@ def load_data():
         # Usar final_classification_fixed.json que tiene el formato correcto para el dashboard
         with open(base_dir / "lineas_classification" / "final_classification_fixed.json", 'r', encoding='utf-8') as f:
             lineas_data = json.load(f)
-    except FileNotFoundError:
+    except (FileNotFoundError, Exception):
         lineas_data = None
 
     return publications, ods_data, pronaces_data, themes_data, lineas_data
