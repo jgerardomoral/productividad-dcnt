@@ -409,7 +409,6 @@ def create_ods_distribution(ods_data):
         'ODS 1: Fin de la Pobreza': '#E5243B',
         'ODS 2: Hambre Cero': '#DDA83A',
         'ODS 3: Salud y Bienestar': '#4C9F38',
-        'ODS 4: Educación de Calidad': '#C5192D',
         'ODS 5: Igualdad de Género': '#FF3A21',
         'ODS 10: Reducir Desigualdades': '#DD1367',
         'ODS 12: Producción y Consumo': '#BF8B2E',
@@ -1984,22 +1983,18 @@ def main():
             count_12 = ods_stats.get(12, 0)
             st.metric("♻️ ODS 12: Producción y Consumo", f"{count_12} artículos", f"{count_12/total_ods_articles*100:.1f}%")
 
-        # Segunda fila de ODS adicionales
-        col5, col6, col7, col8 = st.columns(4)
+        # Segunda fila de ODS adicionales - ahora con 3 columnas
+        col5, col6, col7 = st.columns(3)
 
         with col5:
             count_1 = ods_stats.get(1, 0)
             st.metric("🏚️ ODS 1: Fin de la Pobreza", f"{count_1} artículos", f"{count_1/total_ods_articles*100:.1f}%" if count_1 > 0 else "0%")
 
         with col6:
-            count_4 = ods_stats.get(4, 0)
-            st.metric("📚 ODS 4: Educación de Calidad", f"{count_4} artículos", f"{count_4/total_ods_articles*100:.1f}%" if count_4 > 0 else "0%")
-
-        with col7:
             count_5 = ods_stats.get(5, 0)
             st.metric("👥 ODS 5: Igualdad de Género", f"{count_5} artículos", f"{count_5/total_ods_articles*100:.1f}%" if count_5 > 0 else "0%")
 
-        with col8:
+        with col7:
             # Calcular el total de ODS abordados
             num_ods = len([v for v in ods_stats.values() if v > 0])
             st.metric("🎯 Total ODS Abordados", f"{num_ods} ODS", f"{num_ods/17*100:.0f}% de la Agenda")
