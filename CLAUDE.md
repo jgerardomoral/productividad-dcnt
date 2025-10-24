@@ -211,6 +211,101 @@ Modify CSS in `get_theme_css()` function (src/app.py:38-239):
 2. Add to appropriate category in `create_themes_sunburst()` (line 496)
 3. Theme will automatically appear in other visualizations (distribution, treemap, co-occurrence)
 
+## Classification System (Enhanced)
+
+### Overview
+The project uses an advanced **ensemble classification system** combining multiple state-of-the-art embedding models for superior accuracy and confidence in categorizing scientific publications.
+
+### Models Architecture
+
+#### Primary Models:
+1. **MPNET** (`sentence-transformers/all-mpnet-base-v2`)
+   - 768-dimensional embeddings (vs 384 in original)
+   - Superior semantic understanding
+   - L2 normalization for better comparison
+
+2. **BioBERT** (`pritamdeka/BioBERT-mnli-snli-scinli-scitail-mednli-stsb`)
+   - Specialized for biomedical literature
+   - Pre-trained on millions of PubMed papers
+   - Optimal for medical/scientific terminology
+
+3. **MiniLM** (`sentence-transformers/all-MiniLM-L6-v2`)
+   - Lightweight model for cross-validation
+   - Fast processing for initial classification
+
+### Classification Scripts
+
+#### Enhanced Classifiers:
+```bash
+src/classifiers/
+├── ods_embeddings_classifier_enhanced.py      # Enhanced ODS classifier
+├── pronaces_embeddings_classifier_enhanced.py  # Enhanced PRONACES classifier
+├── embeddings_classifier_enhanced.py          # Enhanced research lines classifier
+├── biobert_classifier.py                      # BioBERT specialized classifier
+├── ensemble_classifier.py                     # Ensemble voting system
+└── evaluate_embeddings.py                     # Performance evaluation tool
+```
+
+#### Key Improvements:
+- **Text Processing**: Weighted combination (Abstract 40%, Title 30%, MeSH 20%, Keywords 10%)
+- **Multiple Representations**: 3 descriptions per category for better coverage
+- **Domain-Specific Boost**: Enhanced scoring for biomedical terms
+- **MeSH Expansion**: Intelligent expansion of medical subject headings
+- **Ensemble Voting**: Weighted consensus between models
+
+### Data Files Structure
+
+#### Classification Outputs:
+```
+data/
+├── ods_classification_embeddings_enhanced.json     # Enhanced ODS
+├── ods_classification_biobert.json                # BioBERT ODS
+├── ods_classification_ensemble_final.json         # Final ensemble (BEST)
+├── pronaces_classification_embeddings_enhanced.json # Enhanced PRONACES
+└── lineas_classification/
+    └── embeddings_results_enhanced.json           # Enhanced research lines
+```
+
+### Performance Metrics
+
+#### Before Optimization (MiniLM):
+- Tentative classifications: 84.5%
+- High confidence: 0.0%
+- Average similarity: 0.35
+
+#### After Optimization (Ensemble):
+- Tentative classifications: 23.0% (-61.5%)
+- High/Medium confidence: 39.3% (+32.7%)
+- Average similarity: 0.47 (+34.2%)
+- High consensus (>75%): 52.7% of articles
+
+### Regenerating Classifications
+
+```bash
+# Individual enhanced classifiers
+python src/classifiers/ods_embeddings_classifier_enhanced.py
+python src/classifiers/pronaces_embeddings_classifier_enhanced.py
+python src/classifiers/embeddings_classifier_enhanced.py
+
+# BioBERT specialized
+python src/classifiers/biobert_classifier.py
+
+# Final ensemble (recommended)
+python src/classifiers/ensemble_classifier.py
+
+# Evaluate performance
+python src/classifiers/evaluate_embeddings.py
+```
+
+### Thresholds Configuration
+- **Principal Classification**: ≥0.50 (increased from 0.45)
+- **Secondary Classification**: ≥0.40 (increased from 0.35)
+- **Confidence Levels**:
+  - Alta (High): >60% similarity
+  - Media (Medium): 45-60%
+  - Baja (Low): 35-45%
+  - Tentativa (Tentative): <35%
+
 ## Known Limitations
 
 - **No user authentication:** Dashboard is public (appropriate for academic reporting)

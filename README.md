@@ -144,16 +144,46 @@ El dashboard incluye datos pre-procesados de 226 publicaciones científicas:
 
 ### 🤖 Metodología de Clasificación
 
-Las publicaciones son clasificadas automáticamente usando **embeddings semánticos** (modelo `all-MiniLM-L6-v2`):
+Las publicaciones son clasificadas usando un **sistema de ensemble avanzado** que combina múltiples modelos de embeddings semánticos:
 
-1. **Generación de embeddings**: Se procesan título, abstract, MeSH terms y keywords de cada artículo
-2. **Similitud semántica**: Se calcula la similitud de coseno con descripciones detalladas de ODS/PRONACES
-3. **Asignación con confianza**: Clasificaciones principales (≥0.45) y secundarias (≥0.35) con niveles de confianza
+#### Modelos Utilizados:
+- **MPNET** (`all-mpnet-base-v2`): Modelo de 768 dimensiones con mejor capacidad semántica
+- **BioBERT**: Modelo especializado en literatura biomédica, pre-entrenado con millones de papers de PubMed
+- **MiniLM** (`all-MiniLM-L6-v2`): Modelo ligero para validación cruzada
+
+#### Proceso de Clasificación:
+1. **Generación de embeddings mejorados**:
+   - Procesamiento ponderado: Abstract (40%), Título (30%), MeSH terms (20%), Keywords (10%)
+   - Normalización L2 para mejor comparación
+   - Múltiples representaciones por categoría
+
+2. **Similitud semántica avanzada**:
+   - Similitud de coseno con boost específico del dominio biomédico
+   - Expansión inteligente de términos MeSH
+   - Umbrales optimizados: Principal (≥0.50), Secundario (≥0.40)
+
+3. **Sistema de ensemble**:
+   - Votación ponderada entre modelos
+   - Consenso para mayor confiabilidad
+   - Niveles de confianza: Alta (>60%), Media (45-60%), Baja (35-45%), Tentativa (<35%)
+
+#### Resultados de la Optimización:
+- **Reducción de clasificaciones tentativas**: 84.5% → 23.0% (-61.5%)
+- **Aumento en confianza media/alta**: 6.6% → 39.3% (+32.7%)
+- **Mejora en similitud promedio**: +34.2%
 
 Para regenerar las clasificaciones (requiere dependencias ML):
 ```bash
-python src/classifiers/ods_embeddings_classifier.py
-python src/classifiers/pronaces_embeddings_classifier.py
+# Clasificaciones individuales mejoradas
+python src/classifiers/ods_embeddings_classifier_enhanced.py
+python src/classifiers/pronaces_embeddings_classifier_enhanced.py
+python src/classifiers/embeddings_classifier_enhanced.py
+
+# BioBERT especializado
+python src/classifiers/biobert_classifier.py
+
+# Sistema de ensemble final
+python src/classifiers/ensemble_classifier.py
 ```
 
 Los datos están almacenados en formato CSV y JSON, listos para visualización sin necesidad de extracción o procesamiento adicional.

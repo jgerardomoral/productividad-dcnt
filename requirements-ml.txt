@@ -2,16 +2,22 @@
 # These are optional - only needed to regenerate classification files
 # Install with: pip install -r requirements-ml.txt
 
-# Core ML libraries
-sentence-transformers==2.2.2
-transformers==4.36.2
-torch>=2.0.0
-scikit-learn==1.3.2
+# Core ML libraries for embeddings
+sentence-transformers==2.2.2    # For MPNET, MiniLM, and BioBERT models
+transformers==4.36.2           # HuggingFace transformers backend
+torch>=2.0.0                    # PyTorch for deep learning
+scikit-learn==1.3.2            # For cosine similarity and normalization
 
-# Progress bar
+# Progress bar for long-running processes
 tqdm==4.66.1
 
 # Data processing (also in main requirements)
-pandas>=2.0.0,<3.0.0
-numpy>=1.24.0,<2.0.0
-requests>=2.31.0
+pandas>=2.0.0,<3.0.0          # DataFrames for structured data
+numpy>=1.24.0,<2.0.0          # Numerical operations
+requests>=2.31.0              # API calls if needed
+
+# Note: Models will be downloaded automatically on first use:
+# - all-mpnet-base-v2 (~420MB)
+# - all-MiniLM-L6-v2 (~80MB)
+# - BioBERT models (~400MB)
+# Total disk space needed: ~1GB for all models
