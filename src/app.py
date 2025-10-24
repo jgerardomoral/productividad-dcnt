@@ -296,24 +296,77 @@ def load_pubmed_metadata():
 
 
 def create_year_evolution_chart(df):
-    """Gráfica de evolución anual de publicaciones"""
+    """Gráfica de evolución anual de publicaciones con tema DCNT"""
     publications_per_year = df.groupby('año').size().reset_index(name='Publicaciones')
+
+    # Colores inspirados en el logo del DCNT (verde-azul institucional)
+    # Con gradiente que mejora la visibilidad de todos los años
+    dcnt_colors = {
+        2019: '#004C6D',  # Azul oscuro
+        2020: '#005F89',  # Azul medio-oscuro
+        2021: '#0072A5',  # Azul medio
+        2022: '#0086C1',  # Azul claro (más visible)
+        2023: '#009ADD',  # Azul-cyan
+        2024: '#00AEF9',  # Cyan brillante
+        2025: '#17C3FF'   # Cyan muy brillante
+    }
+
+    # Asignar colores específicos a cada año
+    publications_per_year['color'] = publications_per_year['año'].map(dcnt_colors)
 
     fig = px.bar(
         publications_per_year,
         x='año',
         y='Publicaciones',
-        title='Evolución de la Productividad Científica (2019-2025)',
+        title='Evolución de la Productividad Científica DCNT-UdeG (2019-2025)',
         labels={'año': 'Año', 'Publicaciones': 'Número de Publicaciones'},
-        color='Publicaciones',
-        color_continuous_scale='Blues'
+        color='año',
+        color_discrete_map=dcnt_colors,
+        text='Publicaciones'
+    )
+
+    # Agregar valores en las barras para mejor legibilidad
+    fig.update_traces(
+        texttemplate='%{text}',
+        textposition='outside',
+        textfont_size=12,
+        marker_line_color='rgba(0,0,0,0.3)',
+        marker_line_width=1.5
     )
 
     fig.update_layout(
-        xaxis=dict(tickmode='linear'),
+        xaxis=dict(
+            tickmode='linear',
+            title_font=dict(size=14, family='Arial, sans-serif', color='#2c3e50'),
+            tickfont=dict(size=12)
+        ),
+        yaxis=dict(
+            title_font=dict(size=14, family='Arial, sans-serif', color='#2c3e50'),
+            tickfont=dict(size=12),
+            gridcolor='rgba(0,0,0,0.1)'
+        ),
+        title=dict(
+            font=dict(size=16, family='Arial, sans-serif', color='#2c3e50'),
+            x=0.5,
+            xanchor='center'
+        ),
         hovermode='x unified',
-        height=400
+        height=450,
+        showlegend=False,
+        plot_bgcolor='rgba(240,248,255,0.3)',  # Fondo muy suave azul
+        paper_bgcolor='white'
     )
+
+    # Agregar anotación para destacar el año 2022 si tiene pocas publicaciones
+    year_2022_data = publications_per_year[publications_per_year['año'] == 2022]
+    if not year_2022_data.empty and year_2022_data.iloc[0]['Publicaciones'] < 10:
+        fig.add_annotation(
+            x=2022,
+            y=year_2022_data.iloc[0]['Publicaciones'] + 2,
+            text="↓",
+            showarrow=False,
+            font=dict(size=20, color='#0086C1')
+        )
 
     return fig
 
