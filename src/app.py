@@ -372,12 +372,14 @@ def create_year_evolution_chart(df):
 
 
 def create_ods_distribution(ods_data):
-    """Gráfica de distribución por ODS"""
+    """Gráfica de distribución por ODS con barras horizontales para mejor visibilidad"""
     if not ods_data:
         return None
 
     # Contar ODS
     ods_counter = Counter()
+    total_articulos = len(ods_data)
+
     for pub in ods_data:
         for ods in pub.get('ods_principales', []):
             ods_name = f"ODS {ods.get('numero')}: {ods.get('nombre', '')}"
@@ -386,20 +388,71 @@ def create_ods_distribution(ods_data):
     if not ods_counter:
         return None
 
-    # Crear DataFrame
-    ods_df = pd.DataFrame(ods_counter.most_common(), columns=['ODS', 'Publicaciones'])
+    # Crear DataFrame y ordenar por número de ODS
+    ods_list = []
+    for ods_name, count in ods_counter.items():
+        ods_num = int(ods_name.split(':')[0].replace('ODS ', ''))
+        percentage = (count / total_articulos) * 100
+        ods_list.append({
+            'ODS': ods_name,
+            'Publicaciones': count,
+            'Porcentaje': percentage,
+            'ODS_Num': ods_num,
+            'Texto': f"{count} ({percentage:.1f}%)"
+        })
 
-    # Gráfica de donut
-    fig = px.pie(
+    ods_df = pd.DataFrame(ods_list)
+    ods_df = ods_df.sort_values('ODS_Num')
+
+    # Definir colores por ODS (colores institucionales y temáticos)
+    colors_map = {
+        'ODS 1: Fin de la Pobreza': '#E5243B',
+        'ODS 2: Hambre Cero': '#DDA83A',
+        'ODS 3: Salud y Bienestar': '#4C9F38',
+        'ODS 4: Educación de Calidad': '#C5192D',
+        'ODS 5: Igualdad de Género': '#FF3A21',
+        'ODS 10: Reducir Desigualdades': '#DD1367',
+        'ODS 12: Producción y Consumo': '#BF8B2E',
+        'ODS 15: Vida de Ecosistemas': '#56C02B',
+        'ODS 17: Alianzas': '#00689D'
+    }
+
+    # Gráfica de barras horizontales
+    fig = px.bar(
         ods_df,
-        values='Publicaciones',
-        names='ODS',
-        title='Distribución de Publicaciones por ODS',
-        hole=0.4
+        x='Publicaciones',
+        y='ODS',
+        orientation='h',
+        title='Distribución de Publicaciones por Objetivos de Desarrollo Sostenible',
+        text='Texto',
+        color='ODS',
+        color_discrete_map=colors_map,
+        labels={'Publicaciones': 'Número de Publicaciones'}
     )
 
-    fig.update_traces(textposition='inside', textinfo='percent+label')
-    fig.update_layout(height=500)
+    # Personalizar el gráfico
+    fig.update_traces(
+        textposition='outside',
+        textfont_size=12,
+        hovertemplate='<b>%{y}</b><br>Publicaciones: %{x}<br><extra></extra>'
+    )
+
+    fig.update_layout(
+        height=400,
+        showlegend=False,
+        xaxis=dict(
+            title='Número de Publicaciones',
+            showgrid=True,
+            gridcolor='rgba(0,0,0,0.1)'
+        ),
+        yaxis=dict(
+            title='',
+            automargin=True
+        ),
+        plot_bgcolor='rgba(240,248,255,0.3)',
+        paper_bgcolor='white',
+        font=dict(size=11)
+    )
 
     return fig
 
@@ -1912,6 +1965,7 @@ def main():
         # Resumen visual en métricas
         st.markdown("### 📊 Alineación con Agenda 2030")
 
+        # Primera fila de ODS principales
         col1, col2, col3, col4 = st.columns(4)
 
         with col1:
@@ -1929,6 +1983,26 @@ def main():
         with col4:
             count_12 = ods_stats.get(12, 0)
             st.metric("♻️ ODS 12: Producción y Consumo", f"{count_12} artículos", f"{count_12/total_ods_articles*100:.1f}%")
+
+        # Segunda fila de ODS adicionales
+        col5, col6, col7, col8 = st.columns(4)
+
+        with col5:
+            count_1 = ods_stats.get(1, 0)
+            st.metric("🏚️ ODS 1: Fin de la Pobreza", f"{count_1} artículos", f"{count_1/total_ods_articles*100:.1f}%" if count_1 > 0 else "0%")
+
+        with col6:
+            count_4 = ods_stats.get(4, 0)
+            st.metric("📚 ODS 4: Educación de Calidad", f"{count_4} artículos", f"{count_4/total_ods_articles*100:.1f}%" if count_4 > 0 else "0%")
+
+        with col7:
+            count_5 = ods_stats.get(5, 0)
+            st.metric("👥 ODS 5: Igualdad de Género", f"{count_5} artículos", f"{count_5/total_ods_articles*100:.1f}%" if count_5 > 0 else "0%")
+
+        with col8:
+            # Calcular el total de ODS abordados
+            num_ods = len([v for v in ods_stats.values() if v > 0])
+            st.metric("🎯 Total ODS Abordados", f"{num_ods} ODS", f"{num_ods/17*100:.0f}% de la Agenda")
 
         st.markdown("---")
 
@@ -1970,7 +2044,7 @@ def main():
 
             Los 17 Objetivos de Desarrollo Sostenible (ODS) son el plan maestro de la ONU para un futuro sostenible.
 
-            El DCNT-UdeG contribuye directamente a 4 ODS prioritarios relacionados con nutrición, salud y equidad.
+            El DCNT-UdeG contribuye directamente a múltiples ODS prioritarios, abordando desafíos interconectados de nutrición, salud, educación, equidad y desarrollo sostenible.
             """)
 
         st.markdown("---")
