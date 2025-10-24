@@ -1,0 +1,3110 @@
+[
+  {
+    "año": 2019,
+    "numero": 1,
+    "titulo": "β-Caryophyllene a Natural Sesquiterpene Attenuates Neuropathic Pain and Depressive-Like Behavior in Experimental Diabetic Mice",
+    "pronaces_principales": [
+      {
+        "codigo": "SISTEMAS_ALIMENTARIOS",
+        "nombre": "Sistemas Alimentarios"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Sistemas Alimentarios"
+  },
+  {
+    "año": 2019,
+    "numero": 2,
+    "titulo": "Circulating soluble levels of MIF in women with breast cancer in the molecular subtypes: relationship with Th17 cytokine profile",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2019,
+    "numero": 3,
+    "titulo": "A differential sex-specific pattern of IgG2 and IgG4 subclasses of anti-drug antibodies (ADAs) induced by glatiramer acetate in relapsing-remitting multiple sclerosis patients",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2019,
+    "numero": 4,
+    "titulo": "Macrophage migration inhibitory factor polymorphisms are a potential susceptibility marker in systemic sclerosis from southern Mexican population",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2019,
+    "numero": 5,
+    "titulo": "Epigenetic Modifications as Outcomes of Exercise Interventions Related to Specific Metabolic Alterations: A Systematic Review",
+    "pronaces_principales": [
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Enfermedades Crónicas"
+  },
+  {
+    "año": 2019,
+    "numero": 6,
+    "titulo": "B-cell activating factor receptor expression is associated with germinal center B-cell maintenance",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2019,
+    "numero": 7,
+    "titulo": "Association between TLR4 polymorphisms and virulence factors in uropathogenic Escherichia coli",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2019,
+    "numero": 8,
+    "titulo": "IL10 haplotypes are associated with diabetic nephropathy susceptibility in patients from western Mexico",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2019,
+    "numero": 9,
+    "titulo": "Analysis of the rs2476601 polymorphism of PTPN22 in Mexican mestizo patients with leprosy",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2019,
+    "numero": 10,
+    "titulo": "Impact of the gene-gene interactions related to the HIF-1α signaling pathway with the knee osteoarthritis development",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      },
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud, Enfermedades Crónicas"
+  },
+  {
+    "año": 2019,
+    "numero": 11,
+    "titulo": "Hormonal modulation of Toxoplasma gondii infection: Regulation of hormonal receptors and cytokine production in THP-1 cells",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2019,
+    "numero": 12,
+    "titulo": "Functional MIF promoter haplotypes modulate Th17-related cytokine expression in peripheral blood mononuclear cells",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2019,
+    "numero": 14,
+    "titulo": "GPER Overexpression in Cervical Cancer Versus Premalignant Lesions: Its Activation Induces Different Forms of Cell Death",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2019,
+    "numero": 15,
+    "titulo": "Concentration of ghrelin and leptin in serum and human milk in nursing mothers according to the type of feeding",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2019,
+    "numero": 16,
+    "titulo": "TNFA -308G>A and -238G>A polymorphisms and risk to systemic sclerosis",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2019,
+    "numero": 17,
+    "titulo": "Association of CD28 and CTLA4 haplotypes with susceptibility to primary Sjögren's syndrome in Mexican population",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2019,
+    "numero": 18,
+    "titulo": "KIR/HLA Gene Profile Implication in Systemic Sclerosis Patients from Mexico",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2019,
+    "numero": 19,
+    "titulo": "High BAFF expression associated with active disease in systemic lupus erythematosus",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      },
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud, Enfermedades Crónicas"
+  },
+  {
+    "año": 2019,
+    "numero": 20,
+    "titulo": "Frequency and Risk Factors of Kidney Alterations in Children and Adolescents who Are Overweight and Obese",
+    "pronaces_principales": [
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Enfermedades Crónicas"
+  },
+  {
+    "año": 2019,
+    "numero": 21,
+    "titulo": "Analysis of Genetic Variation in CD40 and CD40L: Relationship with mRNA Relative Expression and Soluble Proteins",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2019,
+    "numero": 22,
+    "titulo": "Interleukin-1 Alpha Polymorphisms Are Associated With Body Mass Index in Male But Not in Female Adolescents",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2019,
+    "numero": 23,
+    "titulo": "Relationship of Excess Weight with Clinical Activity and Dietary Intake Deficiencies in Systemic Lupus Erythematosus Patients",
+    "pronaces_principales": [
+      {
+        "codigo": "SISTEMAS_ALIMENTARIOS",
+        "nombre": "Sistemas Alimentarios"
+      },
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      },
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Sistemas Alimentarios, Salud, Enfermedades Crónicas"
+  },
+  {
+    "año": 2019,
+    "numero": 25,
+    "titulo": "PRL -1149T allele (rs1341239) is associated with decreased risk of rheumatoid arthritis",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      },
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud, Enfermedades Crónicas"
+  },
+  {
+    "año": 2019,
+    "numero": 26,
+    "titulo": "IgG Anti-ghrelin Immune Complexes Are Increased in Rheumatoid Arthritis Patients Under Biologic Therapy",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      },
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud, Enfermedades Crónicas"
+  },
+  {
+    "año": 2019,
+    "numero": 27,
+    "titulo": "Interaction between 17β-estradiol prolactin and human papillomavirus induce E6/E7 transcript",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2019,
+    "numero": 28,
+    "titulo": "Development of an effective and rapid qPCR for identifying human ChREBPα/β isoforms",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2019,
+    "numero": 29,
+    "titulo": "PTPN22 +788 G>A (R263Q) Polymorphism is Associated with mRNA Expression",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2019,
+    "numero": 30,
+    "titulo": "Interactions between DRD2/ANKK1 TaqIA Polymorphism and Dietary Factors Influence Plasma Triglyceride Concentrations",
+    "pronaces_principales": [
+      {
+        "codigo": "SISTEMAS_ALIMENTARIOS",
+        "nombre": "Sistemas Alimentarios"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Sistemas Alimentarios"
+  },
+  {
+    "año": 2019,
+    "numero": 31,
+    "titulo": "Phytochemical composition and immunobiological activity of Hawthorn Crataegus mexicana nanoencapsulated",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2019,
+    "numero": 32,
+    "titulo": "Cytokines (IL-15 IL-21 and IFN-γ) in rheumatoid arthritis: association with positivity to autoantibodies",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      },
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud, Enfermedades Crónicas"
+  },
+  {
+    "año": 2019,
+    "numero": 33,
+    "titulo": "17β‑estradiol‑induced mitochondrial dysfunction and Warburg effect in cervical cancer cells",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2019,
+    "numero": 34,
+    "titulo": "Assessment of CD40 and CD40L expression in rheumatoid arthritis patients",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      },
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud, Enfermedades Crónicas"
+  },
+  {
+    "año": 2019,
+    "numero": 35,
+    "titulo": "Letter to the editor: The association of CD40 polymorphism and soluble CD40 with the risk of systemic lupus erythematosus",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      },
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud, Enfermedades Crónicas"
+  },
+  {
+    "año": 2019,
+    "numero": 36,
+    "titulo": "Expression of the receptor of advanced glycation end-products (RAGE) in peripheral blood mononuclear cells (PBMC)",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2019,
+    "numero": 37,
+    "titulo": "PTPN22 1858C>T polymorphism is associated with increased CD154 expression and higher CD4+ T cells percentage",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2019,
+    "numero": 38,
+    "titulo": "Macrophage migration inhibitory factor promoter polymorphisms are associated with disease activity in rheumatoid arthritis",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      },
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud, Enfermedades Crónicas"
+  },
+  {
+    "año": 2019,
+    "numero": 39,
+    "titulo": "Association of soluble CD40 levels with -1 C > T CD40 polymorphism and chronic kidney disease in systemic lupus erythematosus",
+    "pronaces_principales": [
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      },
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Enfermedades Crónicas, Salud"
+  },
+  {
+    "año": 2019,
+    "numero": 40,
+    "titulo": "Association between the -844 G>A HindIII C>G and 4G/5G PAI-1 Polymorphisms and Susceptibility to Multiple Sclerosis",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2020,
+    "numero": 1,
+    "titulo": "Effect of supplementation with vitamins D3 and K2 on undercarboxylated osteocalcin and insulin serum levels",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2020,
+    "numero": 2,
+    "titulo": "The -675 4G/5G PAI-1 polymorphism confers genetic susceptibility to systemic lupus erythematosus",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      },
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud, Enfermedades Crónicas"
+  },
+  {
+    "año": 2020,
+    "numero": 3,
+    "titulo": "Association of the genetic variants of macrophage migration inhibitory factor (MIF) with higher soluble levels of MIF and TNFα",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2020,
+    "numero": 4,
+    "titulo": "Low-grade chronic inflammation is attenuated by exercise training in obese adults through down-regulation of ASC gene",
+    "pronaces_principales": [
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Enfermedades Crónicas"
+  },
+  {
+    "año": 2020,
+    "numero": 5,
+    "titulo": "A potential inflammatory role of IL-31 in psoriatic arthritis: A correlation with Th17 cytokine profile",
+    "pronaces_principales": [
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      },
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Enfermedades Crónicas, Salud"
+  },
+  {
+    "año": 2020,
+    "numero": 6,
+    "titulo": "Anthropometric and Body Composition Profile of Young Professional Soccer Players",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2020,
+    "numero": 7,
+    "titulo": "Second Version of a Mini-Survey to Evaluate Food Intake Quality (Mini-ECCA v.2)",
+    "pronaces_principales": [
+      {
+        "codigo": "SISTEMAS_ALIMENTARIOS",
+        "nombre": "Sistemas Alimentarios"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Sistemas Alimentarios"
+  },
+  {
+    "año": 2020,
+    "numero": 9,
+    "titulo": "Association of cardiometabolic risk status with clinical activity and damage in systemic lupus erythematosus patients",
+    "pronaces_principales": [
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      },
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Enfermedades Crónicas, Salud"
+  },
+  {
+    "año": 2020,
+    "numero": 10,
+    "titulo": "Physical inactivity and excessive sucrose consumption are associated with higher serum lipids",
+    "pronaces_principales": [
+      {
+        "codigo": "SISTEMAS_ALIMENTARIOS",
+        "nombre": "Sistemas Alimentarios"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Sistemas Alimentarios"
+  },
+  {
+    "año": 2020,
+    "numero": 11,
+    "titulo": "Antioxidant Supplementation Modulates Neutrophil Inflammatory Response to Exercise-Induced Stress",
+    "pronaces_principales": [
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Enfermedades Crónicas"
+  },
+  {
+    "año": 2020,
+    "numero": 12,
+    "titulo": "Expression of BAFF and BAFF receptors in primary Sjögren's syndrome patients with ectopic germinal center-like structures",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2020,
+    "numero": 13,
+    "titulo": "Validation of a Spanish-Language Questionnaire on Adolescent Eating Behavior Based on Social Cognitive Theory",
+    "pronaces_principales": [
+      {
+        "codigo": "SISTEMAS_ALIMENTARIOS",
+        "nombre": "Sistemas Alimentarios"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Sistemas Alimentarios"
+  },
+  {
+    "año": 2020,
+    "numero": 15,
+    "titulo": "Assessment of serum macrophage migration inhibitory factor (MIF) adiponectin and other adipokines as potential markers",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2020,
+    "numero": 16,
+    "titulo": "Expression patterns of CD28 and CTLA-4 in early chronic and untreated rheumatoid arthritis",
+    "pronaces_principales": [
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      },
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Enfermedades Crónicas, Salud"
+  },
+  {
+    "año": 2020,
+    "numero": 17,
+    "titulo": "Macrophage inhibitory factor (MIF) gene polymorphisms are associated with disease susceptibility and with circulating MIF levels",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2020,
+    "numero": 18,
+    "titulo": "Effect of Ursolic Acid on Insulin Resistance and Hyperinsulinemia in Rats with Diet-Induced Obesity",
+    "pronaces_principales": [
+      {
+        "codigo": "SISTEMAS_ALIMENTARIOS",
+        "nombre": "Sistemas Alimentarios"
+      },
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      },
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Sistemas Alimentarios, Salud, Enfermedades Crónicas"
+  },
+  {
+    "año": 2020,
+    "numero": 19,
+    "titulo": "Haplotypes of (-794(CATT)5-8/-173G>C) MIF gene polymorphisms and its soluble levels in basal cell carcinoma",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2020,
+    "numero": 20,
+    "titulo": "Using a lactation room at the workplace is associated with longer breastfeeding duration in working mothers",
+    "pronaces_principales": [
+      {
+        "codigo": "SISTEMAS_ALIMENTARIOS",
+        "nombre": "Sistemas Alimentarios"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Sistemas Alimentarios"
+  },
+  {
+    "año": 2020,
+    "numero": 21,
+    "titulo": "Cytokine profiles and clinical characteristics in primary Sjögren´s síndrome patient groups",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2020,
+    "numero": 22,
+    "titulo": "Functional effects of vitamin D: From nutrient to immunomodulator",
+    "pronaces_principales": [
+      {
+        "codigo": "SISTEMAS_ALIMENTARIOS",
+        "nombre": "Sistemas Alimentarios"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Sistemas Alimentarios"
+  },
+  {
+    "año": 2020,
+    "numero": 23,
+    "titulo": "Serum Analysis of Women with Early-Stage Breast Cancer Using a Mini-Array of Tumor-Associated Antigens",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2020,
+    "numero": 24,
+    "titulo": "Nutritional Approaches for the Management of Nonalcoholic Fatty Liver Disease: An Evidence-Based Review",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      },
+      {
+        "codigo": "SISTEMAS_ALIMENTARIOS",
+        "nombre": "Sistemas Alimentarios"
+      },
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud, Sistemas Alimentarios, Enfermedades Crónicas"
+  },
+  {
+    "año": 2020,
+    "numero": 25,
+    "titulo": "Downregulation of Inflammatory Cytokine Release from IL-1β and LPS-Stimulated PBMC Orchestrated by ST2825",
+    "pronaces_principales": [
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Enfermedades Crónicas"
+  },
+  {
+    "año": 2020,
+    "numero": 26,
+    "titulo": "Obesity dyslipidemia and high blood pressure are associated with cardiovascular risk",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      },
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud, Enfermedades Crónicas"
+  },
+  {
+    "año": 2020,
+    "numero": 27,
+    "titulo": "Health-Related Factors in Rural and Urban Mexican Adolescents from the State of Jalisco: The HELENA-MEX Study",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2020,
+    "numero": 28,
+    "titulo": "Leu72Met polymorphism of GHRL gene decreases susceptibility to type 2 diabetes mellitus",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      },
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud, Enfermedades Crónicas"
+  },
+  {
+    "año": 2020,
+    "numero": 29,
+    "titulo": "Anti-nucleosome antibodies increase the risk of renal relapse in a prospective cohort of patients",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2020,
+    "numero": 30,
+    "titulo": "Relationship between TNF-α MMP-8 and MMP-9 levels in gingival crevicular fluid and the subgingival microbiota",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2020,
+    "numero": 31,
+    "titulo": "Bacterial Succession through the Artisanal Process and Seasonal Effects Defining Bacterial Communities",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2020,
+    "numero": 32,
+    "titulo": "Association of Vitamin D Metabolism Gene Polymorphisms with Autoimmunity: Evidence in Population Genetic Studies",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2020,
+    "numero": 34,
+    "titulo": "Analysis of the receptor BCMA as a biomarker in systemic lupus erythematosus patients",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      },
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud, Enfermedades Crónicas"
+  },
+  {
+    "año": 2020,
+    "numero": 35,
+    "titulo": "Alliin an Allium sativum Nutraceutical Reduces Metaflammation Markers in DIO Mice",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2020,
+    "numero": 37,
+    "titulo": "Healthy Obese Subjects Differ in Chronotype Sleep Habits and Adipose Tissue Fatty Acid Composition",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2020,
+    "numero": 38,
+    "titulo": "A Metabolically Unhealthy Phenotype Is Associated with ADIPOQ Genetic Variants and Lower Serum Adiponectin Levels",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      },
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud, Enfermedades Crónicas"
+  },
+  {
+    "año": 2020,
+    "numero": 41,
+    "titulo": "Impact of APOE Alleles-by-Diet Interactions on Glycemic and Lipid Features in Type 2 Diabetes Patients",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      },
+      {
+        "codigo": "SISTEMAS_ALIMENTARIOS",
+        "nombre": "Sistemas Alimentarios"
+      },
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud, Sistemas Alimentarios, Enfermedades Crónicas"
+  },
+  {
+    "año": 2020,
+    "numero": 44,
+    "titulo": "The Relevance of Selenium Status in Rheumatoid Arthritis",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      },
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud, Enfermedades Crónicas"
+  },
+  {
+    "año": 2020,
+    "numero": 46,
+    "titulo": "Metabolic Syndrome Among Young Health Professionals in the Multicenter Latin America Metabolic Syndrome Study",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      },
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud, Enfermedades Crónicas"
+  },
+  {
+    "año": 2021,
+    "numero": 1,
+    "titulo": "Influence of Diet and Levels of Zonulin Lipopolysaccharide and C-Reactive Protein on Cardiometabolic Risk Factors",
+    "pronaces_principales": [
+      {
+        "codigo": "SISTEMAS_ALIMENTARIOS",
+        "nombre": "Sistemas Alimentarios"
+      },
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Sistemas Alimentarios, Enfermedades Crónicas"
+  },
+  {
+    "año": 2021,
+    "numero": 2,
+    "titulo": "Expression of macrophage migration inhibitory factor and its receptor CD74 in systemic sclerosis",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2021,
+    "numero": 3,
+    "titulo": "Phylogenomics and population genomics of SARS-CoV-2 in Mexico during the pre-vaccination stage",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2021,
+    "numero": 4,
+    "titulo": "Presence of Adenovirus-36 DNA in Adipose Tissue of Women: Relationship with Adipocyte Morphology",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      },
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud, Enfermedades Crónicas"
+  },
+  {
+    "año": 2021,
+    "numero": 5,
+    "titulo": "The ACTN3 R577X polymorphism is associated with metabolic alterations in a sex-dependent manner",
+    "pronaces_principales": [
+      {
+        "codigo": "SISTEMAS_ALIMENTARIOS",
+        "nombre": "Sistemas Alimentarios"
+      },
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Sistemas Alimentarios, Enfermedades Crónicas"
+  },
+  {
+    "año": 2021,
+    "numero": 6,
+    "titulo": "The PI3K/Akt/mTOR pathway: A potential pharmacological target in COVID-19",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2021,
+    "numero": 8,
+    "titulo": "Effects of short chain fatty acids on metabolic and inflammatory processes in human health",
+    "pronaces_principales": [
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      },
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Enfermedades Crónicas, Salud"
+  },
+  {
+    "año": 2021,
+    "numero": 9,
+    "titulo": "High dietary ω-6:ω-3 PUFA ratio and simple carbohydrates as a potential risk factors for gallstone disease",
+    "pronaces_principales": [
+      {
+        "codigo": "SISTEMAS_ALIMENTARIOS",
+        "nombre": "Sistemas Alimentarios"
+      },
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Sistemas Alimentarios, Salud"
+  },
+  {
+    "año": 2021,
+    "numero": 10,
+    "titulo": "Association of TAP1 1177A>G and 2090A>G gene polymorphisms with latent tuberculosis infections",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2021,
+    "numero": 11,
+    "titulo": "Social Representations of Drinking Water in Schoolchildren and Parents from Two Schools in Zapopan Mexico",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2021,
+    "numero": 12,
+    "titulo": "Altered Expression of TSPAN32 during B Cell Activation and Systemic Lupus Erythematosus",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      },
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud, Enfermedades Crónicas"
+  },
+  {
+    "año": 2021,
+    "numero": 13,
+    "titulo": "The Novel Role of MIF in the Secretion of IL-25 IL-31 and IL-33 from PBMC of Patients with Rheumatoid Arthritis",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      },
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud, Enfermedades Crónicas"
+  },
+  {
+    "año": 2021,
+    "numero": 14,
+    "titulo": "Metabolic syndrome in rheumatoid arthritis patients: Relationship among its clinical components",
+    "pronaces_principales": [
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      },
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Enfermedades Crónicas, Salud"
+  },
+  {
+    "año": 2021,
+    "numero": 15,
+    "titulo": "In Vivo Healthy Benefits of Galacto-Oligosaccharides from Lupinus albus (LA-GOS) in Butyrate Production",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2021,
+    "numero": 16,
+    "titulo": "Association of Food Intake Quality with Vitamin D in SARS-CoV-2 Positive Patients from Mexico",
+    "pronaces_principales": [
+      {
+        "codigo": "SISTEMAS_ALIMENTARIOS",
+        "nombre": "Sistemas Alimentarios"
+      },
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Sistemas Alimentarios, Salud"
+  },
+  {
+    "año": 2021,
+    "numero": 17,
+    "titulo": "Validation of the Spanish-Mexican Version of the Australian Breastfeeding Attitude Questionnaire",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      },
+      {
+        "codigo": "SISTEMAS_ALIMENTARIOS",
+        "nombre": "Sistemas Alimentarios"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud, Sistemas Alimentarios"
+  },
+  {
+    "año": 2021,
+    "numero": 18,
+    "titulo": "Commentary: Long Non-Coding RNA Gene Polymorphisms and Their Expression Levels in Patients With Rheumatoid Arthritis",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      },
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud, Enfermedades Crónicas"
+  },
+  {
+    "año": 2021,
+    "numero": 19,
+    "titulo": "Neutralizing Antibodies against SARS-CoV-2 Anti-Ad5 Antibodies and Reactogenicity in Response to Ad5-nCoV Vaccine",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2021,
+    "numero": 20,
+    "titulo": "Macrophage migration inhibitory factor gene polymorphisms confer risk of plaque psoriasis",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2021,
+    "numero": 21,
+    "titulo": "Association between rs662 (A > G) and rs854560 (A > T) polymorphisms in PON1 gene and the susceptibility for psoriasis",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2021,
+    "numero": 22,
+    "titulo": "Factors associated with longer breastfeeding duration in Mexican working mothers",
+    "pronaces_principales": [
+      {
+        "codigo": "SISTEMAS_ALIMENTARIOS",
+        "nombre": "Sistemas Alimentarios"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Sistemas Alimentarios"
+  },
+  {
+    "año": 2021,
+    "numero": 23,
+    "titulo": "Functional Food and Bioactive Compounds on the Modulation of the Functionality of HDL-C: A Narrative Review",
+    "pronaces_principales": [
+      {
+        "codigo": "SISTEMAS_ALIMENTARIOS",
+        "nombre": "Sistemas Alimentarios"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Sistemas Alimentarios"
+  },
+  {
+    "año": 2021,
+    "numero": 24,
+    "titulo": "COVID-19 Screening by Anti-SARS-CoV-2 Antibody Seropositivity: Clinical and Epidemiological Characteristics",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2021,
+    "numero": 25,
+    "titulo": "Th1/Th2 Balance in Young Subjects: Relationship with Cytokine Levels and Metabolic Profile",
+    "pronaces_principales": [
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Enfermedades Crónicas"
+  },
+  {
+    "año": 2021,
+    "numero": 26,
+    "titulo": "Association of High Calcitriol Serum Levels and Its Hydroxylation Efficiency Ratio with Disease Risk in SLE Patients",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2021,
+    "numero": 27,
+    "titulo": "Infancy and Childhood Obesity Grade Predicts Weight Loss in Adulthood: The ONTIME Study",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      },
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud, Enfermedades Crónicas"
+  },
+  {
+    "año": 2021,
+    "numero": 28,
+    "titulo": "Neutralizing Antibodies Titers and Side Effects in Response to BNT162b2 Vaccine in Healthcare Workers",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2021,
+    "numero": 29,
+    "titulo": "Overview of Neutralizing Antibodies and Their Potential in COVID-19",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2021,
+    "numero": 30,
+    "titulo": "Prevalence and Risk Factors of Food Insecurity among Mexican University Students' Households",
+    "pronaces_principales": [
+      {
+        "codigo": "SISTEMAS_ALIMENTARIOS",
+        "nombre": "Sistemas Alimentarios"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Sistemas Alimentarios"
+  },
+  {
+    "año": 2021,
+    "numero": 31,
+    "titulo": "Association between the TAP1 gene polymorphisms and recurrent respiratory papillomatosis in patients from Western Mexico",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2021,
+    "numero": 33,
+    "titulo": "Performance evaluation of a lateral flow assay for nasopharyngeal antigen detection for SARS-CoV-2 diagnosis",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2021,
+    "numero": 34,
+    "titulo": "17β-estradiol modulates the expression of hormonal receptors on THP-1 T gondii-infected macrophages and monocytes",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2021,
+    "numero": 35,
+    "titulo": "Direct and Indirect Effects of COVID-19 in Frail Elderly: Interventions and Recommendations",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2021,
+    "numero": 36,
+    "titulo": "Advances in Genetics and Epigenetic Alterations in Alzheimer's Disease: A Notion for Therapeutic Treatment",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2021,
+    "numero": 37,
+    "titulo": "PTPN22 gene functional polymorphism (rs2476601) in older adults with frailty syndrome",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2021,
+    "numero": 38,
+    "titulo": "A Local Health Situation Room for COVID-19: Recommendations for Decision-Making From a Higher Education Institution",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2021,
+    "numero": 39,
+    "titulo": "Troublesome friends within us: the role of gut microbiota on rheumatoid arthritis etiopathogenesis",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      },
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud, Enfermedades Crónicas"
+  },
+  {
+    "año": 2021,
+    "numero": 40,
+    "titulo": "Pleiotrophin Serum Level is Increased in Relapsing-Remitting Multiple Sclerosis and Correlates With Sex BMI and Treatment",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2021,
+    "numero": 41,
+    "titulo": "Body Dissatisfaction and Its Association with Health-Related Factors in Rural and Urban Mexican Adolescents",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2021,
+    "numero": 42,
+    "titulo": "The Newcastle satisfaction with nursing scales in a Mexican Oncology Hospital",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2021,
+    "numero": 43,
+    "titulo": "Canonical (CD74/CD44) and Non-Canonical (CXCR2 4 and 7) MIF Receptors Are Differentially Expressed in Rheumatoid Arthritis",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      },
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud, Enfermedades Crónicas"
+  },
+  {
+    "año": 2021,
+    "numero": 44,
+    "titulo": "Vitamin D Levels in COVID-19 Outpatients from Western Mexico: Clinical Correlation and Effect of Its Supplementation",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2021,
+    "numero": 45,
+    "titulo": "A review: Antibody-dependent enhancement in COVID-19: The not so friendly side of antibodies",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2021,
+    "numero": 46,
+    "titulo": "Enfermedades reumáticas y alergias la dualidad del sistema inmunológico",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2021,
+    "numero": 47,
+    "titulo": "Validation of semiquantitative FFQ administered to adults: a systematic review",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2021,
+    "numero": 48,
+    "titulo": "Participación de la vitamina A en la producción de IgA secretora en el epitelio del tracto respiratorio",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2021,
+    "numero": 49,
+    "titulo": "Potential immunomodulatory effects of vitamin D in the prevention of severe coronavirus disease 2019",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2021,
+    "numero": 51,
+    "titulo": "Neck and Wrist Circumferences as Indicators of Metabolic Alterations in the Pediatric Population: A Scoping Review",
+    "pronaces_principales": [
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Enfermedades Crónicas"
+  },
+  {
+    "año": 2021,
+    "numero": 52,
+    "titulo": "RT-qPCR Assays for Rapid Detection of the N501Y 69-70del K417N and E484K SARS-CoV-2 Mutations",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2021,
+    "numero": 53,
+    "titulo": "A Comprehensive Descriptive Epidemiological and Clinical Analysis of SARS-CoV-2 in West-Mexico during COVID-19 Pandemic 2020",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2021,
+    "numero": 54,
+    "titulo": "Association between IL-17A IL-17F and IL-17RA gene polymorphisms and susceptibility to psoriasis and psoriatic arthritis",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      },
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud, Enfermedades Crónicas"
+  },
+  {
+    "año": 2021,
+    "numero": 55,
+    "titulo": "Macrophage migration inhibitory factor: A promising oncogenic serological biomarker for oral squamous cell carcinoma",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2022,
+    "numero": 1,
+    "titulo": "Escherichia/Shigella SCFAs and Metabolic Pathways-The Triad That Orchestrates Intestinal Dysbiosis",
+    "pronaces_principales": [
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Enfermedades Crónicas"
+  },
+  {
+    "año": 2022,
+    "numero": 2,
+    "titulo": "Emotional Eating and Dietary Patterns: Reflecting Food Choices in People with and without Abdominal Obesity",
+    "pronaces_principales": [
+      {
+        "codigo": "SISTEMAS_ALIMENTARIOS",
+        "nombre": "Sistemas Alimentarios"
+      },
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      },
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Sistemas Alimentarios, Salud, Enfermedades Crónicas"
+  },
+  {
+    "año": 2022,
+    "numero": 3,
+    "titulo": "Therapeutic response to leflunomide in combo therapy and monotherapy is associated to serum teriflunomide levels",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2022,
+    "numero": 4,
+    "titulo": "Breastfeeding training in Mexican health students may not be enough: A case analysis",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      },
+      {
+        "codigo": "SISTEMAS_ALIMENTARIOS",
+        "nombre": "Sistemas Alimentarios"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud, Sistemas Alimentarios"
+  },
+  {
+    "año": 2022,
+    "numero": 5,
+    "titulo": "The Effect of Dietary Interventions on Hypertriglyceridemia: From Public Health to Molecular Nutrition Evidence",
+    "pronaces_principales": [
+      {
+        "codigo": "SISTEMAS_ALIMENTARIOS",
+        "nombre": "Sistemas Alimentarios"
+      },
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Sistemas Alimentarios, Salud"
+  },
+  {
+    "año": 2022,
+    "numero": 6,
+    "titulo": "Methodological Aspects in Randomized Clinical Trials of Nutritional Interventions",
+    "pronaces_principales": [
+      {
+        "codigo": "SISTEMAS_ALIMENTARIOS",
+        "nombre": "Sistemas Alimentarios"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Sistemas Alimentarios"
+  },
+  {
+    "año": 2022,
+    "numero": 7,
+    "titulo": "Psychological responses to COVID-19 in a Mexican population: an exploratory study during second and third phases",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2022,
+    "numero": 8,
+    "titulo": "The Reproducibility and Relative Validity of a Food Frequency Questionnaire for Identifying Iron-Related Dietary Patterns",
+    "pronaces_principales": [
+      {
+        "codigo": "SISTEMAS_ALIMENTARIOS",
+        "nombre": "Sistemas Alimentarios"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Sistemas Alimentarios"
+  },
+  {
+    "año": 2022,
+    "numero": 9,
+    "titulo": "Trace elements in blood of Baltic gray seal pups from the Gulf of Riga and their relationship with biochemical parameters",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2022,
+    "numero": 10,
+    "titulo": "The growing need to monitor the liver function after SARS-CoV-2 infection in the Mexican population with obesity",
+    "pronaces_principales": [
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      },
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Enfermedades Crónicas, Salud"
+  },
+  {
+    "año": 2022,
+    "numero": 11,
+    "titulo": "A First Record of Organochlorine Pesticides in Barn Owls from Portugal",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2022,
+    "numero": 12,
+    "titulo": "Role of Leu72Met of GHRL and Gln223Arg of LEPR Variants on Food Intake Subjective Appetite and Hunger-Satiety Hormones",
+    "pronaces_principales": [
+      {
+        "codigo": "SISTEMAS_ALIMENTARIOS",
+        "nombre": "Sistemas Alimentarios"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Sistemas Alimentarios"
+  },
+  {
+    "año": 2022,
+    "numero": 13,
+    "titulo": "Effect of Metformin on Glycemic Control Regarding Carriers of the SLC22A1/OCT1 Polymorphism",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      },
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud, Enfermedades Crónicas"
+  },
+  {
+    "año": 2023,
+    "numero": 1,
+    "titulo": "Physical Activity Protocols in Non-Alcoholic Fatty Liver Disease Management: A Systematic Review",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      },
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud, Enfermedades Crónicas"
+  },
+  {
+    "año": 2023,
+    "numero": 2,
+    "titulo": "Food insecurity was negatively associated with adherence to the fruits vegetables dietary pattern",
+    "pronaces_principales": [
+      {
+        "codigo": "SISTEMAS_ALIMENTARIOS",
+        "nombre": "Sistemas Alimentarios"
+      },
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Sistemas Alimentarios, Salud"
+  },
+  {
+    "año": 2023,
+    "numero": 3,
+    "titulo": "Nutritional biochemical and clinical determinants of hyperuricemia in systemic lupus erythematosus patients",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      },
+      {
+        "codigo": "SISTEMAS_ALIMENTARIOS",
+        "nombre": "Sistemas Alimentarios"
+      },
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud, Sistemas Alimentarios, Enfermedades Crónicas"
+  },
+  {
+    "año": 2023,
+    "numero": 4,
+    "titulo": "Severe COVID-19: Drugs and Clinical Trials",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2023,
+    "numero": 5,
+    "titulo": "Immunostimulant effects of diet supplementation with yellow white and black sapote nanocapsules on laying hens",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      },
+      {
+        "codigo": "SISTEMAS_ALIMENTARIOS",
+        "nombre": "Sistemas Alimentarios"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud, Sistemas Alimentarios"
+  },
+  {
+    "año": 2023,
+    "numero": 6,
+    "titulo": "Low glycemic index common bean snack increased satiety without modifying energy intake in adults with normal weight",
+    "pronaces_principales": [
+      {
+        "codigo": "SISTEMAS_ALIMENTARIOS",
+        "nombre": "Sistemas Alimentarios"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Sistemas Alimentarios"
+  },
+  {
+    "año": 2023,
+    "numero": 7,
+    "titulo": "A systematic review of educational nutrition interventions based on behavioral theories in school adolescents",
+    "pronaces_principales": [
+      {
+        "codigo": "SISTEMAS_ALIMENTARIOS",
+        "nombre": "Sistemas Alimentarios"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Sistemas Alimentarios"
+  },
+  {
+    "año": 2023,
+    "numero": 8,
+    "titulo": "Evening types as determined by subjective and objective measures are more emotional eaters",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      },
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud, Enfermedades Crónicas"
+  },
+  {
+    "año": 2023,
+    "numero": 9,
+    "titulo": "A mix of ginger phenols exhibits anti‑adipogenic and lipolytic effects in mature adipocytes derived from 3T3‑L1 cells",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2023,
+    "numero": 10,
+    "titulo": "A Balanced Dietary Ratio of n-6:n-3 Polyunsaturated Fatty Acids Exerts an Effect on Total Fatty Acid Profile",
+    "pronaces_principales": [
+      {
+        "codigo": "SISTEMAS_ALIMENTARIOS",
+        "nombre": "Sistemas Alimentarios"
+      },
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Sistemas Alimentarios, Salud"
+  },
+  {
+    "año": 2023,
+    "numero": 11,
+    "titulo": "Skinfold Thickness as a Cardiometabolic Risk Predictor in Sedentary and Active Adult Populations",
+    "pronaces_principales": [
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Enfermedades Crónicas"
+  },
+  {
+    "año": 2023,
+    "numero": 12,
+    "titulo": "The Influence of Lifestyle on High-Density Lipoprotein Concentration among Mexican Emerging Adults",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2023,
+    "numero": 13,
+    "titulo": "FTO genotypes (rs9939609 T>A) are Associated with Increased Added Sugar Intake in Healthy Young Adults",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      },
+      {
+        "codigo": "SISTEMAS_ALIMENTARIOS",
+        "nombre": "Sistemas Alimentarios"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud, Sistemas Alimentarios"
+  },
+  {
+    "año": 2023,
+    "numero": 14,
+    "titulo": "Effects of Foods of Mesoamerican Origin in Adipose Tissue and Liver-Related Metabolism",
+    "pronaces_principales": [
+      {
+        "codigo": "SISTEMAS_ALIMENTARIOS",
+        "nombre": "Sistemas Alimentarios"
+      },
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Sistemas Alimentarios, Enfermedades Crónicas"
+  },
+  {
+    "año": 2023,
+    "numero": 15,
+    "titulo": "Breastfeeding-Related Health Benefits in Children and Mothers: Vital Organs Perspective",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      },
+      {
+        "codigo": "SISTEMAS_ALIMENTARIOS",
+        "nombre": "Sistemas Alimentarios"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud, Sistemas Alimentarios"
+  },
+  {
+    "año": 2023,
+    "numero": 16,
+    "titulo": "A Nutrigenetic Strategy for Reducing Blood Lipids and Low-Grade Inflammation in Adults with Obesity and Overweight",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      },
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud, Enfermedades Crónicas"
+  },
+  {
+    "año": 2023,
+    "numero": 17,
+    "titulo": "Elevated Serum Low-Density Lipoproteins-Cholesterol Levels and B1B2/B2B2 CETP Genotype Are Positively Associated",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2023,
+    "numero": 18,
+    "titulo": "Abdominal Obesity Excessive Adiposity and the Taq1B CETP Variant Are Positively Associated with Serum Lipid Levels",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      },
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud, Enfermedades Crónicas"
+  },
+  {
+    "año": 2023,
+    "numero": 19,
+    "titulo": "Methyl Donor Micronutrients: A Potential Dietary Epigenetic Target in Systemic Lupus Erythematosus Patients",
+    "pronaces_principales": [
+      {
+        "codigo": "SISTEMAS_ALIMENTARIOS",
+        "nombre": "Sistemas Alimentarios"
+      },
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      },
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Sistemas Alimentarios, Salud, Enfermedades Crónicas"
+  },
+  {
+    "año": 2023,
+    "numero": 20,
+    "titulo": "Association of - 717 A > G (rs2794521) CRP polymorphism with high cardiovascular risk by C-reactive protein",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      },
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud, Enfermedades Crónicas"
+  },
+  {
+    "año": 2023,
+    "numero": 21,
+    "titulo": "Nutritional Approaches to Modulate Cardiovascular Disease Risk in Systemic Lupus Erythematosus: A Literature Review",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      },
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      },
+      {
+        "codigo": "SISTEMAS_ALIMENTARIOS",
+        "nombre": "Sistemas Alimentarios"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud, Enfermedades Crónicas, Sistemas Alimentarios"
+  },
+  {
+    "año": 2023,
+    "numero": 22,
+    "titulo": "10‑Gingerol a novel ginger compound exhibits antiadipogenic effects without compromising cell viability in 3T3‑L1 cells",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2023,
+    "numero": 23,
+    "titulo": "Lipid-Related Genetic Variants for Personalized Dietary Interventions: A Systematic Review",
+    "pronaces_principales": [
+      {
+        "codigo": "SISTEMAS_ALIMENTARIOS",
+        "nombre": "Sistemas Alimentarios"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Sistemas Alimentarios"
+  },
+  {
+    "año": 2023,
+    "numero": 24,
+    "titulo": "Medical nutrition therapy in patients receiving extracorporeal membrane oxygenation: knowledge in progress",
+    "pronaces_principales": [
+      {
+        "codigo": "SISTEMAS_ALIMENTARIOS",
+        "nombre": "Sistemas Alimentarios"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Sistemas Alimentarios"
+  },
+  {
+    "año": 2023,
+    "numero": 25,
+    "titulo": "FAAH Pro129Thr Variant Is Associated with Increased Cholesterol Levels in Normal-Weight Metabolically Unhealthy Subjects",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      },
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud, Enfermedades Crónicas"
+  },
+  {
+    "año": 2023,
+    "numero": 26,
+    "titulo": "Development characterization and immunomodulation performance of spray-dried Moringa oleifera seed extract",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2023,
+    "numero": 27,
+    "titulo": "Vitamin D in Depression: A Potential Bioactive Agent to Reduce Suicide and Suicide Attempt Risk",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2023,
+    "numero": 28,
+    "titulo": "Effect of Human Adenovirus 36 on Response to Metformin Monotherapy in Obese Mexican Patients with Type 2 Diabetes",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      },
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud, Enfermedades Crónicas"
+  },
+  {
+    "año": 2023,
+    "numero": 29,
+    "titulo": "Pharmacomicrobiomics and Drug-Infection Interactions: The Impact of Commensal Symbiotic and Pathogenic Microorganisms",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2023,
+    "numero": 30,
+    "titulo": "Association of intestinal dysbiosis with susceptibility to multiple sclerosis: Evidence from different population studies",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2023,
+    "numero": 31,
+    "titulo": "A Commentary on: Serum Trace Element Concentrations in Rheumatoid Arthritis",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      },
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud, Enfermedades Crónicas"
+  },
+  {
+    "año": 2023,
+    "numero": 32,
+    "titulo": "Relationship between lipid profile anthropometric indicators and appetite- regulating hormones in infants",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2023,
+    "numero": 33,
+    "titulo": "Lifestyle mediators of associations among siestas obesity and metabolic health",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      },
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud, Enfermedades Crónicas"
+  },
+  {
+    "año": 2024,
+    "numero": 1,
+    "titulo": "A Two-Faced Gut Microbiome: Butyrogenic and Proinflammatory Bacteria Predominate in People Living with HIV",
+    "pronaces_principales": [
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Enfermedades Crónicas"
+  },
+  {
+    "año": 2024,
+    "numero": 2,
+    "titulo": "Beyond the Classroom: The Influence of Food Insecurity Mental Health and Sleep Quality on University Students",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      },
+      {
+        "codigo": "SISTEMAS_ALIMENTARIOS",
+        "nombre": "Sistemas Alimentarios"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud, Sistemas Alimentarios"
+  },
+  {
+    "año": 2024,
+    "numero": 3,
+    "titulo": "Acute Antioxidant Response to Two Types of Exercises: 2000 M Run vs. Burpee Test",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2024,
+    "numero": 4,
+    "titulo": "Transcriptional and epigenetic changes after dietary and surgical weight loss interventions",
+    "pronaces_principales": [
+      {
+        "codigo": "SISTEMAS_ALIMENTARIOS",
+        "nombre": "Sistemas Alimentarios"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Sistemas Alimentarios"
+  },
+  {
+    "año": 2024,
+    "numero": 7,
+    "titulo": "Educational Nutritional Intervention Program for Adolescents Based on Social Cognitive Theory",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      },
+      {
+        "codigo": "SISTEMAS_ALIMENTARIOS",
+        "nombre": "Sistemas Alimentarios"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud, Sistemas Alimentarios"
+  },
+  {
+    "año": 2024,
+    "numero": 8,
+    "titulo": "Positive correlation between n- 6:n-3 PUFA ratio intake with serum oxHDL/HDL-c ratio in patients with coronary artery disease",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      },
+      {
+        "codigo": "SISTEMAS_ALIMENTARIOS",
+        "nombre": "Sistemas Alimentarios"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud, Sistemas Alimentarios"
+  },
+  {
+    "año": 2024,
+    "numero": 9,
+    "titulo": "Social representations of breastfeeding in health science students: A first step to strengthening their training",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      },
+      {
+        "codigo": "SISTEMAS_ALIMENTARIOS",
+        "nombre": "Sistemas Alimentarios"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud, Sistemas Alimentarios"
+  },
+  {
+    "año": 2024,
+    "numero": 10,
+    "titulo": "Loss of the Y Chromosome: A Review of Molecular Mechanisms Age Inference and Implications for Men's Health",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2024,
+    "numero": 11,
+    "titulo": "Genetic risk score for insulin resistance based on gene variants associated to amino acid metabolism in young adults",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2024,
+    "numero": 12,
+    "titulo": "Low 25-Hydroxyvitamin D Levels as a Predictor of Depressive Symptoms: Evidence from Community- Dwelling Older Adults",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2024,
+    "numero": 13,
+    "titulo": "Association between the FAAH C385A variant (rs324420) and obesity-related traits: a systematic review",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      },
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud, Enfermedades Crónicas"
+  },
+  {
+    "año": 2024,
+    "numero": 14,
+    "titulo": "Effect of coffee intake on appetite parameters in woman with overweight or obesity: A pilot crossover randomized trial",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      },
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      },
+      {
+        "codigo": "SISTEMAS_ALIMENTARIOS",
+        "nombre": "Sistemas Alimentarios"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud, Enfermedades Crónicas, Sistemas Alimentarios"
+  },
+  {
+    "año": 2024,
+    "numero": 15,
+    "titulo": "Relationship Between Serum Levels of Oxidized Lipoproteins Circulating Levels of Myeloperoxidase and Paraoxonase 1",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2024,
+    "numero": 16,
+    "titulo": "FTO rs9939609: T>A Variant and Physical Inactivity as Important Risk Factors for Class III Obesity",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      },
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud, Enfermedades Crónicas"
+  },
+  {
+    "año": 2024,
+    "numero": 17,
+    "titulo": "Contribution of extracellular vesicles to steatosis-related liver disease and their therapeutic potential",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      },
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud, Enfermedades Crónicas"
+  },
+  {
+    "año": 2024,
+    "numero": 18,
+    "titulo": "Clusters of Sociodemographic Characteristics and Their Association with Food Insecurity in Mexican University Students",
+    "pronaces_principales": [
+      {
+        "codigo": "SISTEMAS_ALIMENTARIOS",
+        "nombre": "Sistemas Alimentarios"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Sistemas Alimentarios"
+  },
+  {
+    "año": 2024,
+    "numero": 19,
+    "titulo": "Association of c.+677 C>T and c.+1298 A>C MTHFR genetic variants with cardiometabolic and disease risk",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      },
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud, Enfermedades Crónicas"
+  },
+  {
+    "año": 2024,
+    "numero": 20,
+    "titulo": "10-Gingerol reduces cytoplasmic lipid droplets and induces lipolysis in 3T3-L1 adipocytes",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2024,
+    "numero": 21,
+    "titulo": "10-Gingerol Increases Antioxidant Enzymes and Attenuates Lipopolysaccharide-Induced Inflammation",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2024,
+    "numero": 22,
+    "titulo": "FADS1 Genetic Variant and Omega-3 Supplementation Are Associated with Changes in Fatty Acid Composition",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2024,
+    "numero": 23,
+    "titulo": "Analysis of Potential Vitamin D Molecule Biomarkers: Association of Calcitriol and Its Hydroxylation Efficiency Ratio",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2024,
+    "numero": 24,
+    "titulo": "H3K9me3 demethylation by JMJD2B is regulated by pirfenidone resulting in improved NASH",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2024,
+    "numero": 25,
+    "titulo": "Relationship of serum and dietary vitamin D with high cardiometabolic risk in Mexican systemic lupus erythematosus patients",
+    "pronaces_principales": [
+      {
+        "codigo": "SISTEMAS_ALIMENTARIOS",
+        "nombre": "Sistemas Alimentarios"
+      },
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      },
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Sistemas Alimentarios, Enfermedades Crónicas, Salud"
+  },
+  {
+    "año": 2024,
+    "numero": 26,
+    "titulo": "Updated-Food Choice Questionnaire: Cultural Adaptation and Validation in a Spanish-Speaking Population from Mexico",
+    "pronaces_principales": [
+      {
+        "codigo": "SISTEMAS_ALIMENTARIOS",
+        "nombre": "Sistemas Alimentarios"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Sistemas Alimentarios"
+  },
+  {
+    "año": 2024,
+    "numero": 27,
+    "titulo": "Comparison of repeatability of subjective appetite sensations in men and women at different menstrual cycle phase",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2024,
+    "numero": 28,
+    "titulo": "Effects of Physical Activity on Cognition Behavior and Motor Skills in Youth with Autism Spectrum Disorder",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2024,
+    "numero": 29,
+    "titulo": "Modulatory L-Alliin Effect on Acute Inflammatory Cytokines in Diet-Induced Obesity Mice",
+    "pronaces_principales": [
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      },
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      },
+      {
+        "codigo": "SISTEMAS_ALIMENTARIOS",
+        "nombre": "Sistemas Alimentarios"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Enfermedades Crónicas, Salud, Sistemas Alimentarios"
+  },
+  {
+    "año": 2024,
+    "numero": 30,
+    "titulo": "The Role of Diet and Physical Activity in Shaping COVID-19 Severity",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      },
+      {
+        "codigo": "SISTEMAS_ALIMENTARIOS",
+        "nombre": "Sistemas Alimentarios"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud, Sistemas Alimentarios"
+  },
+  {
+    "año": 2025,
+    "numero": 1,
+    "titulo": "First record of trace elements in cetaceans stranded along the Asturias Coastline Northwest Spain",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2025,
+    "numero": 2,
+    "titulo": "Macrophage migration inhibitory factor: Exploring physiological roles and comparing health benefits",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2025,
+    "numero": 3,
+    "titulo": "The Role of TLRs in Obesity and Its Related Metabolic Disorders",
+    "pronaces_principales": [
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      },
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Enfermedades Crónicas, Salud"
+  },
+  {
+    "año": 2025,
+    "numero": 4,
+    "titulo": "Chrononutrition in Chronic Kidney Disease",
+    "pronaces_principales": [
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      },
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      },
+      {
+        "codigo": "SISTEMAS_ALIMENTARIOS",
+        "nombre": "Sistemas Alimentarios"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Enfermedades Crónicas, Salud, Sistemas Alimentarios"
+  },
+  {
+    "año": 2025,
+    "numero": 5,
+    "titulo": "Assembly and activation of the NLRP3 inflammasome and cytokine quantification in response to exercise",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2025,
+    "numero": 6,
+    "titulo": "Phenotype-Driven Variability in Longitudinal Body Composition Changes After a Very Low-Calorie Ketogenic Intervention",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2025,
+    "numero": 7,
+    "titulo": "Industrial Applications Principal Sources and Extraction of Galactomannans: A Review",
+    "pronaces_principales": [
+      {
+        "codigo": "SISTEMAS_ALIMENTARIOS",
+        "nombre": "Sistemas Alimentarios"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Sistemas Alimentarios"
+  },
+  {
+    "año": 2025,
+    "numero": 8,
+    "titulo": "Malnutrition in Substance Use Disorders: A Critical Issue in Their Treatment and Recovery",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      },
+      {
+        "codigo": "SISTEMAS_ALIMENTARIOS",
+        "nombre": "Sistemas Alimentarios"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud, Sistemas Alimentarios"
+  },
+  {
+    "año": 2025,
+    "numero": 10,
+    "titulo": "Dietary n-6:n-3 PUFA Ratio Modulates Inflammation-Related Gene Expression and Influences Improvements",
+    "pronaces_principales": [
+      {
+        "codigo": "SISTEMAS_ALIMENTARIOS",
+        "nombre": "Sistemas Alimentarios"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Sistemas Alimentarios"
+  },
+  {
+    "año": 2025,
+    "numero": 11,
+    "titulo": "Modulation of the Inflammatory Response by Adenovirus 36 in Patients with Obesity and Type 2 Diabetes",
+    "pronaces_principales": [
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      },
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Enfermedades Crónicas, Salud"
+  },
+  {
+    "año": 2025,
+    "numero": 12,
+    "titulo": "Phenolic Compounds and Anthocyanins in Legumes and Their Impact on Inflammation Oxidative Stress and Metabolism",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2025,
+    "numero": 13,
+    "titulo": "Serum OxLDL Levels Are Positively Associated with the Number of Ischemic Events and Damaged Blood Vessels",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2025,
+    "numero": 14,
+    "titulo": "Immunometabolic Effects of Ginger Supplementation in Obesity: A Comprehensive Review",
+    "pronaces_principales": [
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      },
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Enfermedades Crónicas, Salud"
+  },
+  {
+    "año": 2025,
+    "numero": 15,
+    "titulo": "A mixture of ginger phenolic compounds enhances mitochondrial function activates AMPK and reduces lipid accumulation",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2025,
+    "numero": 16,
+    "titulo": "Guidance and Position of RINN22 regarding Precision Nutrition and Nutriomics",
+    "pronaces_principales": [
+      {
+        "codigo": "SISTEMAS_ALIMENTARIOS",
+        "nombre": "Sistemas Alimentarios"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Sistemas Alimentarios"
+  },
+  {
+    "año": 2025,
+    "numero": 17,
+    "titulo": "Associations of Sociodemographic Characteristics with Food Choice Motives' Importance Among Mexican Adults",
+    "pronaces_principales": [
+      {
+        "codigo": "SISTEMAS_ALIMENTARIOS",
+        "nombre": "Sistemas Alimentarios"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Sistemas Alimentarios"
+  },
+  {
+    "año": 2025,
+    "numero": 18,
+    "titulo": "Perfil eritrocitario y dietético de ácidos grasos omega-3 en mujeres embarazadas con sobrepeso u obesidad",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      },
+      {
+        "codigo": "SISTEMAS_ALIMENTARIOS",
+        "nombre": "Sistemas Alimentarios"
+      },
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud, Sistemas Alimentarios, Enfermedades Crónicas"
+  },
+  {
+    "año": 2025,
+    "numero": 19,
+    "titulo": "Design and Optimization of a Second-Generation Extruded Snack Using Carrot Waste Blue Corn Flour and Ellagic Acid",
+    "pronaces_principales": [
+      {
+        "codigo": "SISTEMAS_ALIMENTARIOS",
+        "nombre": "Sistemas Alimentarios"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Sistemas Alimentarios"
+  },
+  {
+    "año": 2025,
+    "numero": 20,
+    "titulo": "The blood pressure lowering effect of beetroot juice is impaired in periodontitis",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  },
+  {
+    "año": 2025,
+    "numero": 21,
+    "titulo": "Uncoupling Proteins Variants Are Linked to Hypercholesterolemia and Abdominal Obesity in Metabolically Unhealthy Women",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      },
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud, Enfermedades Crónicas"
+  },
+  {
+    "año": 2025,
+    "numero": 22,
+    "titulo": "Mutual Impact of Dietary Antioxidants and TNF-α rs1800629 on Insulin Levels in Adults with Obesity",
+    "pronaces_principales": [
+      {
+        "codigo": "SISTEMAS_ALIMENTARIOS",
+        "nombre": "Sistemas Alimentarios"
+      },
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      },
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Sistemas Alimentarios, Salud, Enfermedades Crónicas"
+  },
+  {
+    "año": 2025,
+    "numero": 23,
+    "titulo": "Effect of a Supervised Aerobic Exercise Training Program and Ginkgo Biloba Extract on Metabolic Parameters",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      },
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud, Enfermedades Crónicas"
+  },
+  {
+    "año": 2025,
+    "numero": 24,
+    "titulo": "Effect of a Diet Supplemented with Marine Omega-3 Fatty Acids on Inflammatory Markers in Subjects with Obesity",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      },
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      },
+      {
+        "codigo": "SISTEMAS_ALIMENTARIOS",
+        "nombre": "Sistemas Alimentarios"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud, Enfermedades Crónicas, Sistemas Alimentarios"
+  },
+  {
+    "año": 2025,
+    "numero": 25,
+    "titulo": "Sex differences in the prevalence and profile of metabolic syndrome in self-appointed healthy adults",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      },
+      {
+        "codigo": "ENFERMEDADES_CRONICAS",
+        "nombre": "Enfermedades Crónicas"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud, Enfermedades Crónicas"
+  },
+  {
+    "año": 2025,
+    "numero": 26,
+    "titulo": "Carboxylated Osteocalcin as an Independent Predictor of Mean Arterial Pressure and the Atherogenic Index in Adults",
+    "pronaces_principales": [
+      {
+        "codigo": "SALUD",
+        "nombre": "Salud"
+      }
+    ],
+    "justificacion": "Clasificación basada en análisis temático de Salud"
+  }
+]

@@ -1,0 +1,4924 @@
+[
+  {
+    "año": 2019,
+    "numero": 1,
+    "titulo": "β-Caryophyllene a Natural Sesquiterpene Attenuates Neuropathic Pain and Depressive-Like Behavior in Experimental Diabetic Mice",
+    "temas": [
+      {
+        "nombre": "DIABETES"
+      }
+    ],
+    "tema_principal": "DIABETES",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "attenuates",
+      "depressive",
+      "caryophyllene",
+      "experimental",
+      "natural"
+    ],
+    "problema_abordado": "Investigación en diabetes"
+  },
+  {
+    "año": 2019,
+    "numero": 2,
+    "titulo": "Circulating soluble levels of MIF in women with breast cancer in the molecular subtypes: relationship with Th17 cytokine profile",
+    "temas": [
+      {
+        "nombre": "CANCER"
+      },
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "CANCER",
+    "temas_secundarios": [
+      "INFLAMACION_METABOLICA"
+    ],
+    "palabras_clave": [
+      "levels",
+      "women",
+      "subtypes",
+      "soluble",
+      "breast"
+    ],
+    "problema_abordado": "Investigación en cancer"
+  },
+  {
+    "año": 2019,
+    "numero": 3,
+    "titulo": "A differential sex-specific pattern of IgG2 and IgG4 subclasses of anti-drug antibodies (ADAs) induced by glatiramer acetate in relapsing-remitting multiple sclerosis patients",
+    "temas": [
+      {
+        "nombre": "ENFERMEDADES_AUTOINMUNES"
+      }
+    ],
+    "tema_principal": "ENFERMEDADES_AUTOINMUNES",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "differential",
+      "subclasses",
+      "acetate",
+      "induced",
+      "antibodies"
+    ],
+    "problema_abordado": "Investigación en enfermedades autoinmunes"
+  },
+  {
+    "año": 2019,
+    "numero": 4,
+    "titulo": "Macrophage migration inhibitory factor polymorphisms are a potential susceptibility marker in systemic sclerosis from southern Mexican population",
+    "temas": [
+      {
+        "nombre": "ENFERMEDADES_AUTOINMUNES"
+      },
+      {
+        "nombre": "GENETICA_NUTRICION"
+      }
+    ],
+    "tema_principal": "ENFERMEDADES_AUTOINMUNES",
+    "temas_secundarios": [
+      "GENETICA_NUTRICION"
+    ],
+    "palabras_clave": [
+      "marker",
+      "systemic",
+      "sclerosis",
+      "polymorphisms",
+      "susceptibility"
+    ],
+    "problema_abordado": "Investigación en enfermedades autoinmunes"
+  },
+  {
+    "año": 2019,
+    "numero": 5,
+    "titulo": "Epigenetic Modifications as Outcomes of Exercise Interventions Related to Specific Metabolic Alterations: A Systematic Review",
+    "temas": [
+      {
+        "nombre": "GENETICA_NUTRICION"
+      },
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      },
+      {
+        "nombre": "ACTIVIDAD_FISICA"
+      }
+    ],
+    "tema_principal": "GENETICA_NUTRICION",
+    "temas_secundarios": [
+      "INFLAMACION_METABOLICA",
+      "ACTIVIDAD_FISICA"
+    ],
+    "palabras_clave": [
+      "systematic",
+      "interventions",
+      "alterations",
+      "epigenetic",
+      "outcomes"
+    ],
+    "problema_abordado": "Investigación en genetica nutricion"
+  },
+  {
+    "año": 2019,
+    "numero": 6,
+    "titulo": "B-cell activating factor receptor expression is associated with germinal center B-cell maintenance",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "associated",
+      "expression",
+      "activating",
+      "center",
+      "germinal"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2019,
+    "numero": 7,
+    "titulo": "Association between TLR4 polymorphisms and virulence factors in uropathogenic Escherichia coli",
+    "temas": [
+      {
+        "nombre": "GENETICA_NUTRICION"
+      }
+    ],
+    "tema_principal": "GENETICA_NUTRICION",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "virulence",
+      "uropathogenic",
+      "polymorphisms",
+      "escherichia",
+      "association"
+    ],
+    "problema_abordado": "Investigación en genetica nutricion"
+  },
+  {
+    "año": 2019,
+    "numero": 8,
+    "titulo": "IL10 haplotypes are associated with diabetic nephropathy susceptibility in patients from western Mexico",
+    "temas": [
+      {
+        "nombre": "DIABETES"
+      }
+    ],
+    "tema_principal": "DIABETES",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "western",
+      "associated",
+      "diabetic",
+      "mexico",
+      "haplotypes"
+    ],
+    "problema_abordado": "Investigación en diabetes"
+  },
+  {
+    "año": 2019,
+    "numero": 9,
+    "titulo": "Analysis of the rs2476601 polymorphism of PTPN22 in Mexican mestizo patients with leprosy",
+    "temas": [
+      {
+        "nombre": "GENETICA_NUTRICION"
+      }
+    ],
+    "tema_principal": "GENETICA_NUTRICION",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "analysis",
+      "mexican",
+      "polymorphism",
+      "mestizo",
+      "leprosy"
+    ],
+    "problema_abordado": "Investigación en genetica nutricion"
+  },
+  {
+    "año": 2019,
+    "numero": 10,
+    "titulo": "Impact of the gene-gene interactions related to the HIF-1α signaling pathway with the knee osteoarthritis development",
+    "temas": [
+      {
+        "nombre": "ENFERMEDADES_AUTOINMUNES"
+      },
+      {
+        "nombre": "GENETICA_NUTRICION"
+      }
+    ],
+    "tema_principal": "ENFERMEDADES_AUTOINMUNES",
+    "temas_secundarios": [
+      "GENETICA_NUTRICION"
+    ],
+    "palabras_clave": [
+      "interactions",
+      "signaling",
+      "osteoarthritis",
+      "pathway",
+      "related"
+    ],
+    "problema_abordado": "Investigación en enfermedades autoinmunes"
+  },
+  {
+    "año": 2019,
+    "numero": 11,
+    "titulo": "Hormonal modulation of Toxoplasma gondii infection: Regulation of hormonal receptors and cytokine production in THP-1 cells",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "regulation",
+      "receptors",
+      "cytokine",
+      "hormonal",
+      "toxoplasma"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2019,
+    "numero": 12,
+    "titulo": "Functional MIF promoter haplotypes modulate Th17-related cytokine expression in peripheral blood mononuclear cells",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "blood",
+      "expression",
+      "modulate",
+      "haplotypes",
+      "cytokine"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2019,
+    "numero": 14,
+    "titulo": "GPER Overexpression in Cervical Cancer Versus Premalignant Lesions: Its Activation Induces Different Forms of Cell Death",
+    "temas": [
+      {
+        "nombre": "CANCER"
+      }
+    ],
+    "tema_principal": "CANCER",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "lesions",
+      "versus",
+      "activation",
+      "different",
+      "overexpression"
+    ],
+    "problema_abordado": "Investigación en cancer"
+  },
+  {
+    "año": 2019,
+    "numero": 15,
+    "titulo": "Concentration of ghrelin and leptin in serum and human milk in nursing mothers according to the type of feeding",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "nursing",
+      "serum",
+      "human",
+      "leptin",
+      "concentration"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2019,
+    "numero": 16,
+    "titulo": "TNFA -308G>A and -238G>A polymorphisms and risk to systemic sclerosis",
+    "temas": [
+      {
+        "nombre": "ENFERMEDADES_AUTOINMUNES"
+      },
+      {
+        "nombre": "GENETICA_NUTRICION"
+      }
+    ],
+    "tema_principal": "ENFERMEDADES_AUTOINMUNES",
+    "temas_secundarios": [
+      "GENETICA_NUTRICION"
+    ],
+    "palabras_clave": [
+      "polymorphisms",
+      "systemic",
+      "sclerosis"
+    ],
+    "problema_abordado": "Investigación en enfermedades autoinmunes"
+  },
+  {
+    "año": 2019,
+    "numero": 17,
+    "titulo": "Association of CD28 and CTLA4 haplotypes with susceptibility to primary Sjögren's syndrome in Mexican population",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "mexican",
+      "haplotypes",
+      "susceptibility",
+      "syndrome",
+      "population"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2019,
+    "numero": 18,
+    "titulo": "KIR/HLA Gene Profile Implication in Systemic Sclerosis Patients from Mexico",
+    "temas": [
+      {
+        "nombre": "ENFERMEDADES_AUTOINMUNES"
+      },
+      {
+        "nombre": "GENETICA_NUTRICION"
+      }
+    ],
+    "tema_principal": "ENFERMEDADES_AUTOINMUNES",
+    "temas_secundarios": [
+      "GENETICA_NUTRICION"
+    ],
+    "palabras_clave": [
+      "systemic",
+      "sclerosis",
+      "mexico",
+      "implication",
+      "profile"
+    ],
+    "problema_abordado": "Investigación en enfermedades autoinmunes"
+  },
+  {
+    "año": 2019,
+    "numero": 19,
+    "titulo": "High BAFF expression associated with active disease in systemic lupus erythematosus",
+    "temas": [
+      {
+        "nombre": "ENFERMEDADES_AUTOINMUNES"
+      }
+    ],
+    "tema_principal": "ENFERMEDADES_AUTOINMUNES",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "associated",
+      "systemic",
+      "expression",
+      "disease",
+      "lupus"
+    ],
+    "problema_abordado": "Investigación en enfermedades autoinmunes"
+  },
+  {
+    "año": 2019,
+    "numero": 20,
+    "titulo": "Frequency and Risk Factors of Kidney Alterations in Children and Adolescents who Are Overweight and Obese",
+    "temas": [
+      {
+        "nombre": "OBESIDAD_SOBREPESO"
+      }
+    ],
+    "tema_principal": "OBESIDAD_SOBREPESO",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "adolescents",
+      "alterations",
+      "frequency",
+      "kidney",
+      "children"
+    ],
+    "problema_abordado": "Investigación en obesidad sobrepeso"
+  },
+  {
+    "año": 2019,
+    "numero": 21,
+    "titulo": "Analysis of Genetic Variation in CD40 and CD40L: Relationship with mRNA Relative Expression and Soluble Proteins",
+    "temas": [
+      {
+        "nombre": "GENETICA_NUTRICION"
+      }
+    ],
+    "tema_principal": "GENETICA_NUTRICION",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "analysis",
+      "genetic",
+      "expression",
+      "soluble",
+      "proteins"
+    ],
+    "problema_abordado": "Investigación en genetica nutricion"
+  },
+  {
+    "año": 2019,
+    "numero": 22,
+    "titulo": "Interleukin-1 Alpha Polymorphisms Are Associated With Body Mass Index in Male But Not in Female Adolescents",
+    "temas": [
+      {
+        "nombre": "GENETICA_NUTRICION"
+      }
+    ],
+    "tema_principal": "GENETICA_NUTRICION",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "associated",
+      "polymorphisms",
+      "alpha",
+      "index",
+      "interleukin"
+    ],
+    "problema_abordado": "Investigación en genetica nutricion"
+  },
+  {
+    "año": 2019,
+    "numero": 23,
+    "titulo": "Relationship of Excess Weight with Clinical Activity and Dietary Intake Deficiencies in Systemic Lupus Erythematosus Patients",
+    "temas": [
+      {
+        "nombre": "OBESIDAD_SOBREPESO"
+      },
+      {
+        "nombre": "ENFERMEDADES_AUTOINMUNES"
+      }
+    ],
+    "tema_principal": "OBESIDAD_SOBREPESO",
+    "temas_secundarios": [
+      "ENFERMEDADES_AUTOINMUNES"
+    ],
+    "palabras_clave": [
+      "weight",
+      "systemic",
+      "excess",
+      "clinical",
+      "activity"
+    ],
+    "problema_abordado": "Investigación en obesidad sobrepeso"
+  },
+  {
+    "año": 2019,
+    "numero": 25,
+    "titulo": "PRL -1149T allele (rs1341239) is associated with decreased risk of rheumatoid arthritis",
+    "temas": [
+      {
+        "nombre": "ENFERMEDADES_AUTOINMUNES"
+      },
+      {
+        "nombre": "GENETICA_NUTRICION"
+      }
+    ],
+    "tema_principal": "ENFERMEDADES_AUTOINMUNES",
+    "temas_secundarios": [
+      "GENETICA_NUTRICION"
+    ],
+    "palabras_clave": [
+      "associated",
+      "allele",
+      "decreased",
+      "rheumatoid",
+      "arthritis"
+    ],
+    "problema_abordado": "Investigación en enfermedades autoinmunes"
+  },
+  {
+    "año": 2019,
+    "numero": 26,
+    "titulo": "IgG Anti-ghrelin Immune Complexes Are Increased in Rheumatoid Arthritis Patients Under Biologic Therapy",
+    "temas": [
+      {
+        "nombre": "ENFERMEDADES_AUTOINMUNES"
+      }
+    ],
+    "tema_principal": "ENFERMEDADES_AUTOINMUNES",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "complexes",
+      "arthritis",
+      "immune",
+      "under",
+      "patients"
+    ],
+    "problema_abordado": "Investigación en enfermedades autoinmunes"
+  },
+  {
+    "año": 2019,
+    "numero": 27,
+    "titulo": "Interaction between 17β-estradiol prolactin and human papillomavirus induce E6/E7 transcript",
+    "temas": [
+      {
+        "nombre": "CANCER"
+      }
+    ],
+    "tema_principal": "CANCER",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "transcript",
+      "estradiol",
+      "papillomavirus",
+      "interaction",
+      "human"
+    ],
+    "problema_abordado": "Investigación en cancer"
+  },
+  {
+    "año": 2019,
+    "numero": 28,
+    "titulo": "Development of an effective and rapid qPCR for identifying human ChREBPα/β isoforms",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "human",
+      "rapid",
+      "identifying",
+      "effective",
+      "development"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2019,
+    "numero": 29,
+    "titulo": "PTPN22 +788 G>A (R263Q) Polymorphism is Associated with mRNA Expression",
+    "temas": [
+      {
+        "nombre": "GENETICA_NUTRICION"
+      }
+    ],
+    "tema_principal": "GENETICA_NUTRICION",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "polymorphism",
+      "expression",
+      "associated"
+    ],
+    "problema_abordado": "Investigación en genetica nutricion"
+  },
+  {
+    "año": 2019,
+    "numero": 30,
+    "titulo": "Interactions between DRD2/ANKK1 TaqIA Polymorphism and Dietary Factors Influence Plasma Triglyceride Concentrations",
+    "temas": [
+      {
+        "nombre": "GENETICA_NUTRICION"
+      },
+      {
+        "nombre": "LIPIDOS_COLESTEROL"
+      }
+    ],
+    "tema_principal": "GENETICA_NUTRICION",
+    "temas_secundarios": [
+      "LIPIDOS_COLESTEROL"
+    ],
+    "palabras_clave": [
+      "interactions",
+      "polymorphism",
+      "concentrations",
+      "plasma",
+      "triglyceride"
+    ],
+    "problema_abordado": "Investigación en genetica nutricion"
+  },
+  {
+    "año": 2019,
+    "numero": 31,
+    "titulo": "Phytochemical composition and immunobiological activity of Hawthorn Crataegus mexicana nanoencapsulated",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "composition",
+      "nanoencapsulated",
+      "hawthorn",
+      "phytochemical",
+      "crataegus"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2019,
+    "numero": 32,
+    "titulo": "Cytokines (IL-15 IL-21 and IFN-γ) in rheumatoid arthritis: association with positivity to autoantibodies",
+    "temas": [
+      {
+        "nombre": "ENFERMEDADES_AUTOINMUNES"
+      },
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "ENFERMEDADES_AUTOINMUNES",
+    "temas_secundarios": [
+      "INFLAMACION_METABOLICA"
+    ],
+    "palabras_clave": [
+      "cytokines",
+      "positivity",
+      "association",
+      "autoantibodies",
+      "rheumatoid"
+    ],
+    "problema_abordado": "Investigación en enfermedades autoinmunes"
+  },
+  {
+    "año": 2019,
+    "numero": 33,
+    "titulo": "17β‑estradiol‑induced mitochondrial dysfunction and Warburg effect in cervical cancer cells",
+    "temas": [
+      {
+        "nombre": "CANCER"
+      }
+    ],
+    "tema_principal": "CANCER",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "estradiol",
+      "mitochondrial",
+      "dysfunction",
+      "cervical",
+      "warburg"
+    ],
+    "problema_abordado": "Investigación en cancer"
+  },
+  {
+    "año": 2019,
+    "numero": 34,
+    "titulo": "Assessment of CD40 and CD40L expression in rheumatoid arthritis patients",
+    "temas": [
+      {
+        "nombre": "ENFERMEDADES_AUTOINMUNES"
+      }
+    ],
+    "tema_principal": "ENFERMEDADES_AUTOINMUNES",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "expression",
+      "assessment",
+      "patients",
+      "rheumatoid",
+      "arthritis"
+    ],
+    "problema_abordado": "Investigación en enfermedades autoinmunes"
+  },
+  {
+    "año": 2019,
+    "numero": 35,
+    "titulo": "Letter to the editor: The association of CD40 polymorphism and soluble CD40 with the risk of systemic lupus erythematosus",
+    "temas": [
+      {
+        "nombre": "ENFERMEDADES_AUTOINMUNES"
+      },
+      {
+        "nombre": "GENETICA_NUTRICION"
+      }
+    ],
+    "tema_principal": "ENFERMEDADES_AUTOINMUNES",
+    "temas_secundarios": [
+      "GENETICA_NUTRICION"
+    ],
+    "palabras_clave": [
+      "polymorphism",
+      "systemic",
+      "soluble",
+      "lupus",
+      "association"
+    ],
+    "problema_abordado": "Investigación en enfermedades autoinmunes"
+  },
+  {
+    "año": 2019,
+    "numero": 36,
+    "titulo": "Expression of the receptor of advanced glycation end-products (RAGE) in peripheral blood mononuclear cells (PBMC)",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "products",
+      "glycation",
+      "blood",
+      "expression",
+      "mononuclear"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2019,
+    "numero": 37,
+    "titulo": "PTPN22 1858C>T polymorphism is associated with increased CD154 expression and higher CD4+ T cells percentage",
+    "temas": [
+      {
+        "nombre": "GENETICA_NUTRICION"
+      }
+    ],
+    "tema_principal": "GENETICA_NUTRICION",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "polymorphism",
+      "associated",
+      "expression",
+      "percentage",
+      "higher"
+    ],
+    "problema_abordado": "Investigación en genetica nutricion"
+  },
+  {
+    "año": 2019,
+    "numero": 38,
+    "titulo": "Macrophage migration inhibitory factor promoter polymorphisms are associated with disease activity in rheumatoid arthritis",
+    "temas": [
+      {
+        "nombre": "ENFERMEDADES_AUTOINMUNES"
+      },
+      {
+        "nombre": "GENETICA_NUTRICION"
+      }
+    ],
+    "tema_principal": "ENFERMEDADES_AUTOINMUNES",
+    "temas_secundarios": [
+      "GENETICA_NUTRICION"
+    ],
+    "palabras_clave": [
+      "associated",
+      "polymorphisms",
+      "disease",
+      "promoter",
+      "factor"
+    ],
+    "problema_abordado": "Investigación en enfermedades autoinmunes"
+  },
+  {
+    "año": 2019,
+    "numero": 39,
+    "titulo": "Association of soluble CD40 levels with -1 C > T CD40 polymorphism and chronic kidney disease in systemic lupus erythematosus",
+    "temas": [
+      {
+        "nombre": "GENETICA_NUTRICION"
+      },
+      {
+        "nombre": "ENFERMEDADES_AUTOINMUNES"
+      }
+    ],
+    "tema_principal": "GENETICA_NUTRICION",
+    "temas_secundarios": [
+      "ENFERMEDADES_AUTOINMUNES"
+    ],
+    "palabras_clave": [
+      "polymorphism",
+      "levels",
+      "chronic",
+      "kidney",
+      "soluble"
+    ],
+    "problema_abordado": "Investigación en genetica nutricion"
+  },
+  {
+    "año": 2019,
+    "numero": 40,
+    "titulo": "Association between the -844 G>A HindIII C>G and 4G/5G PAI-1 Polymorphisms and Susceptibility to Multiple Sclerosis",
+    "temas": [
+      {
+        "nombre": "ENFERMEDADES_AUTOINMUNES"
+      },
+      {
+        "nombre": "GENETICA_NUTRICION"
+      }
+    ],
+    "tema_principal": "ENFERMEDADES_AUTOINMUNES",
+    "temas_secundarios": [
+      "GENETICA_NUTRICION"
+    ],
+    "palabras_clave": [
+      "sclerosis",
+      "polymorphisms",
+      "susceptibility",
+      "association",
+      "multiple"
+    ],
+    "problema_abordado": "Investigación en enfermedades autoinmunes"
+  },
+  {
+    "año": 2020,
+    "numero": 1,
+    "titulo": "Effect of supplementation with vitamins D3 and K2 on undercarboxylated osteocalcin and insulin serum levels",
+    "temas": [
+      {
+        "nombre": "DIABETES"
+      }
+    ],
+    "tema_principal": "DIABETES",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "undercarboxylated",
+      "levels",
+      "serum",
+      "osteocalcin",
+      "supplementation"
+    ],
+    "problema_abordado": "Investigación en diabetes"
+  },
+  {
+    "año": 2020,
+    "numero": 2,
+    "titulo": "The -675 4G/5G PAI-1 polymorphism confers genetic susceptibility to systemic lupus erythematosus",
+    "temas": [
+      {
+        "nombre": "GENETICA_NUTRICION"
+      },
+      {
+        "nombre": "ENFERMEDADES_AUTOINMUNES"
+      }
+    ],
+    "tema_principal": "GENETICA_NUTRICION",
+    "temas_secundarios": [
+      "ENFERMEDADES_AUTOINMUNES"
+    ],
+    "palabras_clave": [
+      "genetic",
+      "polymorphism",
+      "systemic",
+      "lupus",
+      "susceptibility"
+    ],
+    "problema_abordado": "Investigación en genetica nutricion"
+  },
+  {
+    "año": 2020,
+    "numero": 3,
+    "titulo": "Association of the genetic variants of macrophage migration inhibitory factor (MIF) with higher soluble levels of MIF and TNFα",
+    "temas": [
+      {
+        "nombre": "GENETICA_NUTRICION"
+      }
+    ],
+    "tema_principal": "GENETICA_NUTRICION",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "genetic",
+      "soluble",
+      "association",
+      "factor",
+      "migration"
+    ],
+    "problema_abordado": "Investigación en genetica nutricion"
+  },
+  {
+    "año": 2020,
+    "numero": 4,
+    "titulo": "Low-grade chronic inflammation is attenuated by exercise training in obese adults through down-regulation of ASC gene",
+    "temas": [
+      {
+        "nombre": "ACTIVIDAD_FISICA"
+      },
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      },
+      {
+        "nombre": "GENETICA_NUTRICION"
+      }
+    ],
+    "tema_principal": "ACTIVIDAD_FISICA",
+    "temas_secundarios": [
+      "INFLAMACION_METABOLICA",
+      "GENETICA_NUTRICION"
+    ],
+    "palabras_clave": [
+      "attenuated",
+      "chronic",
+      "adults",
+      "through",
+      "grade"
+    ],
+    "problema_abordado": "Investigación en actividad fisica"
+  },
+  {
+    "año": 2020,
+    "numero": 5,
+    "titulo": "A potential inflammatory role of IL-31 in psoriatic arthritis: A correlation with Th17 cytokine profile",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      },
+      {
+        "nombre": "ENFERMEDADES_AUTOINMUNES"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [
+      "ENFERMEDADES_AUTOINMUNES"
+    ],
+    "palabras_clave": [
+      "cytokine",
+      "psoriatic",
+      "correlation",
+      "profile",
+      "inflammatory"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2020,
+    "numero": 6,
+    "titulo": "Anthropometric and Body Composition Profile of Young Professional Soccer Players",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "young",
+      "composition",
+      "professional",
+      "players",
+      "profile"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2020,
+    "numero": 7,
+    "titulo": "Second Version of a Mini-Survey to Evaluate Food Intake Quality (Mini-ECCA v.2)",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "evaluate",
+      "quality",
+      "survey",
+      "version",
+      "second"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2020,
+    "numero": 9,
+    "titulo": "Association of cardiometabolic risk status with clinical activity and damage in systemic lupus erythematosus patients",
+    "temas": [
+      {
+        "nombre": "ENFERMEDADES_AUTOINMUNES"
+      },
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "ENFERMEDADES_AUTOINMUNES",
+    "temas_secundarios": [
+      "INFLAMACION_METABOLICA"
+    ],
+    "palabras_clave": [
+      "systemic",
+      "lupus",
+      "cardiometabolic",
+      "association",
+      "damage"
+    ],
+    "problema_abordado": "Investigación en enfermedades autoinmunes"
+  },
+  {
+    "año": 2020,
+    "numero": 10,
+    "titulo": "Physical inactivity and excessive sucrose consumption are associated with higher serum lipids",
+    "temas": [
+      {
+        "nombre": "LIPIDOS_COLESTEROL"
+      }
+    ],
+    "tema_principal": "LIPIDOS_COLESTEROL",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "associated",
+      "serum",
+      "lipids",
+      "higher",
+      "physical"
+    ],
+    "problema_abordado": "Investigación en lipidos colesterol"
+  },
+  {
+    "año": 2020,
+    "numero": 11,
+    "titulo": "Antioxidant Supplementation Modulates Neutrophil Inflammatory Response to Exercise-Induced Stress",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      },
+      {
+        "nombre": "ACTIVIDAD_FISICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [
+      "ACTIVIDAD_FISICA"
+    ],
+    "palabras_clave": [
+      "stress",
+      "exercise",
+      "induced",
+      "supplementation",
+      "modulates"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2020,
+    "numero": 12,
+    "titulo": "Expression of BAFF and BAFF receptors in primary Sjögren's syndrome patients with ectopic germinal center-like structures",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "ectopic",
+      "receptors",
+      "expression",
+      "center",
+      "syndrome"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2020,
+    "numero": 13,
+    "titulo": "Validation of a Spanish-Language Questionnaire on Adolescent Eating Behavior Based on Social Cognitive Theory",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "spanish",
+      "adolescent",
+      "validation",
+      "social",
+      "language"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2020,
+    "numero": 15,
+    "titulo": "Assessment of serum macrophage migration inhibitory factor (MIF) adiponectin and other adipokines as potential markers",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "serum",
+      "adiponectin",
+      "assessment",
+      "factor",
+      "migration"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2020,
+    "numero": 16,
+    "titulo": "Expression patterns of CD28 and CTLA-4 in early chronic and untreated rheumatoid arthritis",
+    "temas": [
+      {
+        "nombre": "ENFERMEDADES_AUTOINMUNES"
+      }
+    ],
+    "tema_principal": "ENFERMEDADES_AUTOINMUNES",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "early",
+      "chronic",
+      "expression",
+      "untreated",
+      "patterns"
+    ],
+    "problema_abordado": "Investigación en enfermedades autoinmunes"
+  },
+  {
+    "año": 2020,
+    "numero": 17,
+    "titulo": "Macrophage inhibitory factor (MIF) gene polymorphisms are associated with disease susceptibility and with circulating MIF levels",
+    "temas": [
+      {
+        "nombre": "GENETICA_NUTRICION"
+      }
+    ],
+    "tema_principal": "GENETICA_NUTRICION",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "associated",
+      "polymorphisms",
+      "disease",
+      "susceptibility",
+      "factor"
+    ],
+    "problema_abordado": "Investigación en genetica nutricion"
+  },
+  {
+    "año": 2020,
+    "numero": 18,
+    "titulo": "Effect of Ursolic Acid on Insulin Resistance and Hyperinsulinemia in Rats with Diet-Induced Obesity",
+    "temas": [
+      {
+        "nombre": "OBESIDAD_SOBREPESO"
+      },
+      {
+        "nombre": "DIABETES"
+      }
+    ],
+    "tema_principal": "OBESIDAD_SOBREPESO",
+    "temas_secundarios": [
+      "DIABETES"
+    ],
+    "palabras_clave": [
+      "ursolic",
+      "resistance",
+      "induced",
+      "insulin",
+      "hyperinsulinemia"
+    ],
+    "problema_abordado": "Investigación en obesidad sobrepeso"
+  },
+  {
+    "año": 2020,
+    "numero": 19,
+    "titulo": "Haplotypes of (-794(CATT)5-8/-173G>C) MIF gene polymorphisms and its soluble levels in basal cell carcinoma",
+    "temas": [
+      {
+        "nombre": "GENETICA_NUTRICION"
+      },
+      {
+        "nombre": "CANCER"
+      }
+    ],
+    "tema_principal": "GENETICA_NUTRICION",
+    "temas_secundarios": [
+      "CANCER"
+    ],
+    "palabras_clave": [
+      "levels",
+      "soluble",
+      "haplotypes",
+      "polymorphisms",
+      "basal"
+    ],
+    "problema_abordado": "Investigación en genetica nutricion"
+  },
+  {
+    "año": 2020,
+    "numero": 20,
+    "titulo": "Using a lactation room at the workplace is associated with longer breastfeeding duration in working mothers",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "longer",
+      "associated",
+      "lactation",
+      "working",
+      "duration"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2020,
+    "numero": 21,
+    "titulo": "Cytokine profiles and clinical characteristics in primary Sjögren´s síndrome patient groups",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "profiles",
+      "cytokine",
+      "groups",
+      "clinical",
+      "patient"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2020,
+    "numero": 22,
+    "titulo": "Functional effects of vitamin D: From nutrient to immunomodulator",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "immunomodulator",
+      "effects",
+      "nutrient",
+      "functional",
+      "vitamin"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2020,
+    "numero": 23,
+    "titulo": "Serum Analysis of Women with Early-Stage Breast Cancer Using a Mini-Array of Tumor-Associated Antigens",
+    "temas": [
+      {
+        "nombre": "CANCER"
+      }
+    ],
+    "tema_principal": "CANCER",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "analysis",
+      "early",
+      "serum",
+      "women",
+      "breast"
+    ],
+    "problema_abordado": "Investigación en cancer"
+  },
+  {
+    "año": 2020,
+    "numero": 24,
+    "titulo": "Nutritional Approaches for the Management of Nonalcoholic Fatty Liver Disease: An Evidence-Based Review",
+    "temas": [
+      {
+        "nombre": "OBESIDAD_SOBREPESO"
+      }
+    ],
+    "tema_principal": "OBESIDAD_SOBREPESO",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "evidence",
+      "disease",
+      "nutritional",
+      "nonalcoholic",
+      "management"
+    ],
+    "problema_abordado": "Investigación en obesidad sobrepeso"
+  },
+  {
+    "año": 2020,
+    "numero": 25,
+    "titulo": "Downregulation of Inflammatory Cytokine Release from IL-1β and LPS-Stimulated PBMC Orchestrated by ST2825",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "stimulated",
+      "cytokine",
+      "release",
+      "downregulation",
+      "inflammatory"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2020,
+    "numero": 26,
+    "titulo": "Obesity dyslipidemia and high blood pressure are associated with cardiovascular risk",
+    "temas": [
+      {
+        "nombre": "OBESIDAD_SOBREPESO"
+      },
+      {
+        "nombre": "LIPIDOS_COLESTEROL"
+      }
+    ],
+    "tema_principal": "OBESIDAD_SOBREPESO",
+    "temas_secundarios": [
+      "LIPIDOS_COLESTEROL"
+    ],
+    "palabras_clave": [
+      "cardiovascular",
+      "pressure",
+      "associated",
+      "blood",
+      "obesity"
+    ],
+    "problema_abordado": "Investigación en obesidad sobrepeso"
+  },
+  {
+    "año": 2020,
+    "numero": 27,
+    "titulo": "Health-Related Factors in Rural and Urban Mexican Adolescents from the State of Jalisco: The HELENA-MEX Study",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "mexican",
+      "health",
+      "adolescents",
+      "urban",
+      "rural"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2020,
+    "numero": 28,
+    "titulo": "Leu72Met polymorphism of GHRL gene decreases susceptibility to type 2 diabetes mellitus",
+    "temas": [
+      {
+        "nombre": "GENETICA_NUTRICION"
+      },
+      {
+        "nombre": "DIABETES"
+      }
+    ],
+    "tema_principal": "GENETICA_NUTRICION",
+    "temas_secundarios": [
+      "DIABETES"
+    ],
+    "palabras_clave": [
+      "polymorphism",
+      "susceptibility",
+      "diabetes",
+      "mellitus",
+      "decreases"
+    ],
+    "problema_abordado": "Investigación en genetica nutricion"
+  },
+  {
+    "año": 2020,
+    "numero": 29,
+    "titulo": "Anti-nucleosome antibodies increase the risk of renal relapse in a prospective cohort of patients",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "increase",
+      "relapse",
+      "renal",
+      "nucleosome",
+      "antibodies"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2020,
+    "numero": 30,
+    "titulo": "Relationship between TNF-α MMP-8 and MMP-9 levels in gingival crevicular fluid and the subgingival microbiota",
+    "temas": [
+      {
+        "nombre": "MICROBIOTA_INTESTINAL"
+      }
+    ],
+    "tema_principal": "MICROBIOTA_INTESTINAL",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "levels",
+      "crevicular",
+      "gingival",
+      "microbiota",
+      "fluid"
+    ],
+    "problema_abordado": "Investigación en microbiota intestinal"
+  },
+  {
+    "año": 2020,
+    "numero": 31,
+    "titulo": "Bacterial Succession through the Artisanal Process and Seasonal Effects Defining Bacterial Communities",
+    "temas": [
+      {
+        "nombre": "MICROBIOTA_INTESTINAL"
+      }
+    ],
+    "tema_principal": "MICROBIOTA_INTESTINAL",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "defining",
+      "through",
+      "seasonal",
+      "succession",
+      "effects"
+    ],
+    "problema_abordado": "Investigación en microbiota intestinal"
+  },
+  {
+    "año": 2020,
+    "numero": 32,
+    "titulo": "Association of Vitamin D Metabolism Gene Polymorphisms with Autoimmunity: Evidence in Population Genetic Studies",
+    "temas": [
+      {
+        "nombre": "GENETICA_NUTRICION"
+      }
+    ],
+    "tema_principal": "GENETICA_NUTRICION",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "metabolism",
+      "evidence",
+      "genetic",
+      "polymorphisms",
+      "population"
+    ],
+    "problema_abordado": "Investigación en genetica nutricion"
+  },
+  {
+    "año": 2020,
+    "numero": 34,
+    "titulo": "Analysis of the receptor BCMA as a biomarker in systemic lupus erythematosus patients",
+    "temas": [
+      {
+        "nombre": "ENFERMEDADES_AUTOINMUNES"
+      }
+    ],
+    "tema_principal": "ENFERMEDADES_AUTOINMUNES",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "analysis",
+      "systemic",
+      "lupus",
+      "biomarker",
+      "receptor"
+    ],
+    "problema_abordado": "Investigación en enfermedades autoinmunes"
+  },
+  {
+    "año": 2020,
+    "numero": 35,
+    "titulo": "Alliin an Allium sativum Nutraceutical Reduces Metaflammation Markers in DIO Mice",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "alliin",
+      "allium",
+      "reduces",
+      "sativum",
+      "nutraceutical"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2020,
+    "numero": 37,
+    "titulo": "Healthy Obese Subjects Differ in Chronotype Sleep Habits and Adipose Tissue Fatty Acid Composition",
+    "temas": [
+      {
+        "nombre": "OBESIDAD_SOBREPESO"
+      },
+      {
+        "nombre": "LIPIDOS_COLESTEROL"
+      }
+    ],
+    "tema_principal": "OBESIDAD_SOBREPESO",
+    "temas_secundarios": [
+      "LIPIDOS_COLESTEROL"
+    ],
+    "palabras_clave": [
+      "habits",
+      "subjects",
+      "differ",
+      "obese",
+      "sleep"
+    ],
+    "problema_abordado": "Investigación en obesidad sobrepeso"
+  },
+  {
+    "año": 2020,
+    "numero": 38,
+    "titulo": "A Metabolically Unhealthy Phenotype Is Associated with ADIPOQ Genetic Variants and Lower Serum Adiponectin Levels",
+    "temas": [
+      {
+        "nombre": "GENETICA_NUTRICION"
+      },
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "GENETICA_NUTRICION",
+    "temas_secundarios": [
+      "INFLAMACION_METABOLICA"
+    ],
+    "palabras_clave": [
+      "genetic",
+      "associated",
+      "serum",
+      "phenotype",
+      "unhealthy"
+    ],
+    "problema_abordado": "Investigación en genetica nutricion"
+  },
+  {
+    "año": 2020,
+    "numero": 41,
+    "titulo": "Impact of APOE Alleles-by-Diet Interactions on Glycemic and Lipid Features in Type 2 Diabetes Patients",
+    "temas": [
+      {
+        "nombre": "DIABETES"
+      },
+      {
+        "nombre": "GENETICA_NUTRICION"
+      },
+      {
+        "nombre": "LIPIDOS_COLESTEROL"
+      }
+    ],
+    "tema_principal": "DIABETES",
+    "temas_secundarios": [
+      "GENETICA_NUTRICION",
+      "LIPIDOS_COLESTEROL"
+    ],
+    "palabras_clave": [
+      "interactions",
+      "diabetes",
+      "alleles",
+      "patients",
+      "features"
+    ],
+    "problema_abordado": "Investigación en diabetes"
+  },
+  {
+    "año": 2020,
+    "numero": 44,
+    "titulo": "The Relevance of Selenium Status in Rheumatoid Arthritis",
+    "temas": [
+      {
+        "nombre": "ENFERMEDADES_AUTOINMUNES"
+      }
+    ],
+    "tema_principal": "ENFERMEDADES_AUTOINMUNES",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "selenium",
+      "status",
+      "relevance",
+      "rheumatoid",
+      "arthritis"
+    ],
+    "problema_abordado": "Investigación en enfermedades autoinmunes"
+  },
+  {
+    "año": 2020,
+    "numero": 46,
+    "titulo": "Metabolic Syndrome Among Young Health Professionals in the Multicenter Latin America Metabolic Syndrome Study",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "health",
+      "among",
+      "professionals",
+      "young",
+      "syndrome"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2021,
+    "numero": 1,
+    "titulo": "Influence of Diet and Levels of Zonulin Lipopolysaccharide and C-Reactive Protein on Cardiometabolic Risk Factors",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "reactive",
+      "levels",
+      "protein",
+      "cardiometabolic",
+      "zonulin"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2021,
+    "numero": 2,
+    "titulo": "Expression of macrophage migration inhibitory factor and its receptor CD74 in systemic sclerosis",
+    "temas": [
+      {
+        "nombre": "ENFERMEDADES_AUTOINMUNES"
+      }
+    ],
+    "tema_principal": "ENFERMEDADES_AUTOINMUNES",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "expression",
+      "systemic",
+      "sclerosis",
+      "factor",
+      "migration"
+    ],
+    "problema_abordado": "Investigación en enfermedades autoinmunes"
+  },
+  {
+    "año": 2021,
+    "numero": 3,
+    "titulo": "Phylogenomics and population genomics of SARS-CoV-2 in Mexico during the pre-vaccination stage",
+    "temas": [
+      {
+        "nombre": "COVID19"
+      }
+    ],
+    "tema_principal": "COVID19",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "mexico",
+      "phylogenomics",
+      "population",
+      "during",
+      "genomics"
+    ],
+    "problema_abordado": "Investigación en covid19"
+  },
+  {
+    "año": 2021,
+    "numero": 4,
+    "titulo": "Presence of Adenovirus-36 DNA in Adipose Tissue of Women: Relationship with Adipocyte Morphology",
+    "temas": [
+      {
+        "nombre": "OBESIDAD_SOBREPESO"
+      },
+      {
+        "nombre": "DIABETES"
+      }
+    ],
+    "tema_principal": "OBESIDAD_SOBREPESO",
+    "temas_secundarios": [
+      "DIABETES"
+    ],
+    "palabras_clave": [
+      "women",
+      "adipocyte",
+      "morphology",
+      "tissue",
+      "adipose"
+    ],
+    "problema_abordado": "Investigación en obesidad sobrepeso"
+  },
+  {
+    "año": 2021,
+    "numero": 5,
+    "titulo": "The ACTN3 R577X polymorphism is associated with metabolic alterations in a sex-dependent manner",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      },
+      {
+        "nombre": "GENETICA_NUTRICION"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [
+      "GENETICA_NUTRICION"
+    ],
+    "palabras_clave": [
+      "polymorphism",
+      "associated",
+      "dependent",
+      "alterations",
+      "manner"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2021,
+    "numero": 6,
+    "titulo": "The PI3K/Akt/mTOR pathway: A potential pharmacological target in COVID-19",
+    "temas": [
+      {
+        "nombre": "COVID19"
+      }
+    ],
+    "tema_principal": "COVID19",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "potential",
+      "target",
+      "pathway",
+      "pharmacological"
+    ],
+    "problema_abordado": "Investigación en covid19"
+  },
+  {
+    "año": 2021,
+    "numero": 8,
+    "titulo": "Effects of short chain fatty acids on metabolic and inflammatory processes in human health",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      },
+      {
+        "nombre": "LIPIDOS_COLESTEROL"
+      },
+      {
+        "nombre": "OBESIDAD_SOBREPESO"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [
+      "LIPIDOS_COLESTEROL",
+      "OBESIDAD_SOBREPESO"
+    ],
+    "palabras_clave": [
+      "health",
+      "short",
+      "chain",
+      "human",
+      "effects"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2021,
+    "numero": 9,
+    "titulo": "High dietary ω-6:ω-3 PUFA ratio and simple carbohydrates as a potential risk factors for gallstone disease",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "gallstone",
+      "simple",
+      "disease",
+      "ratio",
+      "carbohydrates"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2021,
+    "numero": 10,
+    "titulo": "Association of TAP1 1177A>G and 2090A>G gene polymorphisms with latent tuberculosis infections",
+    "temas": [
+      {
+        "nombre": "GENETICA_NUTRICION"
+      }
+    ],
+    "tema_principal": "GENETICA_NUTRICION",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "tuberculosis",
+      "polymorphisms",
+      "association",
+      "infections",
+      "latent"
+    ],
+    "problema_abordado": "Investigación en genetica nutricion"
+  },
+  {
+    "año": 2021,
+    "numero": 11,
+    "titulo": "Social Representations of Drinking Water in Schoolchildren and Parents from Two Schools in Zapopan Mexico",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "zapopan",
+      "drinking",
+      "schools",
+      "schoolchildren",
+      "water"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2021,
+    "numero": 12,
+    "titulo": "Altered Expression of TSPAN32 during B Cell Activation and Systemic Lupus Erythematosus",
+    "temas": [
+      {
+        "nombre": "ENFERMEDADES_AUTOINMUNES"
+      },
+      {
+        "nombre": "GENETICA_NUTRICION"
+      }
+    ],
+    "tema_principal": "ENFERMEDADES_AUTOINMUNES",
+    "temas_secundarios": [
+      "GENETICA_NUTRICION"
+    ],
+    "palabras_clave": [
+      "activation",
+      "systemic",
+      "expression",
+      "lupus",
+      "during"
+    ],
+    "problema_abordado": "Investigación en enfermedades autoinmunes"
+  },
+  {
+    "año": 2021,
+    "numero": 13,
+    "titulo": "The Novel Role of MIF in the Secretion of IL-25 IL-31 and IL-33 from PBMC of Patients with Rheumatoid Arthritis",
+    "temas": [
+      {
+        "nombre": "ENFERMEDADES_AUTOINMUNES"
+      }
+    ],
+    "tema_principal": "ENFERMEDADES_AUTOINMUNES",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "secretion",
+      "novel",
+      "patients",
+      "rheumatoid",
+      "arthritis"
+    ],
+    "problema_abordado": "Investigación en enfermedades autoinmunes"
+  },
+  {
+    "año": 2021,
+    "numero": 14,
+    "titulo": "Metabolic syndrome in rheumatoid arthritis patients: Relationship among its clinical components",
+    "temas": [
+      {
+        "nombre": "ENFERMEDADES_AUTOINMUNES"
+      },
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "ENFERMEDADES_AUTOINMUNES",
+    "temas_secundarios": [
+      "INFLAMACION_METABOLICA"
+    ],
+    "palabras_clave": [
+      "among",
+      "syndrome",
+      "components",
+      "clinical",
+      "metabolic"
+    ],
+    "problema_abordado": "Investigación en enfermedades autoinmunes"
+  },
+  {
+    "año": 2021,
+    "numero": 15,
+    "titulo": "In Vivo Healthy Benefits of Galacto-Oligosaccharides from Lupinus albus (LA-GOS) in Butyrate Production",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "albus",
+      "butyrate",
+      "lupinus",
+      "galacto",
+      "oligosaccharides"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2021,
+    "numero": 16,
+    "titulo": "Association of Food Intake Quality with Vitamin D in SARS-CoV-2 Positive Patients from Mexico",
+    "temas": [
+      {
+        "nombre": "COVID19"
+      }
+    ],
+    "tema_principal": "COVID19",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "mexico",
+      "association",
+      "quality",
+      "positive",
+      "patients"
+    ],
+    "problema_abordado": "Investigación en covid19"
+  },
+  {
+    "año": 2021,
+    "numero": 17,
+    "titulo": "Validation of the Spanish-Mexican Version of the Australian Breastfeeding Attitude Questionnaire",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "spanish",
+      "mexican",
+      "validation",
+      "australian",
+      "version"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2021,
+    "numero": 18,
+    "titulo": "Commentary: Long Non-Coding RNA Gene Polymorphisms and Their Expression Levels in Patients With Rheumatoid Arthritis",
+    "temas": [
+      {
+        "nombre": "ENFERMEDADES_AUTOINMUNES"
+      },
+      {
+        "nombre": "GENETICA_NUTRICION"
+      }
+    ],
+    "tema_principal": "ENFERMEDADES_AUTOINMUNES",
+    "temas_secundarios": [
+      "GENETICA_NUTRICION"
+    ],
+    "palabras_clave": [
+      "commentary",
+      "levels",
+      "expression",
+      "polymorphisms",
+      "patients"
+    ],
+    "problema_abordado": "Investigación en enfermedades autoinmunes"
+  },
+  {
+    "año": 2021,
+    "numero": 19,
+    "titulo": "Neutralizing Antibodies against SARS-CoV-2 Anti-Ad5 Antibodies and Reactogenicity in Response to Ad5-nCoV Vaccine",
+    "temas": [
+      {
+        "nombre": "COVID19"
+      }
+    ],
+    "tema_principal": "COVID19",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "vaccine",
+      "reactogenicity",
+      "antibodies",
+      "neutralizing",
+      "against"
+    ],
+    "problema_abordado": "Investigación en covid19"
+  },
+  {
+    "año": 2021,
+    "numero": 20,
+    "titulo": "Macrophage migration inhibitory factor gene polymorphisms confer risk of plaque psoriasis",
+    "temas": [
+      {
+        "nombre": "GENETICA_NUTRICION"
+      }
+    ],
+    "tema_principal": "GENETICA_NUTRICION",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "psoriasis",
+      "confer",
+      "plaque",
+      "polymorphisms",
+      "factor"
+    ],
+    "problema_abordado": "Investigación en genetica nutricion"
+  },
+  {
+    "año": 2021,
+    "numero": 21,
+    "titulo": "Association between rs662 (A > G) and rs854560 (A > T) polymorphisms in PON1 gene and the susceptibility for psoriasis",
+    "temas": [
+      {
+        "nombre": "GENETICA_NUTRICION"
+      }
+    ],
+    "tema_principal": "GENETICA_NUTRICION",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "psoriasis",
+      "polymorphisms",
+      "susceptibility",
+      "association",
+      "between"
+    ],
+    "problema_abordado": "Investigación en genetica nutricion"
+  },
+  {
+    "año": 2021,
+    "numero": 22,
+    "titulo": "Factors associated with longer breastfeeding duration in Mexican working mothers",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "mexican",
+      "longer",
+      "associated",
+      "working",
+      "duration"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2021,
+    "numero": 23,
+    "titulo": "Functional Food and Bioactive Compounds on the Modulation of the Functionality of HDL-C: A Narrative Review",
+    "temas": [
+      {
+        "nombre": "LIPIDOS_COLESTEROL"
+      }
+    ],
+    "tema_principal": "LIPIDOS_COLESTEROL",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "review",
+      "bioactive",
+      "narrative",
+      "functional",
+      "compounds"
+    ],
+    "problema_abordado": "Investigación en lipidos colesterol"
+  },
+  {
+    "año": 2021,
+    "numero": 24,
+    "titulo": "COVID-19 Screening by Anti-SARS-CoV-2 Antibody Seropositivity: Clinical and Epidemiological Characteristics",
+    "temas": [
+      {
+        "nombre": "COVID19"
+      }
+    ],
+    "tema_principal": "COVID19",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "seropositivity",
+      "epidemiological",
+      "screening",
+      "clinical",
+      "characteristics"
+    ],
+    "problema_abordado": "Investigación en covid19"
+  },
+  {
+    "año": 2021,
+    "numero": 25,
+    "titulo": "Th1/Th2 Balance in Young Subjects: Relationship with Cytokine Levels and Metabolic Profile",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "levels",
+      "subjects",
+      "young",
+      "cytokine",
+      "profile"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2021,
+    "numero": 26,
+    "titulo": "Association of High Calcitriol Serum Levels and Its Hydroxylation Efficiency Ratio with Disease Risk in SLE Patients",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "levels",
+      "serum",
+      "association",
+      "hydroxylation",
+      "ratio"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2021,
+    "numero": 27,
+    "titulo": "Infancy and Childhood Obesity Grade Predicts Weight Loss in Adulthood: The ONTIME Study",
+    "temas": [
+      {
+        "nombre": "OBESIDAD_SOBREPESO"
+      }
+    ],
+    "tema_principal": "OBESIDAD_SOBREPESO",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "weight",
+      "predicts",
+      "grade",
+      "infancy",
+      "obesity"
+    ],
+    "problema_abordado": "Investigación en obesidad sobrepeso"
+  },
+  {
+    "año": 2021,
+    "numero": 28,
+    "titulo": "Neutralizing Antibodies Titers and Side Effects in Response to BNT162b2 Vaccine in Healthcare Workers",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "vaccine",
+      "healthcare",
+      "workers",
+      "titers",
+      "antibodies"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2021,
+    "numero": 29,
+    "titulo": "Overview of Neutralizing Antibodies and Their Potential in COVID-19",
+    "temas": [
+      {
+        "nombre": "COVID19"
+      }
+    ],
+    "tema_principal": "COVID19",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "antibodies",
+      "neutralizing",
+      "overview",
+      "their",
+      "potential"
+    ],
+    "problema_abordado": "Investigación en covid19"
+  },
+  {
+    "año": 2021,
+    "numero": 30,
+    "titulo": "Prevalence and Risk Factors of Food Insecurity among Mexican University Students' Households",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "mexican",
+      "insecurity",
+      "among",
+      "university",
+      "students"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2021,
+    "numero": 31,
+    "titulo": "Association between the TAP1 gene polymorphisms and recurrent respiratory papillomatosis in patients from Western Mexico",
+    "temas": [
+      {
+        "nombre": "GENETICA_NUTRICION"
+      }
+    ],
+    "tema_principal": "GENETICA_NUTRICION",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "western",
+      "polymorphisms",
+      "recurrent",
+      "respiratory",
+      "association"
+    ],
+    "problema_abordado": "Investigación en genetica nutricion"
+  },
+  {
+    "año": 2021,
+    "numero": 33,
+    "titulo": "Performance evaluation of a lateral flow assay for nasopharyngeal antigen detection for SARS-CoV-2 diagnosis",
+    "temas": [
+      {
+        "nombre": "COVID19"
+      }
+    ],
+    "tema_principal": "COVID19",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "detection",
+      "diagnosis",
+      "antigen",
+      "nasopharyngeal",
+      "lateral"
+    ],
+    "problema_abordado": "Investigación en covid19"
+  },
+  {
+    "año": 2021,
+    "numero": 34,
+    "titulo": "17β-estradiol modulates the expression of hormonal receptors on THP-1 T gondii-infected macrophages and monocytes",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "estradiol",
+      "receptors",
+      "monocytes",
+      "expression",
+      "hormonal"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2021,
+    "numero": 35,
+    "titulo": "Direct and Indirect Effects of COVID-19 in Frail Elderly: Interventions and Recommendations",
+    "temas": [
+      {
+        "nombre": "COVID19"
+      }
+    ],
+    "tema_principal": "COVID19",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "elderly",
+      "interventions",
+      "recommendations",
+      "indirect",
+      "effects"
+    ],
+    "problema_abordado": "Investigación en covid19"
+  },
+  {
+    "año": 2021,
+    "numero": 36,
+    "titulo": "Advances in Genetics and Epigenetic Alterations in Alzheimer's Disease: A Notion for Therapeutic Treatment",
+    "temas": [
+      {
+        "nombre": "GENETICA_NUTRICION"
+      }
+    ],
+    "tema_principal": "GENETICA_NUTRICION",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "advances",
+      "alterations",
+      "disease",
+      "epigenetic",
+      "alzheimer"
+    ],
+    "problema_abordado": "Investigación en genetica nutricion"
+  },
+  {
+    "año": 2021,
+    "numero": 37,
+    "titulo": "PTPN22 gene functional polymorphism (rs2476601) in older adults with frailty syndrome",
+    "temas": [
+      {
+        "nombre": "GENETICA_NUTRICION"
+      }
+    ],
+    "tema_principal": "GENETICA_NUTRICION",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "polymorphism",
+      "adults",
+      "syndrome",
+      "frailty",
+      "older"
+    ],
+    "problema_abordado": "Investigación en genetica nutricion"
+  },
+  {
+    "año": 2021,
+    "numero": 38,
+    "titulo": "A Local Health Situation Room for COVID-19: Recommendations for Decision-Making From a Higher Education Institution",
+    "temas": [
+      {
+        "nombre": "COVID19"
+      }
+    ],
+    "tema_principal": "COVID19",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "decision",
+      "health",
+      "making",
+      "recommendations",
+      "local"
+    ],
+    "problema_abordado": "Investigación en covid19"
+  },
+  {
+    "año": 2021,
+    "numero": 39,
+    "titulo": "Troublesome friends within us: the role of gut microbiota on rheumatoid arthritis etiopathogenesis",
+    "temas": [
+      {
+        "nombre": "ENFERMEDADES_AUTOINMUNES"
+      },
+      {
+        "nombre": "MICROBIOTA_INTESTINAL"
+      },
+      {
+        "nombre": "GENETICA_NUTRICION"
+      }
+    ],
+    "tema_principal": "ENFERMEDADES_AUTOINMUNES",
+    "temas_secundarios": [
+      "MICROBIOTA_INTESTINAL",
+      "GENETICA_NUTRICION"
+    ],
+    "palabras_clave": [
+      "within",
+      "microbiota",
+      "etiopathogenesis",
+      "troublesome",
+      "rheumatoid"
+    ],
+    "problema_abordado": "Investigación en enfermedades autoinmunes"
+  },
+  {
+    "año": 2021,
+    "numero": 40,
+    "titulo": "Pleiotrophin Serum Level is Increased in Relapsing-Remitting Multiple Sclerosis and Correlates With Sex BMI and Treatment",
+    "temas": [
+      {
+        "nombre": "OBESIDAD_SOBREPESO"
+      },
+      {
+        "nombre": "ENFERMEDADES_AUTOINMUNES"
+      }
+    ],
+    "tema_principal": "OBESIDAD_SOBREPESO",
+    "temas_secundarios": [
+      "ENFERMEDADES_AUTOINMUNES"
+    ],
+    "palabras_clave": [
+      "serum",
+      "relapsing",
+      "pleiotrophin",
+      "sclerosis",
+      "correlates"
+    ],
+    "problema_abordado": "Investigación en obesidad sobrepeso"
+  },
+  {
+    "año": 2021,
+    "numero": 41,
+    "titulo": "Body Dissatisfaction and Its Association with Health-Related Factors in Rural and Urban Mexican Adolescents",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "health",
+      "urban",
+      "rural",
+      "association",
+      "related"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2021,
+    "numero": 42,
+    "titulo": "The Newcastle satisfaction with nursing scales in a Mexican Oncology Hospital",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "mexican",
+      "scales",
+      "satisfaction",
+      "oncology",
+      "newcastle"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2021,
+    "numero": 43,
+    "titulo": "Canonical (CD74/CD44) and Non-Canonical (CXCR2 4 and 7) MIF Receptors Are Differentially Expressed in Rheumatoid Arthritis",
+    "temas": [
+      {
+        "nombre": "ENFERMEDADES_AUTOINMUNES"
+      }
+    ],
+    "tema_principal": "ENFERMEDADES_AUTOINMUNES",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "receptors",
+      "differentially",
+      "canonical",
+      "expressed",
+      "rheumatoid"
+    ],
+    "problema_abordado": "Investigación en enfermedades autoinmunes"
+  },
+  {
+    "año": 2021,
+    "numero": 44,
+    "titulo": "Vitamin D Levels in COVID-19 Outpatients from Western Mexico: Clinical Correlation and Effect of Its Supplementation",
+    "temas": [
+      {
+        "nombre": "COVID19"
+      }
+    ],
+    "tema_principal": "COVID19",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "western",
+      "outpatients",
+      "levels",
+      "mexico",
+      "correlation"
+    ],
+    "problema_abordado": "Investigación en covid19"
+  },
+  {
+    "año": 2021,
+    "numero": 45,
+    "titulo": "A review: Antibody-dependent enhancement in COVID-19: The not so friendly side of antibodies",
+    "temas": [
+      {
+        "nombre": "COVID19"
+      }
+    ],
+    "tema_principal": "COVID19",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "review",
+      "dependent",
+      "enhancement",
+      "friendly",
+      "antibodies"
+    ],
+    "problema_abordado": "Investigación en covid19"
+  },
+  {
+    "año": 2021,
+    "numero": 46,
+    "titulo": "Enfermedades reumáticas y alergias la dualidad del sistema inmunológico",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "sistema",
+      "alergias",
+      "dualidad",
+      "enfermedades"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2021,
+    "numero": 47,
+    "titulo": "Validation of semiquantitative FFQ administered to adults: a systematic review",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "review",
+      "adults",
+      "administered",
+      "validation",
+      "systematic"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2021,
+    "numero": 48,
+    "titulo": "Participación de la vitamina A en la producción de IgA secretora en el epitelio del tracto respiratorio",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "tracto",
+      "vitamina",
+      "respiratorio",
+      "epitelio",
+      "secretora"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2021,
+    "numero": 49,
+    "titulo": "Potential immunomodulatory effects of vitamin D in the prevention of severe coronavirus disease 2019",
+    "temas": [
+      {
+        "nombre": "COVID19"
+      }
+    ],
+    "tema_principal": "COVID19",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "vitamin",
+      "disease",
+      "coronavirus",
+      "severe",
+      "effects"
+    ],
+    "problema_abordado": "Investigación en covid19"
+  },
+  {
+    "año": 2021,
+    "numero": 51,
+    "titulo": "Neck and Wrist Circumferences as Indicators of Metabolic Alterations in the Pediatric Population: A Scoping Review",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "review",
+      "circumferences",
+      "alterations",
+      "pediatric",
+      "population"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2021,
+    "numero": 52,
+    "titulo": "RT-qPCR Assays for Rapid Detection of the N501Y 69-70del K417N and E484K SARS-CoV-2 Mutations",
+    "temas": [
+      {
+        "nombre": "COVID19"
+      }
+    ],
+    "tema_principal": "COVID19",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "detection",
+      "mutations",
+      "assays",
+      "rapid"
+    ],
+    "problema_abordado": "Investigación en covid19"
+  },
+  {
+    "año": 2021,
+    "numero": 53,
+    "titulo": "A Comprehensive Descriptive Epidemiological and Clinical Analysis of SARS-CoV-2 in West-Mexico during COVID-19 Pandemic 2020",
+    "temas": [
+      {
+        "nombre": "COVID19"
+      }
+    ],
+    "tema_principal": "COVID19",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "analysis",
+      "mexico",
+      "epidemiological",
+      "during",
+      "pandemic"
+    ],
+    "problema_abordado": "Investigación en covid19"
+  },
+  {
+    "año": 2021,
+    "numero": 54,
+    "titulo": "Association between IL-17A IL-17F and IL-17RA gene polymorphisms and susceptibility to psoriasis and psoriatic arthritis",
+    "temas": [
+      {
+        "nombre": "GENETICA_NUTRICION"
+      },
+      {
+        "nombre": "ENFERMEDADES_AUTOINMUNES"
+      }
+    ],
+    "tema_principal": "GENETICA_NUTRICION",
+    "temas_secundarios": [
+      "ENFERMEDADES_AUTOINMUNES"
+    ],
+    "palabras_clave": [
+      "psoriasis",
+      "polymorphisms",
+      "susceptibility",
+      "psoriatic",
+      "association"
+    ],
+    "problema_abordado": "Investigación en genetica nutricion"
+  },
+  {
+    "año": 2021,
+    "numero": 55,
+    "titulo": "Macrophage migration inhibitory factor: A promising oncogenic serological biomarker for oral squamous cell carcinoma",
+    "temas": [
+      {
+        "nombre": "CANCER"
+      }
+    ],
+    "tema_principal": "CANCER",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "squamous",
+      "biomarker",
+      "serological",
+      "factor",
+      "migration"
+    ],
+    "problema_abordado": "Investigación en cancer"
+  },
+  {
+    "año": 2022,
+    "numero": 1,
+    "titulo": "Escherichia/Shigella SCFAs and Metabolic Pathways-The Triad That Orchestrates Intestinal Dysbiosis",
+    "temas": [
+      {
+        "nombre": "MICROBIOTA_INTESTINAL"
+      },
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "MICROBIOTA_INTESTINAL",
+    "temas_secundarios": [
+      "INFLAMACION_METABOLICA"
+    ],
+    "palabras_clave": [
+      "intestinal",
+      "orchestrates",
+      "escherichia",
+      "metabolic",
+      "pathways"
+    ],
+    "problema_abordado": "Investigación en microbiota intestinal"
+  },
+  {
+    "año": 2022,
+    "numero": 2,
+    "titulo": "Emotional Eating and Dietary Patterns: Reflecting Food Choices in People with and without Abdominal Obesity",
+    "temas": [
+      {
+        "nombre": "OBESIDAD_SOBREPESO"
+      }
+    ],
+    "tema_principal": "OBESIDAD_SOBREPESO",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "eating",
+      "without",
+      "emotional",
+      "people",
+      "choices"
+    ],
+    "problema_abordado": "Investigación en obesidad sobrepeso"
+  },
+  {
+    "año": 2022,
+    "numero": 3,
+    "titulo": "Therapeutic response to leflunomide in combo therapy and monotherapy is associated to serum teriflunomide levels",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "leflunomide",
+      "associated",
+      "serum",
+      "levels",
+      "teriflunomide"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2022,
+    "numero": 4,
+    "titulo": "Breastfeeding training in Mexican health students may not be enough: A case analysis",
+    "temas": [
+      {
+        "nombre": "ACTIVIDAD_FISICA"
+      }
+    ],
+    "tema_principal": "ACTIVIDAD_FISICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "mexican",
+      "health",
+      "analysis",
+      "students",
+      "training"
+    ],
+    "problema_abordado": "Investigación en actividad fisica"
+  },
+  {
+    "año": 2022,
+    "numero": 5,
+    "titulo": "The Effect of Dietary Interventions on Hypertriglyceridemia: From Public Health to Molecular Nutrition Evidence",
+    "temas": [
+      {
+        "nombre": "LIPIDOS_COLESTEROL"
+      }
+    ],
+    "tema_principal": "LIPIDOS_COLESTEROL",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "health",
+      "interventions",
+      "nutrition",
+      "hypertriglyceridemia",
+      "public"
+    ],
+    "problema_abordado": "Investigación en lipidos colesterol"
+  },
+  {
+    "año": 2022,
+    "numero": 6,
+    "titulo": "Methodological Aspects in Randomized Clinical Trials of Nutritional Interventions",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "interventions",
+      "methodological",
+      "randomized",
+      "nutritional",
+      "aspects"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2022,
+    "numero": 7,
+    "titulo": "Psychological responses to COVID-19 in a Mexican population: an exploratory study during second and third phases",
+    "temas": [
+      {
+        "nombre": "COVID19"
+      }
+    ],
+    "tema_principal": "COVID19",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "mexican",
+      "population",
+      "psychological",
+      "during",
+      "exploratory"
+    ],
+    "problema_abordado": "Investigación en covid19"
+  },
+  {
+    "año": 2022,
+    "numero": 8,
+    "titulo": "The Reproducibility and Relative Validity of a Food Frequency Questionnaire for Identifying Iron-Related Dietary Patterns",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "frequency",
+      "reproducibility",
+      "relative",
+      "related",
+      "identifying"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2022,
+    "numero": 9,
+    "titulo": "Trace elements in blood of Baltic gray seal pups from the Gulf of Riga and their relationship with biochemical parameters",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "baltic",
+      "trace",
+      "blood",
+      "elements"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2022,
+    "numero": 10,
+    "titulo": "The growing need to monitor the liver function after SARS-CoV-2 infection in the Mexican population with obesity",
+    "temas": [
+      {
+        "nombre": "OBESIDAD_SOBREPESO"
+      },
+      {
+        "nombre": "COVID19"
+      }
+    ],
+    "tema_principal": "OBESIDAD_SOBREPESO",
+    "temas_secundarios": [
+      "COVID19"
+    ],
+    "palabras_clave": [
+      "mexican",
+      "function",
+      "after",
+      "population",
+      "monitor"
+    ],
+    "problema_abordado": "Investigación en obesidad sobrepeso"
+  },
+  {
+    "año": 2022,
+    "numero": 11,
+    "titulo": "A First Record of Organochlorine Pesticides in Barn Owls from Portugal",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "record",
+      "first",
+      "portugal",
+      "pesticides",
+      "organochlorine"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2022,
+    "numero": 12,
+    "titulo": "Role of Leu72Met of GHRL and Gln223Arg of LEPR Variants on Food Intake Subjective Appetite and Hunger-Satiety Hormones",
+    "temas": [
+      {
+        "nombre": "GENETICA_NUTRICION"
+      }
+    ],
+    "tema_principal": "GENETICA_NUTRICION",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "subjective",
+      "appetite",
+      "hunger",
+      "satiety",
+      "variants"
+    ],
+    "problema_abordado": "Investigación en genetica nutricion"
+  },
+  {
+    "año": 2022,
+    "numero": 13,
+    "titulo": "Effect of Metformin on Glycemic Control Regarding Carriers of the SLC22A1/OCT1 Polymorphism",
+    "temas": [
+      {
+        "nombre": "DIABETES"
+      },
+      {
+        "nombre": "GENETICA_NUTRICION"
+      }
+    ],
+    "tema_principal": "DIABETES",
+    "temas_secundarios": [
+      "GENETICA_NUTRICION"
+    ],
+    "palabras_clave": [
+      "polymorphism",
+      "carriers",
+      "control",
+      "metformin",
+      "effect"
+    ],
+    "problema_abordado": "Investigación en diabetes"
+  },
+  {
+    "año": 2023,
+    "numero": 1,
+    "titulo": "Physical Activity Protocols in Non-Alcoholic Fatty Liver Disease Management: A Systematic Review",
+    "temas": [
+      {
+        "nombre": "OBESIDAD_SOBREPESO"
+      },
+      {
+        "nombre": "ACTIVIDAD_FISICA"
+      }
+    ],
+    "tema_principal": "OBESIDAD_SOBREPESO",
+    "temas_secundarios": [
+      "ACTIVIDAD_FISICA"
+    ],
+    "palabras_clave": [
+      "alcoholic",
+      "disease",
+      "liver",
+      "management",
+      "activity"
+    ],
+    "problema_abordado": "Investigación en obesidad sobrepeso"
+  },
+  {
+    "año": 2023,
+    "numero": 2,
+    "titulo": "Food insecurity was negatively associated with adherence to the fruits vegetables dietary pattern",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "negatively",
+      "insecurity",
+      "associated",
+      "fruits",
+      "dietary"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2023,
+    "numero": 3,
+    "titulo": "Nutritional biochemical and clinical determinants of hyperuricemia in systemic lupus erythematosus patients",
+    "temas": [
+      {
+        "nombre": "ENFERMEDADES_AUTOINMUNES"
+      }
+    ],
+    "tema_principal": "ENFERMEDADES_AUTOINMUNES",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "determinants",
+      "systemic",
+      "lupus",
+      "nutritional",
+      "clinical"
+    ],
+    "problema_abordado": "Investigación en enfermedades autoinmunes"
+  },
+  {
+    "año": 2023,
+    "numero": 4,
+    "titulo": "Severe COVID-19: Drugs and Clinical Trials",
+    "temas": [
+      {
+        "nombre": "COVID19"
+      }
+    ],
+    "tema_principal": "COVID19",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "drugs",
+      "severe",
+      "clinical",
+      "trials"
+    ],
+    "problema_abordado": "Investigación en covid19"
+  },
+  {
+    "año": 2023,
+    "numero": 5,
+    "titulo": "Immunostimulant effects of diet supplementation with yellow white and black sapote nanocapsules on laying hens",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "yellow",
+      "white",
+      "supplementation",
+      "black",
+      "effects"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2023,
+    "numero": 6,
+    "titulo": "Low glycemic index common bean snack increased satiety without modifying energy intake in adults with normal weight",
+    "temas": [
+      {
+        "nombre": "OBESIDAD_SOBREPESO"
+      },
+      {
+        "nombre": "DIABETES"
+      }
+    ],
+    "tema_principal": "OBESIDAD_SOBREPESO",
+    "temas_secundarios": [
+      "DIABETES"
+    ],
+    "palabras_clave": [
+      "snack",
+      "without",
+      "common",
+      "increased",
+      "modifying"
+    ],
+    "problema_abordado": "Investigación en obesidad sobrepeso"
+  },
+  {
+    "año": 2023,
+    "numero": 7,
+    "titulo": "A systematic review of educational nutrition interventions based on behavioral theories in school adolescents",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "review",
+      "behavioral",
+      "interventions",
+      "nutrition",
+      "adolescents"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2023,
+    "numero": 8,
+    "titulo": "Evening types as determined by subjective and objective measures are more emotional eaters",
+    "temas": [
+      {
+        "nombre": "OBESIDAD_SOBREPESO"
+      }
+    ],
+    "tema_principal": "OBESIDAD_SOBREPESO",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "evening",
+      "eaters",
+      "subjective",
+      "types",
+      "determined"
+    ],
+    "problema_abordado": "Investigación en obesidad sobrepeso"
+  },
+  {
+    "año": 2023,
+    "numero": 9,
+    "titulo": "A mix of ginger phenols exhibits anti‑adipogenic and lipolytic effects in mature adipocytes derived from 3T3‑L1 cells",
+    "temas": [
+      {
+        "nombre": "OBESIDAD_SOBREPESO"
+      }
+    ],
+    "tema_principal": "OBESIDAD_SOBREPESO",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "mature",
+      "ginger",
+      "exhibits",
+      "adipocytes",
+      "effects"
+    ],
+    "problema_abordado": "Investigación en obesidad sobrepeso"
+  },
+  {
+    "año": 2023,
+    "numero": 10,
+    "titulo": "A Balanced Dietary Ratio of n-6:n-3 Polyunsaturated Fatty Acids Exerts an Effect on Total Fatty Acid Profile",
+    "temas": [
+      {
+        "nombre": "OBESIDAD_SOBREPESO"
+      },
+      {
+        "nombre": "LIPIDOS_COLESTEROL"
+      }
+    ],
+    "tema_principal": "OBESIDAD_SOBREPESO",
+    "temas_secundarios": [
+      "LIPIDOS_COLESTEROL"
+    ],
+    "palabras_clave": [
+      "balanced",
+      "polyunsaturated",
+      "ratio",
+      "fatty",
+      "exerts"
+    ],
+    "problema_abordado": "Investigación en obesidad sobrepeso"
+  },
+  {
+    "año": 2023,
+    "numero": 11,
+    "titulo": "Skinfold Thickness as a Cardiometabolic Risk Predictor in Sedentary and Active Adult Populations",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "adult",
+      "predictor",
+      "cardiometabolic",
+      "active",
+      "sedentary"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2023,
+    "numero": 12,
+    "titulo": "The Influence of Lifestyle on High-Density Lipoprotein Concentration among Mexican Emerging Adults",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "mexican",
+      "among",
+      "emerging",
+      "concentration",
+      "density"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2023,
+    "numero": 13,
+    "titulo": "FTO genotypes (rs9939609 T>A) are Associated with Increased Added Sugar Intake in Healthy Young Adults",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "associated",
+      "genotypes",
+      "young",
+      "adults",
+      "healthy"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2023,
+    "numero": 14,
+    "titulo": "Effects of Foods of Mesoamerican Origin in Adipose Tissue and Liver-Related Metabolism",
+    "temas": [
+      {
+        "nombre": "OBESIDAD_SOBREPESO"
+      }
+    ],
+    "tema_principal": "OBESIDAD_SOBREPESO",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "metabolism",
+      "liver",
+      "foods",
+      "tissue",
+      "adipose"
+    ],
+    "problema_abordado": "Investigación en obesidad sobrepeso"
+  },
+  {
+    "año": 2023,
+    "numero": 15,
+    "titulo": "Breastfeeding-Related Health Benefits in Children and Mothers: Vital Organs Perspective",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "health",
+      "perspective",
+      "vital",
+      "children",
+      "benefits"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2023,
+    "numero": 16,
+    "titulo": "A Nutrigenetic Strategy for Reducing Blood Lipids and Low-Grade Inflammation in Adults with Obesity and Overweight",
+    "temas": [
+      {
+        "nombre": "OBESIDAD_SOBREPESO"
+      },
+      {
+        "nombre": "GENETICA_NUTRICION"
+      },
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      },
+      {
+        "nombre": "LIPIDOS_COLESTEROL"
+      }
+    ],
+    "tema_principal": "OBESIDAD_SOBREPESO",
+    "temas_secundarios": [
+      "GENETICA_NUTRICION",
+      "INFLAMACION_METABOLICA",
+      "LIPIDOS_COLESTEROL"
+    ],
+    "palabras_clave": [
+      "strategy",
+      "lipids",
+      "blood",
+      "reducing",
+      "adults"
+    ],
+    "problema_abordado": "Investigación en obesidad sobrepeso"
+  },
+  {
+    "año": 2023,
+    "numero": 17,
+    "titulo": "Elevated Serum Low-Density Lipoproteins-Cholesterol Levels and B1B2/B2B2 CETP Genotype Are Positively Associated",
+    "temas": [
+      {
+        "nombre": "LIPIDOS_COLESTEROL"
+      }
+    ],
+    "tema_principal": "LIPIDOS_COLESTEROL",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "positively",
+      "levels",
+      "serum",
+      "lipoproteins",
+      "genotype"
+    ],
+    "problema_abordado": "Investigación en lipidos colesterol"
+  },
+  {
+    "año": 2023,
+    "numero": 18,
+    "titulo": "Abdominal Obesity Excessive Adiposity and the Taq1B CETP Variant Are Positively Associated with Serum Lipid Levels",
+    "temas": [
+      {
+        "nombre": "OBESIDAD_SOBREPESO"
+      },
+      {
+        "nombre": "GENETICA_NUTRICION"
+      },
+      {
+        "nombre": "LIPIDOS_COLESTEROL"
+      }
+    ],
+    "tema_principal": "OBESIDAD_SOBREPESO",
+    "temas_secundarios": [
+      "GENETICA_NUTRICION",
+      "LIPIDOS_COLESTEROL"
+    ],
+    "palabras_clave": [
+      "positively",
+      "associated",
+      "adiposity",
+      "serum",
+      "obesity"
+    ],
+    "problema_abordado": "Investigación en obesidad sobrepeso"
+  },
+  {
+    "año": 2023,
+    "numero": 19,
+    "titulo": "Methyl Donor Micronutrients: A Potential Dietary Epigenetic Target in Systemic Lupus Erythematosus Patients",
+    "temas": [
+      {
+        "nombre": "GENETICA_NUTRICION"
+      },
+      {
+        "nombre": "ENFERMEDADES_AUTOINMUNES"
+      }
+    ],
+    "tema_principal": "GENETICA_NUTRICION",
+    "temas_secundarios": [
+      "ENFERMEDADES_AUTOINMUNES"
+    ],
+    "palabras_clave": [
+      "methyl",
+      "systemic",
+      "lupus",
+      "donor",
+      "epigenetic"
+    ],
+    "problema_abordado": "Investigación en genetica nutricion"
+  },
+  {
+    "año": 2023,
+    "numero": 20,
+    "titulo": "Association of - 717 A > G (rs2794521) CRP polymorphism with high cardiovascular risk by C-reactive protein",
+    "temas": [
+      {
+        "nombre": "GENETICA_NUTRICION"
+      }
+    ],
+    "tema_principal": "GENETICA_NUTRICION",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "cardiovascular",
+      "reactive",
+      "polymorphism",
+      "protein",
+      "association"
+    ],
+    "problema_abordado": "Investigación en genetica nutricion"
+  },
+  {
+    "año": 2023,
+    "numero": 21,
+    "titulo": "Nutritional Approaches to Modulate Cardiovascular Disease Risk in Systemic Lupus Erythematosus: A Literature Review",
+    "temas": [
+      {
+        "nombre": "ENFERMEDADES_AUTOINMUNES"
+      }
+    ],
+    "tema_principal": "ENFERMEDADES_AUTOINMUNES",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "cardiovascular",
+      "systemic",
+      "modulate",
+      "disease",
+      "lupus"
+    ],
+    "problema_abordado": "Investigación en enfermedades autoinmunes"
+  },
+  {
+    "año": 2023,
+    "numero": 22,
+    "titulo": "10‑Gingerol a novel ginger compound exhibits antiadipogenic effects without compromising cell viability in 3T3‑L1 cells",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "ginger",
+      "without",
+      "compound",
+      "novel",
+      "exhibits"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2023,
+    "numero": 23,
+    "titulo": "Lipid-Related Genetic Variants for Personalized Dietary Interventions: A Systematic Review",
+    "temas": [
+      {
+        "nombre": "GENETICA_NUTRICION"
+      },
+      {
+        "nombre": "LIPIDOS_COLESTEROL"
+      }
+    ],
+    "tema_principal": "GENETICA_NUTRICION",
+    "temas_secundarios": [
+      "LIPIDOS_COLESTEROL"
+    ],
+    "palabras_clave": [
+      "review",
+      "genetic",
+      "interventions",
+      "personalized",
+      "variants"
+    ],
+    "problema_abordado": "Investigación en genetica nutricion"
+  },
+  {
+    "año": 2023,
+    "numero": 24,
+    "titulo": "Medical nutrition therapy in patients receiving extracorporeal membrane oxygenation: knowledge in progress",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "membrane",
+      "nutrition",
+      "oxygenation",
+      "medical",
+      "receiving"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2023,
+    "numero": 25,
+    "titulo": "FAAH Pro129Thr Variant Is Associated with Increased Cholesterol Levels in Normal-Weight Metabolically Unhealthy Subjects",
+    "temas": [
+      {
+        "nombre": "OBESIDAD_SOBREPESO"
+      },
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      },
+      {
+        "nombre": "GENETICA_NUTRICION"
+      },
+      {
+        "nombre": "LIPIDOS_COLESTEROL"
+      }
+    ],
+    "tema_principal": "OBESIDAD_SOBREPESO",
+    "temas_secundarios": [
+      "INFLAMACION_METABOLICA",
+      "GENETICA_NUTRICION",
+      "LIPIDOS_COLESTEROL"
+    ],
+    "palabras_clave": [
+      "weight",
+      "associated",
+      "levels",
+      "normal",
+      "metabolically"
+    ],
+    "problema_abordado": "Investigación en obesidad sobrepeso"
+  },
+  {
+    "año": 2023,
+    "numero": 26,
+    "titulo": "Development characterization and immunomodulation performance of spray-dried Moringa oleifera seed extract",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "dried",
+      "performance",
+      "immunomodulation",
+      "spray",
+      "characterization"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2023,
+    "numero": 27,
+    "titulo": "Vitamin D in Depression: A Potential Bioactive Agent to Reduce Suicide and Suicide Attempt Risk",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "bioactive",
+      "depression",
+      "agent",
+      "attempt",
+      "reduce"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2023,
+    "numero": 28,
+    "titulo": "Effect of Human Adenovirus 36 on Response to Metformin Monotherapy in Obese Mexican Patients with Type 2 Diabetes",
+    "temas": [
+      {
+        "nombre": "DIABETES"
+      }
+    ],
+    "tema_principal": "DIABETES",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "mexican",
+      "monotherapy",
+      "human",
+      "metformin",
+      "obese"
+    ],
+    "problema_abordado": "Investigación en diabetes"
+  },
+  {
+    "año": 2023,
+    "numero": 29,
+    "titulo": "Pharmacomicrobiomics and Drug-Infection Interactions: The Impact of Commensal Symbiotic and Pathogenic Microorganisms",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "interactions",
+      "pharmacomicrobiomics",
+      "microorganisms",
+      "symbiotic",
+      "pathogenic"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2023,
+    "numero": 30,
+    "titulo": "Association of intestinal dysbiosis with susceptibility to multiple sclerosis: Evidence from different population studies",
+    "temas": [
+      {
+        "nombre": "MICROBIOTA_INTESTINAL"
+      },
+      {
+        "nombre": "ENFERMEDADES_AUTOINMUNES"
+      }
+    ],
+    "tema_principal": "MICROBIOTA_INTESTINAL",
+    "temas_secundarios": [
+      "ENFERMEDADES_AUTOINMUNES"
+    ],
+    "palabras_clave": [
+      "intestinal",
+      "evidence",
+      "different",
+      "sclerosis",
+      "susceptibility"
+    ],
+    "problema_abordado": "Investigación en microbiota intestinal"
+  },
+  {
+    "año": 2023,
+    "numero": 31,
+    "titulo": "A Commentary on: Serum Trace Element Concentrations in Rheumatoid Arthritis",
+    "temas": [
+      {
+        "nombre": "ENFERMEDADES_AUTOINMUNES"
+      }
+    ],
+    "tema_principal": "ENFERMEDADES_AUTOINMUNES",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "commentary",
+      "serum",
+      "concentrations",
+      "element",
+      "trace"
+    ],
+    "problema_abordado": "Investigación en enfermedades autoinmunes"
+  },
+  {
+    "año": 2023,
+    "numero": 32,
+    "titulo": "Relationship between lipid profile anthropometric indicators and appetite- regulating hormones in infants",
+    "temas": [
+      {
+        "nombre": "LIPIDOS_COLESTEROL"
+      }
+    ],
+    "tema_principal": "LIPIDOS_COLESTEROL",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "appetite",
+      "profile",
+      "indicators",
+      "anthropometric",
+      "relationship"
+    ],
+    "problema_abordado": "Investigación en lipidos colesterol"
+  },
+  {
+    "año": 2023,
+    "numero": 33,
+    "titulo": "Lifestyle mediators of associations among siestas obesity and metabolic health",
+    "temas": [
+      {
+        "nombre": "OBESIDAD_SOBREPESO"
+      },
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "OBESIDAD_SOBREPESO",
+    "temas_secundarios": [
+      "INFLAMACION_METABOLICA"
+    ],
+    "palabras_clave": [
+      "health",
+      "mediators",
+      "associations",
+      "among",
+      "siestas"
+    ],
+    "problema_abordado": "Investigación en obesidad sobrepeso"
+  },
+  {
+    "año": 2024,
+    "numero": 1,
+    "titulo": "A Two-Faced Gut Microbiome: Butyrogenic and Proinflammatory Bacteria Predominate in People Living with HIV",
+    "temas": [
+      {
+        "nombre": "MICROBIOTA_INTESTINAL"
+      },
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "MICROBIOTA_INTESTINAL",
+    "temas_secundarios": [
+      "INFLAMACION_METABOLICA"
+    ],
+    "palabras_clave": [
+      "butyrogenic",
+      "predominate",
+      "bacteria",
+      "living",
+      "faced"
+    ],
+    "problema_abordado": "Investigación en microbiota intestinal"
+  },
+  {
+    "año": 2024,
+    "numero": 2,
+    "titulo": "Beyond the Classroom: The Influence of Food Insecurity Mental Health and Sleep Quality on University Students",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "health",
+      "insecurity",
+      "classroom",
+      "beyond",
+      "mental"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2024,
+    "numero": 3,
+    "titulo": "Acute Antioxidant Response to Two Types of Exercises: 2000 M Run vs. Burpee Test",
+    "temas": [
+      {
+        "nombre": "ACTIVIDAD_FISICA"
+      }
+    ],
+    "tema_principal": "ACTIVIDAD_FISICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "exercises",
+      "acute",
+      "types",
+      "burpee",
+      "antioxidant"
+    ],
+    "problema_abordado": "Investigación en actividad fisica"
+  },
+  {
+    "año": 2024,
+    "numero": 4,
+    "titulo": "Transcriptional and epigenetic changes after dietary and surgical weight loss interventions",
+    "temas": [
+      {
+        "nombre": "GENETICA_NUTRICION"
+      },
+      {
+        "nombre": "OBESIDAD_SOBREPESO"
+      }
+    ],
+    "tema_principal": "GENETICA_NUTRICION",
+    "temas_secundarios": [
+      "OBESIDAD_SOBREPESO"
+    ],
+    "palabras_clave": [
+      "weight",
+      "interventions",
+      "transcriptional",
+      "epigenetic",
+      "after"
+    ],
+    "problema_abordado": "Investigación en genetica nutricion"
+  },
+  {
+    "año": 2024,
+    "numero": 7,
+    "titulo": "Educational Nutritional Intervention Program for Adolescents Based on Social Cognitive Theory",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "program",
+      "adolescents",
+      "intervention",
+      "educational",
+      "nutritional"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2024,
+    "numero": 8,
+    "titulo": "Positive correlation between n- 6:n-3 PUFA ratio intake with serum oxHDL/HDL-c ratio in patients with coronary artery disease",
+    "temas": [
+      {
+        "nombre": "LIPIDOS_COLESTEROL"
+      }
+    ],
+    "tema_principal": "LIPIDOS_COLESTEROL",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "serum",
+      "ratio",
+      "correlation",
+      "positive",
+      "patients"
+    ],
+    "problema_abordado": "Investigación en lipidos colesterol"
+  },
+  {
+    "año": 2024,
+    "numero": 9,
+    "titulo": "Social representations of breastfeeding in health science students: A first step to strengthening their training",
+    "temas": [
+      {
+        "nombre": "ACTIVIDAD_FISICA"
+      }
+    ],
+    "tema_principal": "ACTIVIDAD_FISICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "health",
+      "science",
+      "strengthening",
+      "students",
+      "first"
+    ],
+    "problema_abordado": "Investigación en actividad fisica"
+  },
+  {
+    "año": 2024,
+    "numero": 10,
+    "titulo": "Loss of the Y Chromosome: A Review of Molecular Mechanisms Age Inference and Implications for Men's Health",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "chromosome",
+      "review",
+      "health",
+      "implications",
+      "mechanisms"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2024,
+    "numero": 11,
+    "titulo": "Genetic risk score for insulin resistance based on gene variants associated to amino acid metabolism in young adults",
+    "temas": [
+      {
+        "nombre": "GENETICA_NUTRICION"
+      },
+      {
+        "nombre": "DIABETES"
+      }
+    ],
+    "tema_principal": "GENETICA_NUTRICION",
+    "temas_secundarios": [
+      "DIABETES"
+    ],
+    "palabras_clave": [
+      "genetic",
+      "score",
+      "resistance",
+      "associated",
+      "amino"
+    ],
+    "problema_abordado": "Investigación en genetica nutricion"
+  },
+  {
+    "año": 2024,
+    "numero": 12,
+    "titulo": "Low 25-Hydroxyvitamin D Levels as a Predictor of Depressive Symptoms: Evidence from Community- Dwelling Older Adults",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "evidence",
+      "levels",
+      "predictor",
+      "hydroxyvitamin",
+      "community"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2024,
+    "numero": 13,
+    "titulo": "Association between the FAAH C385A variant (rs324420) and obesity-related traits: a systematic review",
+    "temas": [
+      {
+        "nombre": "OBESIDAD_SOBREPESO"
+      },
+      {
+        "nombre": "GENETICA_NUTRICION"
+      }
+    ],
+    "tema_principal": "OBESIDAD_SOBREPESO",
+    "temas_secundarios": [
+      "GENETICA_NUTRICION"
+    ],
+    "palabras_clave": [
+      "review",
+      "association",
+      "obesity",
+      "traits",
+      "related"
+    ],
+    "problema_abordado": "Investigación en obesidad sobrepeso"
+  },
+  {
+    "año": 2024,
+    "numero": 14,
+    "titulo": "Effect of coffee intake on appetite parameters in woman with overweight or obesity: A pilot crossover randomized trial",
+    "temas": [
+      {
+        "nombre": "OBESIDAD_SOBREPESO"
+      },
+      {
+        "nombre": "DIABETES"
+      }
+    ],
+    "tema_principal": "OBESIDAD_SOBREPESO",
+    "temas_secundarios": [
+      "DIABETES"
+    ],
+    "palabras_clave": [
+      "parameters",
+      "woman",
+      "appetite",
+      "pilot",
+      "coffee"
+    ],
+    "problema_abordado": "Investigación en obesidad sobrepeso"
+  },
+  {
+    "año": 2024,
+    "numero": 15,
+    "titulo": "Relationship Between Serum Levels of Oxidized Lipoproteins Circulating Levels of Myeloperoxidase and Paraoxonase 1",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "levels",
+      "serum",
+      "lipoproteins",
+      "oxidized",
+      "paraoxonase"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2024,
+    "numero": 16,
+    "titulo": "FTO rs9939609: T>A Variant and Physical Inactivity as Important Risk Factors for Class III Obesity",
+    "temas": [
+      {
+        "nombre": "OBESIDAD_SOBREPESO"
+      },
+      {
+        "nombre": "GENETICA_NUTRICION"
+      }
+    ],
+    "tema_principal": "OBESIDAD_SOBREPESO",
+    "temas_secundarios": [
+      "GENETICA_NUTRICION"
+    ],
+    "palabras_clave": [
+      "class",
+      "obesity",
+      "physical",
+      "inactivity",
+      "factors"
+    ],
+    "problema_abordado": "Investigación en obesidad sobrepeso"
+  },
+  {
+    "año": 2024,
+    "numero": 17,
+    "titulo": "Contribution of extracellular vesicles to steatosis-related liver disease and their therapeutic potential",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "therapeutic",
+      "disease",
+      "extracellular",
+      "contribution",
+      "liver"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2024,
+    "numero": 18,
+    "titulo": "Clusters of Sociodemographic Characteristics and Their Association with Food Insecurity in Mexican University Students",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "mexican",
+      "insecurity",
+      "university",
+      "association",
+      "clusters"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2024,
+    "numero": 19,
+    "titulo": "Association of c.+677 C>T and c.+1298 A>C MTHFR genetic variants with cardiometabolic and disease risk",
+    "temas": [
+      {
+        "nombre": "GENETICA_NUTRICION"
+      },
+      {
+        "nombre": "ENFERMEDADES_AUTOINMUNES"
+      },
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "GENETICA_NUTRICION",
+    "temas_secundarios": [
+      "ENFERMEDADES_AUTOINMUNES",
+      "INFLAMACION_METABOLICA"
+    ],
+    "palabras_clave": [
+      "genetic",
+      "disease",
+      "cardiometabolic",
+      "association",
+      "variants"
+    ],
+    "problema_abordado": "Investigación en genetica nutricion"
+  },
+  {
+    "año": 2024,
+    "numero": 20,
+    "titulo": "10-Gingerol reduces cytoplasmic lipid droplets and induces lipolysis in 3T3-L1 adipocytes",
+    "temas": [
+      {
+        "nombre": "OBESIDAD_SOBREPESO"
+      },
+      {
+        "nombre": "LIPIDOS_COLESTEROL"
+      }
+    ],
+    "tema_principal": "OBESIDAD_SOBREPESO",
+    "temas_secundarios": [
+      "LIPIDOS_COLESTEROL"
+    ],
+    "palabras_clave": [
+      "droplets",
+      "reduces",
+      "gingerol",
+      "adipocytes",
+      "induces"
+    ],
+    "problema_abordado": "Investigación en obesidad sobrepeso"
+  },
+  {
+    "año": 2024,
+    "numero": 21,
+    "titulo": "10-Gingerol Increases Antioxidant Enzymes and Attenuates Lipopolysaccharide-Induced Inflammation",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "attenuates",
+      "increases",
+      "inflammation",
+      "gingerol",
+      "enzymes"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2024,
+    "numero": 22,
+    "titulo": "FADS1 Genetic Variant and Omega-3 Supplementation Are Associated with Changes in Fatty Acid Composition",
+    "temas": [
+      {
+        "nombre": "GENETICA_NUTRICION"
+      },
+      {
+        "nombre": "LIPIDOS_COLESTEROL"
+      },
+      {
+        "nombre": "OBESIDAD_SOBREPESO"
+      }
+    ],
+    "tema_principal": "GENETICA_NUTRICION",
+    "temas_secundarios": [
+      "LIPIDOS_COLESTEROL",
+      "OBESIDAD_SOBREPESO"
+    ],
+    "palabras_clave": [
+      "genetic",
+      "omega",
+      "associated",
+      "supplementation",
+      "fatty"
+    ],
+    "problema_abordado": "Investigación en genetica nutricion"
+  },
+  {
+    "año": 2024,
+    "numero": 23,
+    "titulo": "Analysis of Potential Vitamin D Molecule Biomarkers: Association of Calcitriol and Its Hydroxylation Efficiency Ratio",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "analysis",
+      "molecule",
+      "association",
+      "hydroxylation",
+      "efficiency"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2024,
+    "numero": 24,
+    "titulo": "H3K9me3 demethylation by JMJD2B is regulated by pirfenidone resulting in improved NASH",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "pirfenidone",
+      "demethylation",
+      "improved",
+      "resulting",
+      "regulated"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2024,
+    "numero": 25,
+    "titulo": "Relationship of serum and dietary vitamin D with high cardiometabolic risk in Mexican systemic lupus erythematosus patients",
+    "temas": [
+      {
+        "nombre": "ENFERMEDADES_AUTOINMUNES"
+      },
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "ENFERMEDADES_AUTOINMUNES",
+    "temas_secundarios": [
+      "INFLAMACION_METABOLICA"
+    ],
+    "palabras_clave": [
+      "mexican",
+      "serum",
+      "systemic",
+      "cardiometabolic",
+      "dietary"
+    ],
+    "problema_abordado": "Investigación en enfermedades autoinmunes"
+  },
+  {
+    "año": 2024,
+    "numero": 26,
+    "titulo": "Updated-Food Choice Questionnaire: Cultural Adaptation and Validation in a Spanish-Speaking Population from Mexico",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "spanish",
+      "choice",
+      "speaking",
+      "validation",
+      "population"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2024,
+    "numero": 27,
+    "titulo": "Comparison of repeatability of subjective appetite sensations in men and women at different menstrual cycle phase",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "women",
+      "different",
+      "phase",
+      "repeatability",
+      "appetite"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2024,
+    "numero": 28,
+    "titulo": "Effects of Physical Activity on Cognition Behavior and Motor Skills in Youth with Autism Spectrum Disorder",
+    "temas": [
+      {
+        "nombre": "ACTIVIDAD_FISICA"
+      }
+    ],
+    "tema_principal": "ACTIVIDAD_FISICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "youth",
+      "skills",
+      "cognition",
+      "motor",
+      "activity"
+    ],
+    "problema_abordado": "Investigación en actividad fisica"
+  },
+  {
+    "año": 2024,
+    "numero": 29,
+    "titulo": "Modulatory L-Alliin Effect on Acute Inflammatory Cytokines in Diet-Induced Obesity Mice",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      },
+      {
+        "nombre": "OBESIDAD_SOBREPESO"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [
+      "OBESIDAD_SOBREPESO"
+    ],
+    "palabras_clave": [
+      "modulatory",
+      "alliin",
+      "acute",
+      "cytokines",
+      "induced"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2024,
+    "numero": 30,
+    "titulo": "The Role of Diet and Physical Activity in Shaping COVID-19 Severity",
+    "temas": [
+      {
+        "nombre": "ACTIVIDAD_FISICA"
+      },
+      {
+        "nombre": "COVID19"
+      }
+    ],
+    "tema_principal": "ACTIVIDAD_FISICA",
+    "temas_secundarios": [
+      "COVID19"
+    ],
+    "palabras_clave": [
+      "activity",
+      "shaping",
+      "physical",
+      "severity"
+    ],
+    "problema_abordado": "Investigación en actividad fisica"
+  },
+  {
+    "año": 2025,
+    "numero": 1,
+    "titulo": "First record of trace elements in cetaceans stranded along the Asturias Coastline Northwest Spain",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "record",
+      "elements",
+      "first",
+      "stranded",
+      "coastline"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2025,
+    "numero": 2,
+    "titulo": "Macrophage migration inhibitory factor: Exploring physiological roles and comparing health benefits",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "health",
+      "comparing",
+      "exploring",
+      "roles",
+      "factor"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2025,
+    "numero": 3,
+    "titulo": "The Role of TLRs in Obesity and Its Related Metabolic Disorders",
+    "temas": [
+      {
+        "nombre": "OBESIDAD_SOBREPESO"
+      },
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "OBESIDAD_SOBREPESO",
+    "temas_secundarios": [
+      "INFLAMACION_METABOLICA"
+    ],
+    "palabras_clave": [
+      "obesity",
+      "disorders",
+      "related",
+      "metabolic"
+    ],
+    "problema_abordado": "Investigación en obesidad sobrepeso"
+  },
+  {
+    "año": 2025,
+    "numero": 4,
+    "titulo": "Chrononutrition in Chronic Kidney Disease",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "disease",
+      "kidney",
+      "chronic",
+      "chrononutrition"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2025,
+    "numero": 5,
+    "titulo": "Assembly and activation of the NLRP3 inflammasome and cytokine quantification in response to exercise",
+    "temas": [
+      {
+        "nombre": "ACTIVIDAD_FISICA"
+      },
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "ACTIVIDAD_FISICA",
+    "temas_secundarios": [
+      "INFLAMACION_METABOLICA"
+    ],
+    "palabras_clave": [
+      "activation",
+      "inflammasome",
+      "quantification",
+      "cytokine",
+      "exercise"
+    ],
+    "problema_abordado": "Investigación en actividad fisica"
+  },
+  {
+    "año": 2025,
+    "numero": 6,
+    "titulo": "Phenotype-Driven Variability in Longitudinal Body Composition Changes After a Very Low-Calorie Ketogenic Intervention",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "composition",
+      "phenotype",
+      "after",
+      "driven",
+      "longitudinal"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2025,
+    "numero": 7,
+    "titulo": "Industrial Applications Principal Sources and Extraction of Galactomannans: A Review",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "galactomannans",
+      "review",
+      "industrial",
+      "applications",
+      "principal"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2025,
+    "numero": 8,
+    "titulo": "Malnutrition in Substance Use Disorders: A Critical Issue in Their Treatment and Recovery",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "issue",
+      "disorders",
+      "recovery",
+      "critical",
+      "treatment"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2025,
+    "numero": 10,
+    "titulo": "Dietary n-6:n-3 PUFA Ratio Modulates Inflammation-Related Gene Expression and Influences Improvements",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      },
+      {
+        "nombre": "GENETICA_NUTRICION"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [
+      "GENETICA_NUTRICION"
+    ],
+    "palabras_clave": [
+      "expression",
+      "improvements",
+      "inflammation",
+      "ratio",
+      "modulates"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2025,
+    "numero": 11,
+    "titulo": "Modulation of the Inflammatory Response by Adenovirus 36 in Patients with Obesity and Type 2 Diabetes",
+    "temas": [
+      {
+        "nombre": "OBESIDAD_SOBREPESO"
+      },
+      {
+        "nombre": "DIABETES"
+      },
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "OBESIDAD_SOBREPESO",
+    "temas_secundarios": [
+      "DIABETES",
+      "INFLAMACION_METABOLICA"
+    ],
+    "palabras_clave": [
+      "diabetes",
+      "obesity",
+      "inflammatory",
+      "patients",
+      "modulation"
+    ],
+    "problema_abordado": "Investigación en obesidad sobrepeso"
+  },
+  {
+    "año": 2025,
+    "numero": 12,
+    "titulo": "Phenolic Compounds and Anthocyanins in Legumes and Their Impact on Inflammation Oxidative Stress and Metabolism",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "metabolism",
+      "stress",
+      "phenolic",
+      "inflammation",
+      "anthocyanins"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2025,
+    "numero": 13,
+    "titulo": "Serum OxLDL Levels Are Positively Associated with the Number of Ischemic Events and Damaged Blood Vessels",
+    "temas": [
+      {
+        "nombre": "LIPIDOS_COLESTEROL"
+      }
+    ],
+    "tema_principal": "LIPIDOS_COLESTEROL",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "positively",
+      "levels",
+      "serum",
+      "associated",
+      "damaged"
+    ],
+    "problema_abordado": "Investigación en lipidos colesterol"
+  },
+  {
+    "año": 2025,
+    "numero": 14,
+    "titulo": "Immunometabolic Effects of Ginger Supplementation in Obesity: A Comprehensive Review",
+    "temas": [
+      {
+        "nombre": "OBESIDAD_SOBREPESO"
+      },
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "OBESIDAD_SOBREPESO",
+    "temas_secundarios": [
+      "INFLAMACION_METABOLICA"
+    ],
+    "palabras_clave": [
+      "review",
+      "ginger",
+      "immunometabolic",
+      "obesity",
+      "supplementation"
+    ],
+    "problema_abordado": "Investigación en obesidad sobrepeso"
+  },
+  {
+    "año": 2025,
+    "numero": 15,
+    "titulo": "A mixture of ginger phenolic compounds enhances mitochondrial function activates AMPK and reduces lipid accumulation",
+    "temas": [
+      {
+        "nombre": "LIPIDOS_COLESTEROL"
+      }
+    ],
+    "tema_principal": "LIPIDOS_COLESTEROL",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "reduces",
+      "ginger",
+      "mitochondrial",
+      "function",
+      "phenolic"
+    ],
+    "problema_abordado": "Investigación en lipidos colesterol"
+  },
+  {
+    "año": 2025,
+    "numero": 16,
+    "titulo": "Guidance and Position of RINN22 regarding Precision Nutrition and Nutriomics",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "position",
+      "guidance",
+      "nutrition",
+      "nutriomics",
+      "precision"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2025,
+    "numero": 17,
+    "titulo": "Associations of Sociodemographic Characteristics with Food Choice Motives' Importance Among Mexican Adults",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "mexican",
+      "associations",
+      "among",
+      "choice",
+      "importance"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2025,
+    "numero": 18,
+    "titulo": "Perfil eritrocitario y dietético de ácidos grasos omega-3 en mujeres embarazadas con sobrepeso u obesidad",
+    "temas": [
+      {
+        "nombre": "OBESIDAD_SOBREPESO"
+      },
+      {
+        "nombre": "LIPIDOS_COLESTEROL"
+      }
+    ],
+    "tema_principal": "OBESIDAD_SOBREPESO",
+    "temas_secundarios": [
+      "LIPIDOS_COLESTEROL"
+    ],
+    "palabras_clave": [
+      "eritrocitario",
+      "omega",
+      "embarazadas",
+      "grasos",
+      "sobrepeso"
+    ],
+    "problema_abordado": "Investigación en obesidad sobrepeso"
+  },
+  {
+    "año": 2025,
+    "numero": 19,
+    "titulo": "Design and Optimization of a Second-Generation Extruded Snack Using Carrot Waste Blue Corn Flour and Ellagic Acid",
+    "temas": [
+      {
+        "nombre": "GENETICA_NUTRICION"
+      }
+    ],
+    "tema_principal": "GENETICA_NUTRICION",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "snack",
+      "waste",
+      "optimization",
+      "using",
+      "carrot"
+    ],
+    "problema_abordado": "Investigación en genetica nutricion"
+  },
+  {
+    "año": 2025,
+    "numero": 20,
+    "titulo": "The blood pressure lowering effect of beetroot juice is impaired in periodontitis",
+    "temas": [
+      {
+        "nombre": "MICROBIOTA_INTESTINAL"
+      }
+    ],
+    "tema_principal": "MICROBIOTA_INTESTINAL",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "pressure",
+      "blood",
+      "juice",
+      "effect",
+      "beetroot"
+    ],
+    "problema_abordado": "Investigación en microbiota intestinal"
+  },
+  {
+    "año": 2025,
+    "numero": 21,
+    "titulo": "Uncoupling Proteins Variants Are Linked to Hypercholesterolemia and Abdominal Obesity in Metabolically Unhealthy Women",
+    "temas": [
+      {
+        "nombre": "OBESIDAD_SOBREPESO"
+      },
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      },
+      {
+        "nombre": "GENETICA_NUTRICION"
+      },
+      {
+        "nombre": "LIPIDOS_COLESTEROL"
+      }
+    ],
+    "tema_principal": "OBESIDAD_SOBREPESO",
+    "temas_secundarios": [
+      "INFLAMACION_METABOLICA",
+      "GENETICA_NUTRICION",
+      "LIPIDOS_COLESTEROL"
+    ],
+    "palabras_clave": [
+      "linked",
+      "proteins",
+      "abdominal",
+      "unhealthy",
+      "obesity"
+    ],
+    "problema_abordado": "Investigación en obesidad sobrepeso"
+  },
+  {
+    "año": 2025,
+    "numero": 22,
+    "titulo": "Mutual Impact of Dietary Antioxidants and TNF-α rs1800629 on Insulin Levels in Adults with Obesity",
+    "temas": [
+      {
+        "nombre": "OBESIDAD_SOBREPESO"
+      },
+      {
+        "nombre": "DIABETES"
+      }
+    ],
+    "tema_principal": "OBESIDAD_SOBREPESO",
+    "temas_secundarios": [
+      "DIABETES"
+    ],
+    "palabras_clave": [
+      "levels",
+      "antioxidants",
+      "adults",
+      "obesity",
+      "insulin"
+    ],
+    "problema_abordado": "Investigación en obesidad sobrepeso"
+  },
+  {
+    "año": 2025,
+    "numero": 23,
+    "titulo": "Effect of a Supervised Aerobic Exercise Training Program and Ginkgo Biloba Extract on Metabolic Parameters",
+    "temas": [
+      {
+        "nombre": "ACTIVIDAD_FISICA"
+      },
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "ACTIVIDAD_FISICA",
+    "temas_secundarios": [
+      "INFLAMACION_METABOLICA"
+    ],
+    "palabras_clave": [
+      "program",
+      "aerobic",
+      "ginkgo",
+      "biloba",
+      "supervised"
+    ],
+    "problema_abordado": "Investigación en actividad fisica"
+  },
+  {
+    "año": 2025,
+    "numero": 24,
+    "titulo": "Effect of a Diet Supplemented with Marine Omega-3 Fatty Acids on Inflammatory Markers in Subjects with Obesity",
+    "temas": [
+      {
+        "nombre": "OBESIDAD_SOBREPESO"
+      },
+      {
+        "nombre": "LIPIDOS_COLESTEROL"
+      },
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "OBESIDAD_SOBREPESO",
+    "temas_secundarios": [
+      "LIPIDOS_COLESTEROL",
+      "INFLAMACION_METABOLICA"
+    ],
+    "palabras_clave": [
+      "omega",
+      "supplemented",
+      "markers",
+      "marine",
+      "fatty"
+    ],
+    "problema_abordado": "Investigación en obesidad sobrepeso"
+  },
+  {
+    "año": 2025,
+    "numero": 25,
+    "titulo": "Sex differences in the prevalence and profile of metabolic syndrome in self-appointed healthy adults",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "adults",
+      "syndrome",
+      "differences",
+      "prevalence",
+      "profile"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  },
+  {
+    "año": 2025,
+    "numero": 26,
+    "titulo": "Carboxylated Osteocalcin as an Independent Predictor of Mean Arterial Pressure and the Atherogenic Index in Adults",
+    "temas": [
+      {
+        "nombre": "INFLAMACION_METABOLICA"
+      }
+    ],
+    "tema_principal": "INFLAMACION_METABOLICA",
+    "temas_secundarios": [],
+    "palabras_clave": [
+      "atherogenic",
+      "pressure",
+      "adults",
+      "predictor",
+      "independent"
+    ],
+    "problema_abordado": "Investigación en inflamacion metabolica"
+  }
+]
