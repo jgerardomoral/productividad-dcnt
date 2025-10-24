@@ -1172,8 +1172,11 @@ def create_upset_plot(lineas_data):
     intersecciones = {}
 
     for art in lineas_data['articulos']:
-        lineas = art['clasificacion'].get('lineas_principales', [])
-        lineas_nums = sorted(set([l['linea'] for l in lineas]))
+        # Obtener todas las líneas asignadas al artículo
+        lineas_nums = [art['linea_principal']]
+        if art.get('lineas_secundarias'):
+            lineas_nums.extend([l['linea'] for l in art['lineas_secundarias']])
+        lineas_nums = sorted(set(lineas_nums))
 
         # Actualizar totales
         for num in lineas_nums:
@@ -1320,12 +1323,16 @@ def create_lineas_cooccurrence_matrix(lineas_data):
 
     # Contar co-ocurrencias
     for art in lineas_data['articulos']:
-        lineas_principales = [l['linea'] for l in art['clasificacion']['lineas_principales']]
+        # Obtener todas las líneas asignadas al artículo
+        lineas_nums = [art['linea_principal']]
+        if art.get('lineas_secundarias'):
+            lineas_nums.extend([l['linea'] for l in art['lineas_secundarias']])
+        lineas_nums = list(set(lineas_nums))
 
         # Para cada par de líneas
         for i in range(1, 4):
             for j in range(1, 4):
-                if i != j and i in lineas_principales and j in lineas_principales:
+                if i != j and i in lineas_nums and j in lineas_nums:
                     matrix[i-1][j-1] += 1
 
     # Crear heatmap
@@ -1761,24 +1768,26 @@ def filter_articulos_by_linea(lineas_data, linea_num):
     articulos_filtrados = []
 
     for art in lineas_data['articulos']:
-        # En el nuevo formato, todas las líneas están en 'lineas_principales'
-        # La primera es la principal, las demás con confianza='secundaria' son secundarias
-        lineas = art['clasificacion'].get('lineas_principales', [])
-
-        # Verificar si el artículo pertenece a la línea
-        linea_info = None
+        # Verificar si el artículo pertenece a la línea (principal o secundaria)
         tipo_clasificacion = None
+        score = None
+        confianza = None
 
-        for idx, l in enumerate(lineas):
-            if l['linea'] == linea_num:
-                linea_info = l
-                # La primera línea es siempre principal, las demás son secundarias
-                tipo_clasificacion = 'Principal' if idx == 0 else 'Secundaria'
-                break
+        # Verificar si es línea principal
+        if art['linea_principal'] == linea_num:
+            tipo_clasificacion = 'Principal'
+            score = art['similitud_linea']
+            confianza = art['confianza']
+        # Verificar si está en líneas secundarias
+        elif art.get('lineas_secundarias'):
+            for l in art['lineas_secundarias']:
+                if l['linea'] == linea_num:
+                    tipo_clasificacion = 'Secundaria'
+                    score = l['similitud']
+                    confianza = 'secundaria'
+                    break
 
-        if linea_info:
-            # Obtener similitud (nuevo formato) o score_ml (formato antiguo)
-            score = linea_info.get('similitud', linea_info.get('score_ml', linea_info.get('score_final', 0)))
+        if tipo_clasificacion:
             # Convertir similitud (0-1) a porcentaje si es necesario
             if score < 1.0:
                 score = score * 100
@@ -1788,7 +1797,7 @@ def filter_articulos_by_linea(lineas_data, linea_num):
                 'Año': art['año'],
                 'Título': art['titulo'][:100] + '...' if len(art['titulo']) > 100 else art['titulo'],
                 'Score ML': round(score, 1),
-                'Confianza': linea_info['confianza'].capitalize(),
+                'Confianza': confianza.capitalize(),
                 'Tipo': tipo_clasificacion
             })
 
