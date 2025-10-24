@@ -1,0 +1,17 @@
+# Machine Learning Classification Dependencies
+# These are optional - only needed to regenerate classification files
+# Install with: pip install -r requirements-ml.txt
+
+# Core ML libraries
+sentence-transformers==2.2.2
+transformers==4.36.2
+torch>=2.0.0
+scikit-learn==1.3.2
+
+# Progress bar
+tqdm==4.66.1
+
+# Data processing (also in main requirements)
+pandas>=2.0.0,<3.0.0
+numpy>=1.24.0,<2.0.0
+requests>=2.31.0

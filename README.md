@@ -2,6 +2,7 @@
 
 Dashboard interactivo para visualizar y analizar la productividad científica del **Doctorado en Ciencias de la Nutrición Traslacional** (Universidad de Guadalajara, 2019-2025).
 
+[![Ver en Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://publicaciones-dcnt.streamlit.app/)
 ![Dashboard Preview](https://img.shields.io/badge/Streamlit-Dashboard-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
@@ -48,7 +49,11 @@ source venv/bin/activate
 3. **Instalar dependencias**
 
 ```bash
+# Dependencias del dashboard (mínimas)
 pip install -r requirements.txt
+
+# Opcional: Si quieres regenerar las clasificaciones
+pip install -r requirements-ml.txt
 ```
 
 ### Ejecutar el Dashboard

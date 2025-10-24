@@ -1,17 +1,12 @@
-# Dashboard Core Dependencies
+# Dashboard Core Dependencies (Required)
 streamlit==1.29.0
 plotly==5.18.0
-pandas==2.1.4
-numpy==1.24.3
-networkx==3.2.1
+pandas>=2.0.0,<3.0.0
+numpy>=1.24.0,<2.0.0
+networkx>=3.0.0
+requests>=2.31.0
+openpyxl>=3.1.0
 
-# Machine Learning Classification Dependencies (optional for re-running classifiers)
-sentence-transformers==2.2.2
-transformers==4.36.2
-torch>=2.0.0
-scikit-learn==1.3.2
-tqdm==4.66.1
-
-# Additional Dependencies
-requests==2.31.0
-openpyxl==3.1.2
+# Note: Machine Learning dependencies are not required for running the dashboard.
+# They are only needed if you want to regenerate the classification files.
+# To install ML dependencies, use: pip install -r requirements-ml.txt
