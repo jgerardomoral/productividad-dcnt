@@ -29,38 +29,88 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
-# Estilos CSS personalizados
-st.markdown("""
-<style>
-    .main-header {
-        font-size: 2.5rem;
-        font-weight: bold;
-        color: #1f77b4;
-        text-align: center;
-        padding: 1rem 0;
-    }
-    .section-header {
-        font-size: 1.8rem;
-        font-weight: bold;
-        color: #2c3e50;
-        border-bottom: 3px solid #1f77b4;
-        padding-bottom: 0.5rem;
-        margin-top: 2rem;
-    }
-    .metric-card {
-        background-color: #f8f9fa;
-        padding: 1.5rem;
-        border-radius: 10px;
-        border-left: 5px solid #1f77b4;
-    }
-    .stMetric {
-        background-color: #ffffff;
-        padding: 1rem;
-        border-radius: 5px;
-        box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-    }
-</style>
-""", unsafe_allow_html=True)
+# Inicializar el estado del tema
+if 'theme' not in st.session_state:
+    st.session_state.theme = 'light'
+
+# Función para obtener estilos CSS según el tema
+def get_theme_css(theme):
+    if theme == 'dark':
+        return """
+        <style>
+            /* Tema Oscuro */
+            .main-header {
+                font-size: 2.5rem;
+                font-weight: bold;
+                color: #4da6ff;
+                text-align: center;
+                padding: 1rem 0;
+            }
+            .section-header {
+                font-size: 1.8rem;
+                font-weight: bold;
+                color: #e0e0e0;
+                border-bottom: 3px solid #4da6ff;
+                padding-bottom: 0.5rem;
+                margin-top: 2rem;
+            }
+            .metric-card {
+                background-color: #2b2b2b;
+                padding: 1.5rem;
+                border-radius: 10px;
+                border-left: 5px solid #4da6ff;
+            }
+            .stMetric {
+                background-color: #1e1e1e;
+                padding: 1rem;
+                border-radius: 5px;
+                box-shadow: 0 2px 4px rgba(0,0,0,0.3);
+            }
+            /* Ajustar colores de texto en modo oscuro */
+            .stMarkdown, p, h1, h2, h3, h4, h5, h6 {
+                color: #e0e0e0 !important;
+            }
+            div[data-testid="stMetricValue"] {
+                color: #4da6ff !important;
+            }
+        </style>
+        """
+    else:
+        return """
+        <style>
+            /* Tema Claro */
+            .main-header {
+                font-size: 2.5rem;
+                font-weight: bold;
+                color: #1f77b4;
+                text-align: center;
+                padding: 1rem 0;
+            }
+            .section-header {
+                font-size: 1.8rem;
+                font-weight: bold;
+                color: #2c3e50;
+                border-bottom: 3px solid #1f77b4;
+                padding-bottom: 0.5rem;
+                margin-top: 2rem;
+            }
+            .metric-card {
+                background-color: #f8f9fa;
+                padding: 1.5rem;
+                border-radius: 10px;
+                border-left: 5px solid #1f77b4;
+            }
+            .stMetric {
+                background-color: #ffffff;
+                padding: 1rem;
+                border-radius: 5px;
+                box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            }
+        </style>
+        """
+
+# Aplicar estilos CSS según el tema seleccionado
+st.markdown(get_theme_css(st.session_state.theme), unsafe_allow_html=True)
 
 @st.cache_data
 def load_data():
@@ -440,6 +490,26 @@ def main():
         """, unsafe_allow_html=True)
 
     st.markdown("---")
+
+    # Sidebar - Toggle de tema
+    with st.sidebar:
+        st.markdown("### ⚙️ Configuración")
+
+        # Toggle para cambiar entre modo claro y oscuro
+        theme_option = st.radio(
+            "Tema de visualización:",
+            options=['☀️ Modo Claro', '🌙 Modo Oscuro'],
+            index=0 if st.session_state.theme == 'light' else 1,
+            key='theme_selector'
+        )
+
+        # Actualizar el tema si cambió
+        new_theme = 'dark' if '🌙' in theme_option else 'light'
+        if new_theme != st.session_state.theme:
+            st.session_state.theme = new_theme
+            st.rerun()
+
+        st.markdown("---")
 
     # Cargar datos
     publications_df, ods_data, pronaces_data, themes_data = load_data()
