@@ -103,20 +103,30 @@ El dashboard se abrirá automáticamente en tu navegador en `http://localhost:85
 ## 🏗️ Estructura del Proyecto
 
 ```
-dashboard_DCNT_public/
+productividad-dcnt/
+├── src/
+│   ├── app.py                         # Dashboard Streamlit principal
+│   ├── config_context.py              # Datos contextuales (ODS, PRONACES, epidemiología)
+│   └── classifiers/                   # Clasificadores ML (opcional)
+│       ├── ods_embeddings_classifier.py
+│       ├── pronaces_embeddings_classifier.py
+│       └── ml_zero_shot_classifier.py
 ├── data/
 │   ├── publications_base.csv          # Base de datos de publicaciones
-│   ├── ods_classification.json        # Clasificación ODS
-│   ├── pronaces_classification.json   # Clasificación PRONACES
-│   └── themes_classification.json     # Clasificación temática
-├── src/
-│   ├── app.py                         # Dashboard Streamlit
-│   └── config_context.py              # Datos contextuales (ODS, PRONACES, epidemiología)
-├── LOGO DCNT_1.png                    # Logo institucional
+│   └── classifications/               # Clasificaciones generadas
+│       ├── ods_classification_embeddings.json
+│       ├── pronaces_classification_embeddings.json
+│       └── themes_classification.json
+├── assets/
+│   └── logo_dcnt.png                  # Logo institucional
+├── .streamlit/
+│   └── config.toml                    # Configuración de Streamlit
 ├── requirements.txt                    # Dependencias
 ├── run_dashboard.sh                   # Script de inicio (Linux/Mac)
 ├── run_dashboard.bat                  # Script de inicio (Windows)
-└── README.md
+├── LICENSE                            # Licencia MIT
+├── CLAUDE.md                          # Documentación técnica del proyecto
+└── README.md                          # Este archivo
 ```
 
 ## 📈 Datos
@@ -124,8 +134,22 @@ dashboard_DCNT_public/
 El dashboard incluye datos pre-procesados de 226 publicaciones científicas:
 
 - **Periodo**: 2019-2025
-- **Fuentes**: Publicaciones en revistas indexadas
+- **Fuentes**: Publicaciones en revistas indexadas con metadata de PubMed
 - **Clasificaciones**: ODS, PRONACES, Temas de investigación
+
+### 🤖 Metodología de Clasificación
+
+Las publicaciones son clasificadas automáticamente usando **embeddings semánticos** (modelo `all-MiniLM-L6-v2`):
+
+1. **Generación de embeddings**: Se procesan título, abstract, MeSH terms y keywords de cada artículo
+2. **Similitud semántica**: Se calcula la similitud de coseno con descripciones detalladas de ODS/PRONACES
+3. **Asignación con confianza**: Clasificaciones principales (≥0.45) y secundarias (≥0.35) con niveles de confianza
+
+Para regenerar las clasificaciones (requiere dependencias ML):
+```bash
+python src/classifiers/ods_embeddings_classifier.py
+python src/classifiers/pronaces_embeddings_classifier.py
+```
 
 Los datos están almacenados en formato CSV y JSON, listos para visualización sin necesidad de extracción o procesamiento adicional.
 

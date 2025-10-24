@@ -1,0 +1,5824 @@
+{
+  "metadata": {
+    "fecha_generacion": "2025-10-24T09:37:42.670408",
+    "modelo": "sentence-transformers/all-MiniLM-L6-v2",
+    "metodo": "embeddings_cosine_similarity",
+    "total_articulos": 226,
+    "pronaces_clasificados": [
+      "SALUD",
+      "SOBERANIA_ALIMENTARIA",
+      "SISTEMAS_ALIMENTARIOS"
+    ]
+  },
+  "estadisticas": {
+    "total_articulos": 226,
+    "por_pronace": {
+      "SALUD": 175,
+      "SOBERANIA_ALIMENTARIA": 30,
+      "SISTEMAS_ALIMENTARIOS": 21
+    },
+    "multi_pronace": 61,
+    "sin_abstract": 17,
+    "por_confianza": {
+      "alta": 0,
+      "media": 33,
+      "baja": 31,
+      "tentativa": 162
+    }
+  },
+  "articulos": [
+    {
+      "pmid": "30864870",
+      "titulo": "β-Caryophyllene, a Natural Sesquiterpene, Attenuates Neuropathic Pain and Depressive-Like Behavior in Experimental Diabetic Mice.",
+      "año": 2019,
+      "revista": "Journal of medicinal food",
+      "doi": "10.1089/jmf.2018.0157",
+      "similitudes": {
+        "SALUD": 0.3485,
+        "SOBERANIA_ALIMENTARIA": 0.0911,
+        "SISTEMAS_ALIMENTARIOS": 0.1719
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3485,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "31102004",
+      "titulo": "Circulating soluble levels of MIF in women with breast cancer in the molecular subtypes: relationship with Th17 cytokine profile.",
+      "año": 2019,
+      "revista": "Clinical and experimental medicine",
+      "doi": "10.1007/s10238-019-00559-6",
+      "similitudes": {
+        "SALUD": 0.25,
+        "SOBERANIA_ALIMENTARIA": 0.118,
+        "SISTEMAS_ALIMENTARIOS": 0.068
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.25,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "31272071",
+      "titulo": "A differential sex-specific pattern of IgG2 and IgG4 subclasses of anti-drug antibodies (ADAs) induced by glatiramer acetate in relapsing-remitting multiple sclerosis patients.",
+      "año": 2019,
+      "revista": "Multiple sclerosis and related disorders",
+      "doi": "10.1016/j.msard.2019.06.021",
+      "similitudes": {
+        "SALUD": 0.3031,
+        "SOBERANIA_ALIMENTARIA": 0.1129,
+        "SISTEMAS_ALIMENTARIOS": 0.0314
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3031,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "30747392",
+      "titulo": "Macrophage migration inhibitory factor polymorphisms are a potential susceptibility marker in systemic sclerosis from southern Mexican population: association with MIF mRNA expression and cytokine profile.",
+      "año": 2019,
+      "revista": "Clinical rheumatology",
+      "doi": "10.1007/s10067-019-04459-8",
+      "similitudes": {
+        "SALUD": 0.3279,
+        "SOBERANIA_ALIMENTARIA": 0.1331,
+        "SISTEMAS_ALIMENTARIOS": -0.0015
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3279,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "31546245",
+      "titulo": "Epigenetic Modifications as Outcomes of Exercise Interventions Related to Specific Metabolic Alterations: A Systematic Review.",
+      "año": 2019,
+      "revista": "Lifestyle genomics",
+      "doi": "10.1159/000503289",
+      "similitudes": {
+        "SALUD": 0.471,
+        "SOBERANIA_ALIMENTARIA": 0.2634,
+        "SISTEMAS_ALIMENTARIOS": 0.2622
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.471,
+          "confianza": "media"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "30783477",
+      "titulo": "B-cell activating factor receptor expression is associated with germinal center B-cell maintenance.",
+      "año": 2019,
+      "revista": "Experimental and therapeutic medicine",
+      "doi": "10.3892/etm.2019.7172",
+      "similitudes": {
+        "SALUD": 0.059,
+        "SOBERANIA_ALIMENTARIA": -0.0067,
+        "SISTEMAS_ALIMENTARIOS": -0.035
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.059,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "30220001",
+      "titulo": "Association between TLR4 polymorphisms (896 A>G, 1196 C>T, - 2570 A>G, - 2081 G>A) and virulence factors in uropathogenic Escherichia coli.",
+      "año": 2019,
+      "revista": "Clinical and experimental medicine",
+      "doi": "10.1007/s10238-018-0527-0",
+      "similitudes": {
+        "SALUD": 0.2015,
+        "SOBERANIA_ALIMENTARIA": 0.0794,
+        "SISTEMAS_ALIMENTARIOS": 0.0584
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.2015,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "30345559",
+      "titulo": "IL10 haplotypes are associated with diabetic nephropathy susceptibility in patients from western Mexico.",
+      "año": 2019,
+      "revista": "Journal of clinical laboratory analysis",
+      "doi": "10.1002/jcla.22691",
+      "similitudes": {
+        "SALUD": 0.3459,
+        "SOBERANIA_ALIMENTARIA": 0.1711,
+        "SISTEMAS_ALIMENTARIOS": 0.0968
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3459,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "30675352",
+      "titulo": "Analysis of the rs2476601 polymorphism of PTPN22 in Mexican mestizo patients with leprosy.",
+      "año": 2019,
+      "revista": "Biomedical reports",
+      "doi": "10.3892/br.2019.1184",
+      "similitudes": {
+        "SALUD": 0.2226,
+        "SOBERANIA_ALIMENTARIA": 0.1066,
+        "SISTEMAS_ALIMENTARIOS": 0.0121
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.2226,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "31236747",
+      "titulo": "Impact of the gene-gene interactions related to the HIF-1α signaling pathway with the knee osteoarthritis development.",
+      "año": 2019,
+      "revista": "Clinical rheumatology",
+      "doi": "10.1007/s10067-019-04635-w",
+      "similitudes": {
+        "SALUD": 0.272,
+        "SOBERANIA_ALIMENTARIA": 0.0634,
+        "SISTEMAS_ALIMENTARIOS": 0.05
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.272,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "31288023",
+      "titulo": "Hormonal modulation of Toxoplasma gondii infection: Regulation of hormonal receptors and cytokine production in THP-1 cells.",
+      "año": 2019,
+      "revista": "Experimental parasitology",
+      "doi": "10.1016/j.exppara.2019.107721",
+      "similitudes": {
+        "SALUD": 0.1025,
+        "SOBERANIA_ALIMENTARIA": 0.0562,
+        "SISTEMAS_ALIMENTARIOS": 0.0037
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.1025,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "30467094",
+      "titulo": "Functional MIF promoter haplotypes modulate Th17-related cytokine expression in peripheral blood mononuclear cells from control subjects and rheumatoid arthritis patients.",
+      "año": 2019,
+      "revista": "Cytokine",
+      "doi": "10.1016/j.cyto.2018.11.014",
+      "similitudes": {
+        "SALUD": 0.3553,
+        "SOBERANIA_ALIMENTARIA": 0.0904,
+        "SISTEMAS_ALIMENTARIOS": 0.0443
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3553,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "30727915",
+      "titulo": "GPER Overexpression in Cervical Cancer Versus Premalignant Lesions: Its Activation Induces Different Forms of Cell Death.",
+      "año": 2019,
+      "revista": "Anti-cancer agents in medicinal chemistry",
+      "doi": "10.2174/1871520619666190206171509",
+      "similitudes": {
+        "SALUD": 0.0518,
+        "SOBERANIA_ALIMENTARIA": -0.0192,
+        "SISTEMAS_ALIMENTARIOS": 0.0444
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.0518,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "31282166",
+      "titulo": "Concentration of ghrelin and leptin in serum and human milk in nursing mothers according to the type of feeding.",
+      "año": 2019,
+      "revista": "Nutricion hospitalaria",
+      "doi": "10.20960/nh.02534",
+      "similitudes": {
+        "SALUD": 0.1318,
+        "SOBERANIA_ALIMENTARIA": 0.2832,
+        "SISTEMAS_ALIMENTARIOS": 0.1566
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SOBERANIA_ALIMENTARIA",
+          "nombre": "PRONACE Soberanía Alimentaria",
+          "similitud": 0.2832,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "31353423",
+      "titulo": "TNFA -308G>A and -238G>A polymorphisms and risk to systemic sclerosis: impact on TNF-α serum levels, TNFA mRNA expression, and autoantibodies.",
+      "año": 2019,
+      "revista": "Clinical and experimental medicine",
+      "doi": "10.1007/s10238-019-00569-4",
+      "similitudes": {
+        "SALUD": 0.3797,
+        "SOBERANIA_ALIMENTARIA": 0.1374,
+        "SISTEMAS_ALIMENTARIOS": 0.0363
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3797,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "29992636",
+      "titulo": "Association of CD28 and CTLA4 haplotypes with susceptibility to primary Sjögren's syndrome in Mexican population.",
+      "año": 2019,
+      "revista": "Journal of clinical laboratory analysis",
+      "doi": "10.1002/jcla.22620",
+      "similitudes": {
+        "SALUD": 0.2821,
+        "SOBERANIA_ALIMENTARIA": 0.1474,
+        "SISTEMAS_ALIMENTARIOS": 0.0805
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.2821,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "30723749",
+      "titulo": "KIR/HLA Gene Profile Implication in Systemic Sclerosis Patients from Mexico.",
+      "año": 2019,
+      "revista": "Journal of immunology research",
+      "doi": "10.1155/2019/6808061",
+      "similitudes": {
+        "SALUD": 0.341,
+        "SOBERANIA_ALIMENTARIA": 0.1322,
+        "SISTEMAS_ALIMENTARIOS": 0.0308
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.341,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "30747361",
+      "titulo": "High BAFF expression associated with active disease in systemic lupus erythematosus and relationship with rs9514828C>T polymorphism in TNFSF13B gene.",
+      "año": 2019,
+      "revista": "Clinical and experimental medicine",
+      "doi": "10.1007/s10238-019-00549-8",
+      "similitudes": {
+        "SALUD": 0.2964,
+        "SOBERANIA_ALIMENTARIA": 0.066,
+        "SISTEMAS_ALIMENTARIOS": 0.0091
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.2964,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "30679077",
+      "titulo": "Frequency and Risk Factors of Kidney Alterations in Children and Adolescents who Are Overweight and Obese in a Primary Health-care Setting.",
+      "año": 2019,
+      "revista": "Journal of renal nutrition : the official journal of the Council on Renal Nutrition of the National Kidney Foundation",
+      "doi": "10.1053/j.jrn.2018.11.005",
+      "similitudes": {
+        "SALUD": 0.2602,
+        "SOBERANIA_ALIMENTARIA": 0.2585,
+        "SISTEMAS_ALIMENTARIOS": 0.1362
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.2602,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "31183392",
+      "titulo": "Analysis of Genetic Variation in CD40 and CD40L: Relationship with mRNA Relative Expression and Soluble Proteins in Acute Coronary Syndrome.",
+      "año": 2019,
+      "revista": "Journal of immunology research",
+      "doi": "10.1155/2019/8063983",
+      "similitudes": {
+        "SALUD": 0.3345,
+        "SOBERANIA_ALIMENTARIA": 0.0231,
+        "SISTEMAS_ALIMENTARIOS": 0.0474
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3345,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "31495392",
+      "titulo": "Interleukin-1 Alpha Polymorphisms Are Associated With Body Mass Index in Male But Not in Female Adolescents.",
+      "año": 2019,
+      "revista": "Archives of medical research",
+      "doi": "10.1016/j.arcmed.2019.07.006",
+      "similitudes": {
+        "SALUD": 0.3315,
+        "SOBERANIA_ALIMENTARIA": 0.2324,
+        "SISTEMAS_ALIMENTARIOS": 0.1264
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3315,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "31698711",
+      "titulo": "Relationship of Excess Weight with Clinical Activity and Dietary Intake Deficiencies in Systemic Lupus Erythematosus Patients.",
+      "año": 2019,
+      "revista": "Nutrients",
+      "doi": "10.3390/nu11112683",
+      "similitudes": {
+        "SALUD": 0.4554,
+        "SOBERANIA_ALIMENTARIA": 0.4038,
+        "SISTEMAS_ALIMENTARIOS": 0.3207
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.4554,
+          "confianza": "media"
+        }
+      ],
+      "pronaces_secundarios": [
+        {
+          "codigo": "SOBERANIA_ALIMENTARIA",
+          "nombre": "PRONACE Soberanía Alimentaria",
+          "similitud": 0.4038,
+          "confianza": "baja"
+        },
+        {
+          "codigo": "SISTEMAS_ALIMENTARIOS",
+          "nombre": "Sistemas Alimentarios Sostenibles",
+          "similitud": 0.3207,
+          "confianza": "tentativa"
+        }
+      ],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "30911943",
+      "titulo": "PRL -1149T allele (rs1341239) is associated with decreased risk of rheumatoid arthritis in population from southern Mexico: analysis of mRNA expression and PRL serum levels.",
+      "año": 2019,
+      "revista": "Clinical rheumatology",
+      "doi": "10.1007/s10067-019-04517-1",
+      "similitudes": {
+        "SALUD": 0.3419,
+        "SOBERANIA_ALIMENTARIA": 0.1472,
+        "SISTEMAS_ALIMENTARIOS": 0.0948
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3419,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "31057488",
+      "titulo": "IgG Anti-ghrelin Immune Complexes Are Increased in Rheumatoid Arthritis Patients Under Biologic Therapy and Are Related to Clinical and Metabolic Markers.",
+      "año": 2019,
+      "revista": "Frontiers in endocrinology",
+      "doi": "10.3389/fendo.2019.00252",
+      "similitudes": {
+        "SALUD": 0.441,
+        "SOBERANIA_ALIMENTARIA": 0.2351,
+        "SISTEMAS_ALIMENTARIOS": 0.192
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.441,
+          "confianza": "baja"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "31507337",
+      "titulo": "Interaction between 17β-estradiol, prolactin and human papillomavirus induce E6/E7 transcript and modulate the expression and localization of hormonal receptors.",
+      "año": 2019,
+      "revista": "Cancer cell international",
+      "doi": "10.1186/s12935-019-0935-6",
+      "similitudes": {
+        "SALUD": 0.1121,
+        "SOBERANIA_ALIMENTARIA": -0.0083,
+        "SISTEMAS_ALIMENTARIOS": 0.06
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.1121,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "30813849",
+      "titulo": "Development of an effective and rapid qPCR for identifying human ChREBPα/β isoforms in hepatic and adipose tissues.",
+      "año": 2019,
+      "revista": "Scandinavian journal of clinical and laboratory investigation",
+      "doi": "10.1080/00365513.2019.1581944",
+      "similitudes": {
+        "SALUD": 0.2184,
+        "SOBERANIA_ALIMENTARIA": 0.0586,
+        "SISTEMAS_ALIMENTARIOS": 0.1688
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.2184,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "30637604",
+      "titulo": "PTPN22 +788 G>A (R263Q) Polymorphism is Associated with mRNA Expression but it is not a Susceptibility Marker for Rheumatoid Arthritis Patients from Western Mexico.",
+      "año": 2019,
+      "revista": "Biochemical genetics",
+      "doi": "10.1007/s10528-019-09902-8",
+      "similitudes": {
+        "SALUD": 0.3511,
+        "SOBERANIA_ALIMENTARIA": 0.1565,
+        "SISTEMAS_ALIMENTARIOS": 0.0939
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3511,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "31766642",
+      "titulo": "Interactions between ",
+      "año": 2019,
+      "revista": "Nutrients",
+      "doi": "10.3390/nu11122863",
+      "similitudes": {
+        "SALUD": 0.4976,
+        "SOBERANIA_ALIMENTARIA": 0.3908,
+        "SISTEMAS_ALIMENTARIOS": 0.4441
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.4976,
+          "confianza": "media"
+        }
+      ],
+      "pronaces_secundarios": [
+        {
+          "codigo": "SISTEMAS_ALIMENTARIOS",
+          "nombre": "Sistemas Alimentarios Sostenibles",
+          "similitud": 0.4441,
+          "confianza": "baja"
+        },
+        {
+          "codigo": "SOBERANIA_ALIMENTARIA",
+          "nombre": "PRONACE Soberanía Alimentaria",
+          "similitud": 0.3908,
+          "confianza": "baja"
+        }
+      ],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "31200073",
+      "titulo": "Phytochemical composition and immunobiological activity of Hawthorn Crataegus mexicana nanoencapsulated in Longfin yellowtail Seriola rivoliana leukocytes.",
+      "año": 2019,
+      "revista": "Fish & shellfish immunology",
+      "doi": "10.1016/j.fsi.2019.06.024",
+      "similitudes": {
+        "SALUD": 0.2358,
+        "SOBERANIA_ALIMENTARIA": 0.2568,
+        "SISTEMAS_ALIMENTARIOS": 0.2245
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SOBERANIA_ALIMENTARIA",
+          "nombre": "PRONACE Soberanía Alimentaria",
+          "similitud": 0.2568,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "31312989",
+      "titulo": "Cytokines (IL-15, IL-21, and IFN-γ) in rheumatoid arthritis: association with positivity to autoantibodies (RF, anti-CCP, anti-MCV, and anti-PADI4) and clinical activity.",
+      "año": 2019,
+      "revista": "Clinical rheumatology",
+      "doi": "10.1007/s10067-019-04681-4",
+      "similitudes": {
+        "SALUD": 0.3706,
+        "SOBERANIA_ALIMENTARIA": 0.1073,
+        "SISTEMAS_ALIMENTARIOS": 0.0617
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3706,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "31746421",
+      "titulo": "17β‑estradiol‑induced mitochondrial dysfunction and Warburg effect in cervical cancer cells allow cell survival under metabolic stress.",
+      "año": 2019,
+      "revista": "International journal of oncology",
+      "doi": "10.3892/ijo.2019.4912",
+      "similitudes": {
+        "SALUD": 0.2221,
+        "SOBERANIA_ALIMENTARIA": 0.1999,
+        "SISTEMAS_ALIMENTARIOS": 0.2077
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.2221,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "31313080",
+      "titulo": "Assessment of CD40 and CD40L expression in rheumatoid arthritis patients, association with clinical features and DAS28.",
+      "año": 2019,
+      "revista": "Clinical and experimental medicine",
+      "doi": "10.1007/s10238-019-00568-5",
+      "similitudes": {
+        "SALUD": 0.3669,
+        "SOBERANIA_ALIMENTARIA": 0.0321,
+        "SISTEMAS_ALIMENTARIOS": 0.0192
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3669,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "30847685",
+      "titulo": "Letter to the editor: \"The association of CD40 polymorphism (rs1883832C/T) and soluble CD40 with the risk of systemic lupus erythematosus among Egyptian patients\".",
+      "año": 2019,
+      "revista": "Clinical rheumatology",
+      "doi": "10.1007/s10067-019-04491-8",
+      "similitudes": {
+        "SALUD": 0.267,
+        "SOBERANIA_ALIMENTARIA": 0.0684,
+        "SISTEMAS_ALIMENTARIOS": 0.0445
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.267,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": false
+    },
+    {
+      "pmid": "31231489",
+      "titulo": "Expression of the receptor of advanced glycation end-products (RAGE) and membranal location in peripheral blood mononuclear cells (PBMC) in obesity and insulin resistance.",
+      "año": 2019,
+      "revista": "Iranian journal of basic medical sciences",
+      "doi": "10.22038/ijbms.2019.34571.8206",
+      "similitudes": {
+        "SALUD": 0.3132,
+        "SOBERANIA_ALIMENTARIA": 0.0706,
+        "SISTEMAS_ALIMENTARIOS": 0.1061
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3132,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "30402903",
+      "titulo": "PTPN22 1858C>T polymorphism is associated with increased CD154 expression and higher CD4+ T cells percentage in rheumatoid arthritis patients.",
+      "año": 2019,
+      "revista": "Journal of clinical laboratory analysis",
+      "doi": "10.1002/jcla.22710",
+      "similitudes": {
+        "SALUD": 0.3555,
+        "SOBERANIA_ALIMENTARIA": 0.0425,
+        "SISTEMAS_ALIMENTARIOS": -0.0051
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3555,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "31701681",
+      "titulo": "Macrophage migration inhibitory factor promoter polymorphisms are associated with disease activity in rheumatoid arthritis patients from Southern Mexico.",
+      "año": 2019,
+      "revista": "Molecular genetics & genomic medicine",
+      "doi": "10.1002/mgg3.1037",
+      "similitudes": {
+        "SALUD": 0.3708,
+        "SOBERANIA_ALIMENTARIA": 0.1335,
+        "SISTEMAS_ALIMENTARIOS": 0.0505
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3708,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "31642196",
+      "titulo": "Association of soluble CD40 levels with -1 C > T CD40 polymorphism and chronic kidney disease in systemic lupus erythematosus.",
+      "año": 2019,
+      "revista": "Molecular genetics & genomic medicine",
+      "doi": "10.1002/mgg3.1014",
+      "similitudes": {
+        "SALUD": 0.3133,
+        "SOBERANIA_ALIMENTARIA": 0.0559,
+        "SISTEMAS_ALIMENTARIOS": 0.0366
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3133,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "31687051",
+      "titulo": "Association between the -844 G>A, HindIII C>G, and 4G/5G ",
+      "año": 2019,
+      "revista": "Disease markers",
+      "doi": "10.1155/2019/9626289",
+      "similitudes": {
+        "SALUD": 0.3478,
+        "SOBERANIA_ALIMENTARIA": 0.1329,
+        "SISTEMAS_ALIMENTARIOS": 0.0622
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3478,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "32831908",
+      "titulo": "Effect of supplementation with vitamins D3 and K2 on undercarboxylated osteocalcin and insulin serum levels in patients with type 2 diabetes mellitus: a randomized, double-blind, clinical trial.",
+      "año": 2020,
+      "revista": "Diabetology & metabolic syndrome",
+      "doi": "10.1186/s13098-020-00580-w",
+      "similitudes": {
+        "SALUD": 0.3291,
+        "SOBERANIA_ALIMENTARIA": 0.2713,
+        "SISTEMAS_ALIMENTARIOS": 0.1966
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3291,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "31829037",
+      "titulo": "The -675 4G/5G ",
+      "año": 2020,
+      "revista": "Autoimmunity",
+      "doi": "10.1080/08916934.2019.1700957",
+      "similitudes": {
+        "SALUD": 0.3963,
+        "SOBERANIA_ALIMENTARIA": 0.121,
+        "SISTEMAS_ALIMENTARIOS": 0.0715
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3963,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "31978276",
+      "titulo": "Association of the genetic variants (-794 CATT5-8 and -173 G > C) of macrophage migration inhibitory factor (MIF) with higher soluble levels of MIF and TNFα in women with breast cancer.",
+      "año": 2020,
+      "revista": "Journal of clinical laboratory analysis",
+      "doi": "10.1002/jcla.23209",
+      "similitudes": {
+        "SALUD": 0.2567,
+        "SOBERANIA_ALIMENTARIA": 0.1583,
+        "SISTEMAS_ALIMENTARIOS": 0.0727
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.2567,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "32854610",
+      "titulo": "Low-grade chronic inflammation is attenuated by exercise training in obese adults through down-regulation of ASC gene in peripheral blood: a pilot study.",
+      "año": 2020,
+      "revista": "Genes & nutrition",
+      "doi": "10.1186/s12263-020-00674-0",
+      "similitudes": {
+        "SALUD": 0.5103,
+        "SOBERANIA_ALIMENTARIA": 0.2299,
+        "SISTEMAS_ALIMENTARIOS": 0.207
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.5103,
+          "confianza": "media"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "32138573",
+      "titulo": "A potential inflammatory role of IL-31 in psoriatic arthritis: A correlation with Th17 cytokine profile.",
+      "año": 2020,
+      "revista": "International journal of immunopathology and pharmacology",
+      "doi": "10.1177/2058738420907186",
+      "similitudes": {
+        "SALUD": 0.3086,
+        "SOBERANIA_ALIMENTARIA": 0.0438,
+        "SISTEMAS_ALIMENTARIOS": 0.0246
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3086,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "32058363",
+      "titulo": "Anthropometric and Body Composition Profile of Young Professional Soccer Players.",
+      "año": 2020,
+      "revista": "Journal of strength and conditioning research",
+      "doi": "10.1519/JSC.0000000000003416",
+      "similitudes": {
+        "SALUD": 0.2099,
+        "SOBERANIA_ALIMENTARIA": 0.2032,
+        "SISTEMAS_ALIMENTARIOS": 0.1455
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.2099,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "32204379",
+      "titulo": "Second Version of a Mini-Survey to Evaluate Food Intake Quality (Mini-ECCA v.2): Reproducibility and Ability to Identify Dietary Patterns in University Students.",
+      "año": 2020,
+      "revista": "Nutrients",
+      "doi": "10.3390/nu12030809",
+      "similitudes": {
+        "SALUD": 0.2909,
+        "SOBERANIA_ALIMENTARIA": 0.4399,
+        "SISTEMAS_ALIMENTARIOS": 0.4503
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SISTEMAS_ALIMENTARIOS",
+          "nombre": "Sistemas Alimentarios Sostenibles",
+          "similitud": 0.4503,
+          "confianza": "media"
+        }
+      ],
+      "pronaces_secundarios": [
+        {
+          "codigo": "SOBERANIA_ALIMENTARIA",
+          "nombre": "PRONACE Soberanía Alimentaria",
+          "similitud": 0.4399,
+          "confianza": "baja"
+        }
+      ],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "33232825",
+      "titulo": "Association of cardiometabolic risk status with clinical activity and damage in systemic lupus erythematosus patients: A cross-sectional study.",
+      "año": 2020,
+      "revista": "Clinical immunology (Orlando, Fla.)",
+      "doi": "10.1016/j.clim.2020.108637",
+      "similitudes": {
+        "SALUD": 0.4179,
+        "SOBERANIA_ALIMENTARIA": 0.0925,
+        "SISTEMAS_ALIMENTARIOS": 0.1538
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.4179,
+          "confianza": "baja"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "32163222",
+      "titulo": "Physical inactivity and excessive sucrose consumption are associated with higher serum lipids in subjects with Taq1B CETP polymorphism.",
+      "año": 2020,
+      "revista": "Journal of human nutrition and dietetics : the official journal of the British Dietetic Association",
+      "doi": "10.1111/jhn.12747",
+      "similitudes": {
+        "SALUD": 0.4104,
+        "SOBERANIA_ALIMENTARIA": 0.3297,
+        "SISTEMAS_ALIMENTARIOS": 0.3735
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.4104,
+          "confianza": "baja"
+        }
+      ],
+      "pronaces_secundarios": [
+        {
+          "codigo": "SISTEMAS_ALIMENTARIOS",
+          "nombre": "Sistemas Alimentarios Sostenibles",
+          "similitud": 0.3735,
+          "confianza": "baja"
+        },
+        {
+          "codigo": "SOBERANIA_ALIMENTARIA",
+          "nombre": "PRONACE Soberanía Alimentaria",
+          "similitud": 0.3297,
+          "confianza": "tentativa"
+        }
+      ],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "33297363",
+      "titulo": "Antioxidant Supplementation Modulates Neutrophil Inflammatory Response to Exercise-Induced Stress.",
+      "año": 2020,
+      "revista": "Antioxidants (Basel, Switzerland)",
+      "doi": "10.3390/antiox9121242",
+      "similitudes": {
+        "SALUD": 0.4047,
+        "SOBERANIA_ALIMENTARIA": 0.2362,
+        "SISTEMAS_ALIMENTARIOS": 0.248
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.4047,
+          "confianza": "baja"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "32506205",
+      "titulo": "Expression of BAFF and BAFF receptors in primary Sjögren's syndrome patients with ectopic germinal center-like structures.",
+      "año": 2020,
+      "revista": "Clinical and experimental medicine",
+      "doi": "10.1007/s10238-020-00637-0",
+      "similitudes": {
+        "SALUD": 0.1393,
+        "SOBERANIA_ALIMENTARIA": 0.0229,
+        "SISTEMAS_ALIMENTARIOS": -0.0299
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.1393,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "32088123",
+      "titulo": "Validation of a Spanish-Language Questionnaire on Adolescent Eating Behavior Based on Social Cognitive Theory.",
+      "año": 2020,
+      "revista": "Journal of nutrition education and behavior",
+      "doi": "10.1016/j.jneb.2020.01.002",
+      "similitudes": {
+        "SALUD": 0.0848,
+        "SOBERANIA_ALIMENTARIA": 0.2808,
+        "SISTEMAS_ALIMENTARIOS": 0.2446
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SOBERANIA_ALIMENTARIA",
+          "nombre": "PRONACE Soberanía Alimentaria",
+          "similitud": 0.2808,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "33133605",
+      "titulo": "Assessment of serum macrophage migration inhibitory factor (MIF), adiponectin, and other adipokines as potential markers of proteinuria and renal dysfunction in lupus nephritis: a cross-sectional study.",
+      "año": 2020,
+      "revista": "Biomarker research",
+      "doi": "10.1186/s40364-020-00236-x",
+      "similitudes": {
+        "SALUD": 0.3171,
+        "SOBERANIA_ALIMENTARIA": 0.0763,
+        "SISTEMAS_ALIMENTARIOS": 0.0214
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3171,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "31907973",
+      "titulo": "Expression patterns of CD28 and CTLA-4 in early, chronic, and untreated rheumatoid arthritis.",
+      "año": 2020,
+      "revista": "Journal of clinical laboratory analysis",
+      "doi": "10.1002/jcla.23188",
+      "similitudes": {
+        "SALUD": 0.3784,
+        "SOBERANIA_ALIMENTARIA": 0.0318,
+        "SISTEMAS_ALIMENTARIOS": 0.0168
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3784,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "32705792",
+      "titulo": "Macrophage inhibitory factor (MIF) gene polymorphisms are associated with disease susceptibility and with circulating MIF levels in active non-segmental vitiligo in patients from western Mexico.",
+      "año": 2020,
+      "revista": "Molecular genetics & genomic medicine",
+      "doi": "10.1002/mgg3.1416",
+      "similitudes": {
+        "SALUD": 0.3253,
+        "SOBERANIA_ALIMENTARIA": 0.1866,
+        "SISTEMAS_ALIMENTARIOS": 0.0532
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3253,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "31747348",
+      "titulo": "Effect of Ursolic Acid on Insulin Resistance and Hyperinsulinemia in Rats with Diet-Induced Obesity: Role of Adipokines Expression.",
+      "año": 2020,
+      "revista": "Journal of medicinal food",
+      "doi": "10.1089/jmf.2019.0154",
+      "similitudes": {
+        "SALUD": 0.3666,
+        "SOBERANIA_ALIMENTARIA": 0.2174,
+        "SISTEMAS_ALIMENTARIOS": 0.3267
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3666,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [
+        {
+          "codigo": "SISTEMAS_ALIMENTARIOS",
+          "nombre": "Sistemas Alimentarios Sostenibles",
+          "similitud": 0.3267,
+          "confianza": "tentativa"
+        }
+      ],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "33046523",
+      "titulo": "Haplotypes of (-794(CATT)",
+      "año": 2020,
+      "revista": "Journal of investigative medicine : the official publication of the American Federation for Clinical Research",
+      "doi": "10.1136/jim-2020-001414",
+      "similitudes": {
+        "SALUD": 0.1944,
+        "SOBERANIA_ALIMENTARIA": 0.147,
+        "SISTEMAS_ALIMENTARIOS": 0.0704
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.1944,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "32960635",
+      "titulo": "Using a lactation room at the workplace is associated with longer breastfeeding duration in working mothers.",
+      "año": 2020,
+      "revista": "Nutricion hospitalaria",
+      "doi": "10.20960/nh.03242",
+      "similitudes": {
+        "SALUD": 0.0407,
+        "SOBERANIA_ALIMENTARIA": 0.2283,
+        "SISTEMAS_ALIMENTARIOS": 0.1524
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SOBERANIA_ALIMENTARIA",
+          "nombre": "PRONACE Soberanía Alimentaria",
+          "similitud": 0.2283,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "33070375",
+      "titulo": "Cytokine profiles and clinical characteristics in primary Sjögren´s syndrome patient groups.",
+      "año": 2020,
+      "revista": "Journal of clinical laboratory analysis",
+      "doi": "10.1002/jcla.23629",
+      "similitudes": {
+        "SALUD": 0.2809,
+        "SOBERANIA_ALIMENTARIA": 0.12,
+        "SISTEMAS_ALIMENTARIOS": 0.0723
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.2809,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "33354999",
+      "titulo": "Functional effects of vitamin D: From nutrient to immunomodulator.",
+      "año": 2020,
+      "revista": "Critical reviews in food science and nutrition",
+      "doi": "10.1080/10408398.2020.1862753",
+      "similitudes": {
+        "SALUD": 0.2349,
+        "SOBERANIA_ALIMENTARIA": 0.1878,
+        "SISTEMAS_ALIMENTARIOS": 0.1673
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.2349,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "33096879",
+      "titulo": "Serum Analysis of Women with Early-Stage Breast Cancer Using a Mini-Array of Tumor-Associated Antigens.",
+      "año": 2020,
+      "revista": "Biosensors",
+      "doi": "10.3390/bios10100149",
+      "similitudes": {
+        "SALUD": 0.1192,
+        "SOBERANIA_ALIMENTARIA": 0.0611,
+        "SISTEMAS_ALIMENTARIOS": 0.0138
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.1192,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": false
+    },
+    {
+      "pmid": "33348700",
+      "titulo": "Nutritional Approaches for the Management of Nonalcoholic Fatty Liver Disease: An Evidence-Based Review.",
+      "año": 2020,
+      "revista": "Nutrients",
+      "doi": "10.3390/nu12123860",
+      "similitudes": {
+        "SALUD": 0.485,
+        "SOBERANIA_ALIMENTARIA": 0.3767,
+        "SISTEMAS_ALIMENTARIOS": 0.3848
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.485,
+          "confianza": "media"
+        }
+      ],
+      "pronaces_secundarios": [
+        {
+          "codigo": "SISTEMAS_ALIMENTARIOS",
+          "nombre": "Sistemas Alimentarios Sostenibles",
+          "similitud": 0.3848,
+          "confianza": "baja"
+        },
+        {
+          "codigo": "SOBERANIA_ALIMENTARIA",
+          "nombre": "PRONACE Soberanía Alimentaria",
+          "similitud": 0.3767,
+          "confianza": "baja"
+        }
+      ],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "32967164",
+      "titulo": "Downregulation of Inflammatory Cytokine Release from IL-1β and LPS-Stimulated PBMC Orchestrated by ST2825, a MyD88 Dimerisation Inhibitor.",
+      "año": 2020,
+      "revista": "Molecules (Basel, Switzerland)",
+      "doi": "10.3390/molecules25184322",
+      "similitudes": {
+        "SALUD": 0.3798,
+        "SOBERANIA_ALIMENTARIA": 0.0688,
+        "SISTEMAS_ALIMENTARIOS": 0.054
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3798,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "33342336",
+      "titulo": "Obesity, dyslipidemia, and high blood pressure are associated with cardiovascular risk, determined using high-sensitivity C-reactive protein concentration, in young adults.",
+      "año": 2020,
+      "revista": "The Journal of international medical research",
+      "doi": "10.1177/0300060520980596",
+      "similitudes": {
+        "SALUD": 0.4568,
+        "SOBERANIA_ALIMENTARIA": 0.2682,
+        "SISTEMAS_ALIMENTARIOS": 0.2722
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.4568,
+          "confianza": "media"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "33276473",
+      "titulo": "Health-Related Factors in Rural and Urban Mexican Adolescents from the State of Jalisco: The HELENA-MEX Study.",
+      "año": 2020,
+      "revista": "International journal of environmental research and public health",
+      "doi": "10.3390/ijerph17238959",
+      "similitudes": {
+        "SALUD": 0.3407,
+        "SOBERANIA_ALIMENTARIA": 0.4851,
+        "SISTEMAS_ALIMENTARIOS": 0.3629
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SOBERANIA_ALIMENTARIA",
+          "nombre": "PRONACE Soberanía Alimentaria",
+          "similitud": 0.4851,
+          "confianza": "media"
+        }
+      ],
+      "pronaces_secundarios": [
+        {
+          "codigo": "SISTEMAS_ALIMENTARIOS",
+          "nombre": "Sistemas Alimentarios Sostenibles",
+          "similitud": 0.3629,
+          "confianza": "baja"
+        },
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3407,
+          "confianza": "tentativa"
+        }
+      ],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "32698854",
+      "titulo": "Leu72Met polymorphism of GHRL gene decreases susceptibility to type 2 diabetes mellitus in a Mexican population.",
+      "año": 2020,
+      "revista": "BMC endocrine disorders",
+      "doi": "10.1186/s12902-020-00596-3",
+      "similitudes": {
+        "SALUD": 0.394,
+        "SOBERANIA_ALIMENTARIA": 0.258,
+        "SISTEMAS_ALIMENTARIOS": 0.1857
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.394,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "32728051",
+      "titulo": "Anti-nucleosome antibodies increase the risk of renal relapse in a prospective cohort of patients with clinically inactive systemic lupus erythematosus.",
+      "año": 2020,
+      "revista": "Scientific reports",
+      "doi": "10.1038/s41598-020-69608-5",
+      "similitudes": {
+        "SALUD": 0.4121,
+        "SOBERANIA_ALIMENTARIA": 0.0299,
+        "SISTEMAS_ALIMENTARIOS": 0.0465
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.4121,
+          "confianza": "baja"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "31214897",
+      "titulo": "Relationship between TNF-α, MMP-8, and MMP-9 levels in gingival crevicular fluid and the subgingival microbiota in periodontal disease.",
+      "año": 2020,
+      "revista": "Odontology",
+      "doi": "10.1007/s10266-019-00435-5",
+      "similitudes": {
+        "SALUD": 0.2159,
+        "SOBERANIA_ALIMENTARIA": 0.1727,
+        "SISTEMAS_ALIMENTARIOS": 0.0779
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.2159,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "33374626",
+      "titulo": "Bacterial Succession through the Artisanal Process and Seasonal Effects Defining Bacterial Communities of Raw-Milk Adobera Cheese Revealed by High Throughput DNA Sequencing.",
+      "año": 2020,
+      "revista": "Microorganisms",
+      "doi": "10.3390/microorganisms9010024",
+      "similitudes": {
+        "SALUD": 0.0705,
+        "SOBERANIA_ALIMENTARIA": 0.2122,
+        "SISTEMAS_ALIMENTARIOS": 0.2496
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SISTEMAS_ALIMENTARIOS",
+          "nombre": "Sistemas Alimentarios Sostenibles",
+          "similitud": 0.2496,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "33348854",
+      "titulo": "Association of Vitamin D Metabolism Gene Polymorphisms with Autoimmunity: Evidence in Population Genetic Studies.",
+      "año": 2020,
+      "revista": "International journal of molecular sciences",
+      "doi": "10.3390/ijms21249626",
+      "similitudes": {
+        "SALUD": 0.3907,
+        "SOBERANIA_ALIMENTARIA": 0.1852,
+        "SISTEMAS_ALIMENTARIOS": 0.0983
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3907,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "32277232",
+      "titulo": "Analysis of the receptor BCMA as a biomarker in systemic lupus erythematosus patients.",
+      "año": 2020,
+      "revista": "Scientific reports",
+      "doi": "10.1038/s41598-020-63390-0",
+      "similitudes": {
+        "SALUD": 0.2925,
+        "SOBERANIA_ALIMENTARIA": 0.0348,
+        "SISTEMAS_ALIMENTARIOS": 0.0137
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.2925,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "32120804",
+      "titulo": "Alliin, an ",
+      "año": 2020,
+      "revista": "Nutrients",
+      "doi": "10.3390/nu12030624",
+      "similitudes": {
+        "SALUD": 0.4177,
+        "SOBERANIA_ALIMENTARIA": 0.2132,
+        "SISTEMAS_ALIMENTARIOS": 0.2539
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.4177,
+          "confianza": "baja"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "33396200",
+      "titulo": "Healthy Obese Subjects Differ in Chronotype, Sleep Habits, and Adipose Tissue Fatty Acid Composition from Their Non-Healthy Counterparts.",
+      "año": 2020,
+      "revista": "Nutrients",
+      "doi": "10.3390/nu13010119",
+      "similitudes": {
+        "SALUD": 0.4204,
+        "SOBERANIA_ALIMENTARIA": 0.2799,
+        "SISTEMAS_ALIMENTARIOS": 0.3541
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.4204,
+          "confianza": "baja"
+        }
+      ],
+      "pronaces_secundarios": [
+        {
+          "codigo": "SISTEMAS_ALIMENTARIOS",
+          "nombre": "Sistemas Alimentarios Sostenibles",
+          "similitud": 0.3541,
+          "confianza": "baja"
+        }
+      ],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "33137807",
+      "titulo": "A Metabolically Unhealthy Phenotype Is Associated with ADIPOQ Genetic Variants and Lower Serum Adiponectin Levels.",
+      "año": 2020,
+      "revista": "Lifestyle genomics",
+      "doi": "10.1159/000510021",
+      "similitudes": {
+        "SALUD": 0.4334,
+        "SOBERANIA_ALIMENTARIA": 0.2688,
+        "SISTEMAS_ALIMENTARIOS": 0.2673
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.4334,
+          "confianza": "baja"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "33273843",
+      "titulo": "Impact of ",
+      "año": 2020,
+      "revista": "Pharmacogenomics and personalized medicine",
+      "doi": "10.2147/PGPM.S277952",
+      "similitudes": {
+        "SALUD": 0.4846,
+        "SOBERANIA_ALIMENTARIA": 0.2985,
+        "SISTEMAS_ALIMENTARIOS": 0.3446
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.4846,
+          "confianza": "media"
+        }
+      ],
+      "pronaces_secundarios": [
+        {
+          "codigo": "SISTEMAS_ALIMENTARIOS",
+          "nombre": "Sistemas Alimentarios Sostenibles",
+          "similitud": 0.3446,
+          "confianza": "tentativa"
+        }
+      ],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "33007934",
+      "titulo": "The Relevance of Selenium Status in Rheumatoid Arthritis.",
+      "año": 2020,
+      "revista": "Nutrients",
+      "doi": "10.3390/nu12103007",
+      "similitudes": {
+        "SALUD": 0.4478,
+        "SOBERANIA_ALIMENTARIA": 0.3055,
+        "SISTEMAS_ALIMENTARIOS": 0.3034
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.4478,
+          "confianza": "baja"
+        }
+      ],
+      "pronaces_secundarios": [
+        {
+          "codigo": "SOBERANIA_ALIMENTARIA",
+          "nombre": "PRONACE Soberanía Alimentaria",
+          "similitud": 0.3055,
+          "confianza": "tentativa"
+        },
+        {
+          "codigo": "SISTEMAS_ALIMENTARIOS",
+          "nombre": "Sistemas Alimentarios Sostenibles",
+          "similitud": 0.3034,
+          "confianza": "tentativa"
+        }
+      ],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "31851589",
+      "titulo": "Metabolic Syndrome Among Young Health Professionals in the Multicenter Latin America Metabolic Syndrome Study.",
+      "año": 2020,
+      "revista": "Metabolic syndrome and related disorders",
+      "doi": "10.1089/met.2019.0086",
+      "similitudes": {
+        "SALUD": 0.3837,
+        "SOBERANIA_ALIMENTARIA": 0.2484,
+        "SISTEMAS_ALIMENTARIOS": 0.2666
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3837,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": false
+    },
+    {
+      "pmid": "34960024",
+      "titulo": "Influence of Diet and Levels of Zonulin, Lipopolysaccharide and C-Reactive Protein on Cardiometabolic Risk Factors in Young Subjects.",
+      "año": 2021,
+      "revista": "Nutrients",
+      "doi": "10.3390/nu13124472",
+      "similitudes": {
+        "SALUD": 0.4177,
+        "SOBERANIA_ALIMENTARIA": 0.3063,
+        "SISTEMAS_ALIMENTARIOS": 0.3135
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.4177,
+          "confianza": "baja"
+        }
+      ],
+      "pronaces_secundarios": [
+        {
+          "codigo": "SISTEMAS_ALIMENTARIOS",
+          "nombre": "Sistemas Alimentarios Sostenibles",
+          "similitud": 0.3135,
+          "confianza": "tentativa"
+        },
+        {
+          "codigo": "SOBERANIA_ALIMENTARIA",
+          "nombre": "PRONACE Soberanía Alimentaria",
+          "similitud": 0.3063,
+          "confianza": "tentativa"
+        }
+      ],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "34764810",
+      "titulo": "Expression of macrophage migration inhibitory factor and its receptor CD74 in systemic sclerosis.",
+      "año": 2021,
+      "revista": "Central-European journal of immunology",
+      "doi": "10.5114/ceji.2021.109756",
+      "similitudes": {
+        "SALUD": 0.3582,
+        "SOBERANIA_ALIMENTARIA": 0.0514,
+        "SISTEMAS_ALIMENTARIOS": -0.0263
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3582,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "34846283",
+      "titulo": "Phylogenomics and population genomics of SARS-CoV-2 in Mexico during the pre-vaccination stage reveals variants of interest B.1.1.28.4 and B.1.1.222 or B.1.1.519 and the nucleocapsid mutation S194L associated with symptoms.",
+      "año": 2021,
+      "revista": "Microbial genomics",
+      "doi": "10.1099/mgen.0.000684",
+      "similitudes": {
+        "SALUD": 0.1138,
+        "SOBERANIA_ALIMENTARIA": 0.0303,
+        "SISTEMAS_ALIMENTARIOS": -0.0187
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.1138,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "33568924",
+      "titulo": "Presence of Adenovirus-36 DNA in Adipose Tissue of Women: Relationship with Adipocyte Morphology and the Expression of C/EBPβ and HIF-1α.",
+      "año": 2021,
+      "revista": "Diabetes, metabolic syndrome and obesity : targets and therapy",
+      "doi": "10.2147/DMSO.S285341",
+      "similitudes": {
+        "SALUD": 0.3197,
+        "SOBERANIA_ALIMENTARIA": 0.119,
+        "SISTEMAS_ALIMENTARIOS": 0.125
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3197,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "34750902",
+      "titulo": "The ACTN3 R577X polymorphism is associated with metabolic alterations in a sex-dependent manner in subjects from western Mexico.",
+      "año": 2021,
+      "revista": "Journal of human nutrition and dietetics : the official journal of the British Dietetic Association",
+      "doi": "10.1111/jhn.12948",
+      "similitudes": {
+        "SALUD": 0.3703,
+        "SOBERANIA_ALIMENTARIA": 0.3142,
+        "SISTEMAS_ALIMENTARIOS": 0.2367
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3703,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [
+        {
+          "codigo": "SOBERANIA_ALIMENTARIA",
+          "nombre": "PRONACE Soberanía Alimentaria",
+          "similitud": 0.3142,
+          "confianza": "tentativa"
+        }
+      ],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "34763066",
+      "titulo": "The PI3K/Akt/mTOR pathway: A potential pharmacological target in COVID-19.",
+      "año": 2021,
+      "revista": "Drug discovery today",
+      "doi": "10.1016/j.drudis.2021.11.002",
+      "similitudes": {
+        "SALUD": 0.2946,
+        "SOBERANIA_ALIMENTARIA": -0.0168,
+        "SISTEMAS_ALIMENTARIOS": 0.0087
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.2946,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "33571672",
+      "titulo": "Effects of short chain fatty acids on metabolic and inflammatory processes in human health.",
+      "año": 2021,
+      "revista": "Biochimica et biophysica acta. Molecular and cell biology of lipids",
+      "doi": "10.1016/j.bbalip.2021.158900",
+      "similitudes": {
+        "SALUD": 0.4075,
+        "SOBERANIA_ALIMENTARIA": 0.236,
+        "SISTEMAS_ALIMENTARIOS": 0.3123
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.4075,
+          "confianza": "baja"
+        }
+      ],
+      "pronaces_secundarios": [
+        {
+          "codigo": "SISTEMAS_ALIMENTARIOS",
+          "nombre": "Sistemas Alimentarios Sostenibles",
+          "similitud": 0.3123,
+          "confianza": "tentativa"
+        }
+      ],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "34896648",
+      "titulo": "High dietary ω-6:ω-3 PUFA ratio and simple carbohydrates as a potential risk factors for gallstone disease: A cross-sectional study.",
+      "año": 2021,
+      "revista": "Clinics and research in hepatology and gastroenterology",
+      "doi": "10.1016/j.clinre.2021.101802",
+      "similitudes": {
+        "SALUD": 0.3278,
+        "SOBERANIA_ALIMENTARIA": 0.3965,
+        "SISTEMAS_ALIMENTARIOS": 0.4507
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SISTEMAS_ALIMENTARIOS",
+          "nombre": "Sistemas Alimentarios Sostenibles",
+          "similitud": 0.4507,
+          "confianza": "media"
+        }
+      ],
+      "pronaces_secundarios": [
+        {
+          "codigo": "SOBERANIA_ALIMENTARIA",
+          "nombre": "PRONACE Soberanía Alimentaria",
+          "similitud": 0.3965,
+          "confianza": "baja"
+        },
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3278,
+          "confianza": "tentativa"
+        }
+      ],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "34231820",
+      "titulo": "Association of TAP1 1177A>G and 2090A>G gene polymorphisms with latent tuberculosis infections in sheltered populations, in the metropolitan area of Guadalajara, Mexico: a pilot study.",
+      "año": 2021,
+      "revista": "Revista do Instituto de Medicina Tropical de Sao Paulo",
+      "doi": "10.1590/S1678-9946202163055",
+      "similitudes": {
+        "SALUD": 0.2185,
+        "SOBERANIA_ALIMENTARIA": 0.087,
+        "SISTEMAS_ALIMENTARIOS": -0.022
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.2185,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "34070874",
+      "titulo": "Social Representations of Drinking Water in Schoolchildren and Parents from Two Schools in Zapopan, Mexico.",
+      "año": 2021,
+      "revista": "Nutrients",
+      "doi": "10.3390/nu13061871",
+      "similitudes": {
+        "SALUD": 0.2295,
+        "SOBERANIA_ALIMENTARIA": 0.4174,
+        "SISTEMAS_ALIMENTARIOS": 0.4064
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SOBERANIA_ALIMENTARIA",
+          "nombre": "PRONACE Soberanía Alimentaria",
+          "similitud": 0.4174,
+          "confianza": "baja"
+        }
+      ],
+      "pronaces_secundarios": [
+        {
+          "codigo": "SISTEMAS_ALIMENTARIOS",
+          "nombre": "Sistemas Alimentarios Sostenibles",
+          "similitud": 0.4064,
+          "confianza": "baja"
+        }
+      ],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "34207245",
+      "titulo": "Altered Expression of TSPAN32 during B Cell Activation and Systemic Lupus Erythematosus.",
+      "año": 2021,
+      "revista": "Genes",
+      "doi": "10.3390/genes12060931",
+      "similitudes": {
+        "SALUD": 0.3176,
+        "SOBERANIA_ALIMENTARIA": 0.0403,
+        "SISTEMAS_ALIMENTARIOS": 0.0367
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3176,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "34443554",
+      "titulo": "The Novel Role of MIF in the Secretion of IL-25, IL-31, and IL-33 from PBMC of Patients with Rheumatoid Arthritis.",
+      "año": 2021,
+      "revista": "Molecules (Basel, Switzerland)",
+      "doi": "10.3390/molecules26164968",
+      "similitudes": {
+        "SALUD": 0.344,
+        "SOBERANIA_ALIMENTARIA": 0.0473,
+        "SISTEMAS_ALIMENTARIOS": -0.0114
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.344,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "33231330",
+      "titulo": "Metabolic syndrome in rheumatoid arthritis patients: Relationship among its clinical components.",
+      "año": 2021,
+      "revista": "Journal of clinical laboratory analysis",
+      "doi": "10.1002/jcla.23666",
+      "similitudes": {
+        "SALUD": 0.5217,
+        "SOBERANIA_ALIMENTARIA": 0.1936,
+        "SISTEMAS_ALIMENTARIOS": 0.1794
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.5217,
+          "confianza": "media"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "34827656",
+      "titulo": "In Vivo Healthy Benefits of Galacto-Oligosaccharides from ",
+      "año": 2021,
+      "revista": "Biomolecules",
+      "doi": "10.3390/biom11111658",
+      "similitudes": {
+        "SALUD": 0.2523,
+        "SOBERANIA_ALIMENTARIA": 0.2423,
+        "SISTEMAS_ALIMENTARIOS": 0.3032
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SISTEMAS_ALIMENTARIOS",
+          "nombre": "Sistemas Alimentarios Sostenibles",
+          "similitud": 0.3032,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "34299717",
+      "titulo": "Association of Food Intake Quality with Vitamin D in SARS-CoV-2 Positive Patients from Mexico: A Cross-Sectional Study.",
+      "año": 2021,
+      "revista": "International journal of environmental research and public health",
+      "doi": "10.3390/ijerph18147266",
+      "similitudes": {
+        "SALUD": 0.3869,
+        "SOBERANIA_ALIMENTARIA": 0.4826,
+        "SISTEMAS_ALIMENTARIOS": 0.3605
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SOBERANIA_ALIMENTARIA",
+          "nombre": "PRONACE Soberanía Alimentaria",
+          "similitud": 0.4826,
+          "confianza": "media"
+        }
+      ],
+      "pronaces_secundarios": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3869,
+          "confianza": "baja"
+        },
+        {
+          "codigo": "SISTEMAS_ALIMENTARIOS",
+          "nombre": "Sistemas Alimentarios Sostenibles",
+          "similitud": 0.3605,
+          "confianza": "baja"
+        }
+      ],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "33925475",
+      "titulo": "Validation of the Spanish-Mexican Version of the Australian Breastfeeding Attitude Questionnaire in Higher Education Health Students.",
+      "año": 2021,
+      "revista": "International journal of environmental research and public health",
+      "doi": "10.3390/ijerph18094609",
+      "similitudes": {
+        "SALUD": 0.1153,
+        "SOBERANIA_ALIMENTARIA": 0.3205,
+        "SISTEMAS_ALIMENTARIOS": 0.2424
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SOBERANIA_ALIMENTARIA",
+          "nombre": "PRONACE Soberanía Alimentaria",
+          "similitud": 0.3205,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "34956240",
+      "titulo": "Commentary: Long Non-Coding RNA Gene Polymorphisms and Their Expression Levels in Patients With Rheumatoid Arthritis.",
+      "año": 2021,
+      "revista": "Frontiers in immunology",
+      "doi": "10.3389/fimmu.2021.801266",
+      "similitudes": {
+        "SALUD": 0.4311,
+        "SOBERANIA_ALIMENTARIA": 0.0611,
+        "SISTEMAS_ALIMENTARIOS": 0.0183
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.4311,
+          "confianza": "baja"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": false
+    },
+    {
+      "pmid": "34579284",
+      "titulo": "Neutralizing Antibodies against SARS-CoV-2, Anti-Ad5 Antibodies, and Reactogenicity in Response to Ad5-nCoV (CanSino Biologics) Vaccine in Individuals with and without Prior SARS-CoV-2.",
+      "año": 2021,
+      "revista": "Vaccines",
+      "doi": "10.3390/vaccines9091047",
+      "similitudes": {
+        "SALUD": 0.2163,
+        "SOBERANIA_ALIMENTARIA": 0.0271,
+        "SISTEMAS_ALIMENTARIOS": -0.0461
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.2163,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "34533238",
+      "titulo": "Macrophage migration inhibitory factor gene polymorphisms (SNP -173 G>C and STR-794 CATT5-8) confer risk of plaque psoriasis: A case-control study.",
+      "año": 2021,
+      "revista": "Journal of clinical laboratory analysis",
+      "doi": "10.1002/jcla.23999",
+      "similitudes": {
+        "SALUD": 0.3229,
+        "SOBERANIA_ALIMENTARIA": 0.095,
+        "SISTEMAS_ALIMENTARIOS": 0.0191
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3229,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "33284416",
+      "titulo": "Association between rs662 (A > G) and rs854560 (A > T) polymorphisms in PON1 gene and the susceptibility for psoriasis in mestizo population of Western Mexico.",
+      "año": 2021,
+      "revista": "Molecular biology reports",
+      "doi": "10.1007/s11033-020-06031-z",
+      "similitudes": {
+        "SALUD": 0.3049,
+        "SOBERANIA_ALIMENTARIA": 0.212,
+        "SISTEMAS_ALIMENTARIOS": 0.1864
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3049,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "34020390",
+      "titulo": "Factors associated with longer breastfeeding duration in Mexican working mothers.",
+      "año": 2021,
+      "revista": "Atencion primaria",
+      "doi": "10.1016/j.aprim.2021.102097",
+      "similitudes": {
+        "SALUD": 0.0596,
+        "SOBERANIA_ALIMENTARIA": 0.3201,
+        "SISTEMAS_ALIMENTARIOS": 0.1965
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SOBERANIA_ALIMENTARIA",
+          "nombre": "PRONACE Soberanía Alimentaria",
+          "similitud": 0.3201,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": false
+    },
+    {
+      "pmid": "33916032",
+      "titulo": "Functional Food and Bioactive Compounds on the Modulation of the Functionality of HDL-C: A Narrative Review.",
+      "año": 2021,
+      "revista": "Nutrients",
+      "doi": "10.3390/nu13041165",
+      "similitudes": {
+        "SALUD": 0.3917,
+        "SOBERANIA_ALIMENTARIA": 0.3215,
+        "SISTEMAS_ALIMENTARIOS": 0.423
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SISTEMAS_ALIMENTARIOS",
+          "nombre": "Sistemas Alimentarios Sostenibles",
+          "similitud": 0.423,
+          "confianza": "baja"
+        }
+      ],
+      "pronaces_secundarios": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3917,
+          "confianza": "baja"
+        },
+        {
+          "codigo": "SOBERANIA_ALIMENTARIA",
+          "nombre": "PRONACE Soberanía Alimentaria",
+          "similitud": 0.3215,
+          "confianza": "tentativa"
+        }
+      ],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "34501583",
+      "titulo": "COVID-19 Screening by Anti-SARS-CoV-2 Antibody Seropositivity: Clinical and Epidemiological Characteristics, Comorbidities, and Food Intake Quality.",
+      "año": 2021,
+      "revista": "International journal of environmental research and public health",
+      "doi": "10.3390/ijerph18178995",
+      "similitudes": {
+        "SALUD": 0.3251,
+        "SOBERANIA_ALIMENTARIA": 0.3184,
+        "SISTEMAS_ALIMENTARIOS": 0.2642
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3251,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [
+        {
+          "codigo": "SOBERANIA_ALIMENTARIA",
+          "nombre": "PRONACE Soberanía Alimentaria",
+          "similitud": 0.3184,
+          "confianza": "tentativa"
+        }
+      ],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "34908860",
+      "titulo": "Th1/Th2 Balance in Young Subjects: Relationship with Cytokine Levels and Metabolic Profile.",
+      "año": 2021,
+      "revista": "Journal of inflammation research",
+      "doi": "10.2147/JIR.S342545",
+      "similitudes": {
+        "SALUD": 0.4163,
+        "SOBERANIA_ALIMENTARIA": 0.2054,
+        "SISTEMAS_ALIMENTARIOS": 0.1685
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.4163,
+          "confianza": "baja"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "35005031",
+      "titulo": "Association of High Calcitriol Serum Levels and Its Hydroxylation Efficiency Ratio with Disease Risk in SLE Patients with Vitamin D Deficiency.",
+      "año": 2021,
+      "revista": "Journal of immunology research",
+      "doi": "10.1155/2021/2808613",
+      "similitudes": {
+        "SALUD": 0.3084,
+        "SOBERANIA_ALIMENTARIA": 0.1711,
+        "SISTEMAS_ALIMENTARIOS": 0.1203
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3084,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "34206431",
+      "titulo": "Infancy and Childhood Obesity Grade Predicts Weight Loss in Adulthood: The ONTIME Study.",
+      "año": 2021,
+      "revista": "Nutrients",
+      "doi": "10.3390/nu13072132",
+      "similitudes": {
+        "SALUD": 0.3167,
+        "SOBERANIA_ALIMENTARIA": 0.3664,
+        "SISTEMAS_ALIMENTARIOS": 0.3243
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SOBERANIA_ALIMENTARIA",
+          "nombre": "PRONACE Soberanía Alimentaria",
+          "similitud": 0.3664,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [
+        {
+          "codigo": "SISTEMAS_ALIMENTARIOS",
+          "nombre": "Sistemas Alimentarios Sostenibles",
+          "similitud": 0.3243,
+          "confianza": "tentativa"
+        },
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3167,
+          "confianza": "tentativa"
+        }
+      ],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "34358158",
+      "titulo": "Neutralizing Antibodies Titers and Side Effects in Response to BNT162b2 Vaccine in Healthcare Workers with and without Prior SARS-CoV-2 Infection.",
+      "año": 2021,
+      "revista": "Vaccines",
+      "doi": "10.3390/vaccines9070742",
+      "similitudes": {
+        "SALUD": 0.2253,
+        "SOBERANIA_ALIMENTARIA": 0.0863,
+        "SISTEMAS_ALIMENTARIOS": 0.003
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.2253,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "34960121",
+      "titulo": "Overview of Neutralizing Antibodies and Their Potential in COVID-19.",
+      "año": 2021,
+      "revista": "Vaccines",
+      "doi": "10.3390/vaccines9121376",
+      "similitudes": {
+        "SALUD": 0.278,
+        "SOBERANIA_ALIMENTARIA": 0.0294,
+        "SISTEMAS_ALIMENTARIOS": -0.0421
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.278,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "34684437",
+      "titulo": "Prevalence and Risk Factors of Food Insecurity among Mexican University Students' Households.",
+      "año": 2021,
+      "revista": "Nutrients",
+      "doi": "10.3390/nu13103426",
+      "similitudes": {
+        "SALUD": 0.1803,
+        "SOBERANIA_ALIMENTARIA": 0.4931,
+        "SISTEMAS_ALIMENTARIOS": 0.421
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SOBERANIA_ALIMENTARIA",
+          "nombre": "PRONACE Soberanía Alimentaria",
+          "similitud": 0.4931,
+          "confianza": "media"
+        }
+      ],
+      "pronaces_secundarios": [
+        {
+          "codigo": "SISTEMAS_ALIMENTARIOS",
+          "nombre": "Sistemas Alimentarios Sostenibles",
+          "similitud": 0.421,
+          "confianza": "baja"
+        }
+      ],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "33507546",
+      "titulo": "Association between the TAP1 gene polymorphisms and recurrent respiratory papillomatosis in patients from Western Mexico: A pilot study.",
+      "año": 2021,
+      "revista": "Journal of clinical laboratory analysis",
+      "doi": "10.1002/jcla.23712",
+      "similitudes": {
+        "SALUD": 0.2366,
+        "SOBERANIA_ALIMENTARIA": 0.0942,
+        "SISTEMAS_ALIMENTARIOS": 0.0585
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.2366,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "33675086",
+      "titulo": "Performance evaluation of a lateral flow assay for nasopharyngeal antigen detection for SARS-CoV-2 diagnosis.",
+      "año": 2021,
+      "revista": "Journal of clinical laboratory analysis",
+      "doi": "10.1002/jcla.23745",
+      "similitudes": {
+        "SALUD": 0.1496,
+        "SOBERANIA_ALIMENTARIA": 0.0216,
+        "SISTEMAS_ALIMENTARIOS": -0.0237
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.1496,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "34822916",
+      "titulo": "17β-estradiol modulates the expression of hormonal receptors on THP-1 T. gondii-infected macrophages and monocytes in an AKT and ERK-dependent manner.",
+      "año": 2021,
+      "revista": "Molecular and biochemical parasitology",
+      "doi": "10.1016/j.molbiopara.2021.111433",
+      "similitudes": {
+        "SALUD": 0.1663,
+        "SOBERANIA_ALIMENTARIA": 0.0523,
+        "SISTEMAS_ALIMENTARIOS": 0.0357
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.1663,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "34683141",
+      "titulo": "Direct and Indirect Effects of COVID-19 in Frail Elderly: Interventions and Recommendations.",
+      "año": 2021,
+      "revista": "Journal of personalized medicine",
+      "doi": "10.3390/jpm11100999",
+      "similitudes": {
+        "SALUD": 0.3591,
+        "SOBERANIA_ALIMENTARIA": 0.1192,
+        "SISTEMAS_ALIMENTARIOS": 0.0955
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3591,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "34946908",
+      "titulo": "Advances in Genetics and Epigenetic Alterations in Alzheimer's Disease: A Notion for Therapeutic Treatment.",
+      "año": 2021,
+      "revista": "Genes",
+      "doi": "10.3390/genes12121959",
+      "similitudes": {
+        "SALUD": 0.2423,
+        "SOBERANIA_ALIMENTARIA": -0.0001,
+        "SISTEMAS_ALIMENTARIOS": 0.0036
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.2423,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "33611779",
+      "titulo": "PTPN22 gene functional polymorphism (rs2476601) in older adults with frailty syndrome.",
+      "año": 2021,
+      "revista": "Molecular biology reports",
+      "doi": "10.1007/s11033-021-06212-4",
+      "similitudes": {
+        "SALUD": 0.3511,
+        "SOBERANIA_ALIMENTARIA": 0.1657,
+        "SISTEMAS_ALIMENTARIOS": 0.1218
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3511,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "34760864",
+      "titulo": "A Local Health Situation Room for COVID-19: Recommendations for Decision-Making From a Higher Education Institution in Mexico.",
+      "año": 2021,
+      "revista": "Frontiers in public health",
+      "doi": "10.3389/fpubh.2021.735658",
+      "similitudes": {
+        "SALUD": 0.2605,
+        "SOBERANIA_ALIMENTARIA": 0.216,
+        "SISTEMAS_ALIMENTARIOS": 0.1444
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.2605,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": false
+    },
+    {
+      "pmid": "32712721",
+      "titulo": "Troublesome friends within us: the role of gut microbiota on rheumatoid arthritis etiopathogenesis and its clinical and therapeutic relevance.",
+      "año": 2021,
+      "revista": "Clinical and experimental medicine",
+      "doi": "10.1007/s10238-020-00647-y",
+      "similitudes": {
+        "SALUD": 0.3915,
+        "SOBERANIA_ALIMENTARIA": 0.1805,
+        "SISTEMAS_ALIMENTARIOS": 0.1654
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3915,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "34247888",
+      "titulo": "Pleiotrophin Serum Level is Increased in Relapsing-Remitting Multiple Sclerosis and Correlates With Sex, BMI and Treatment.",
+      "año": 2021,
+      "revista": "Archives of medical research",
+      "doi": "10.1016/j.arcmed.2021.06.005",
+      "similitudes": {
+        "SALUD": 0.3401,
+        "SOBERANIA_ALIMENTARIA": 0.0659,
+        "SISTEMAS_ALIMENTARIOS": 0.0081
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3401,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "34831971",
+      "titulo": "Body Dissatisfaction and Its Association with Health-Related Factors in Rural and Urban Mexican Adolescents from the State of Jalisco.",
+      "año": 2021,
+      "revista": "International journal of environmental research and public health",
+      "doi": "10.3390/ijerph182212215",
+      "similitudes": {
+        "SALUD": 0.2501,
+        "SOBERANIA_ALIMENTARIA": 0.2797,
+        "SISTEMAS_ALIMENTARIOS": 0.1952
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SOBERANIA_ALIMENTARIA",
+          "nombre": "PRONACE Soberanía Alimentaria",
+          "similitud": 0.2797,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "34394282",
+      "titulo": "The Newcastle satisfaction with nursing scales in a Mexican Oncology Hospital.",
+      "año": 2021,
+      "revista": "African health sciences",
+      "doi": "10.4314/ahs.v21i1.10",
+      "similitudes": {
+        "SALUD": 0.1693,
+        "SOBERANIA_ALIMENTARIA": 0.1407,
+        "SISTEMAS_ALIMENTARIOS": 0.0596
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.1693,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "35011861",
+      "titulo": "Canonical (CD74/CD44) and Non-Canonical (CXCR2, 4 and 7) MIF Receptors Are Differentially Expressed in Rheumatoid Arthritis Patients Evaluated by DAS28-ESR.",
+      "año": 2021,
+      "revista": "Journal of clinical medicine",
+      "doi": "10.3390/jcm11010120",
+      "similitudes": {
+        "SALUD": 0.3791,
+        "SOBERANIA_ALIMENTARIA": 0.0073,
+        "SISTEMAS_ALIMENTARIOS": -0.0267
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3791,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "34071293",
+      "titulo": "Vitamin D Levels in COVID-19 Outpatients from Western Mexico: Clinical Correlation and Effect of Its Supplementation.",
+      "año": 2021,
+      "revista": "Journal of clinical medicine",
+      "doi": "10.3390/jcm10112378",
+      "similitudes": {
+        "SALUD": 0.2562,
+        "SOBERANIA_ALIMENTARIA": 0.2001,
+        "SISTEMAS_ALIMENTARIOS": 0.1082
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.2562,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "34632844",
+      "titulo": "A review: Antibody-dependent enhancement in COVID-19: The not so friendly side of antibodies.",
+      "año": 2021,
+      "revista": "International journal of immunopathology and pharmacology",
+      "doi": "10.1177/20587384211050199",
+      "similitudes": {
+        "SALUD": 0.2323,
+        "SOBERANIA_ALIMENTARIA": -0.0375,
+        "SISTEMAS_ALIMENTARIOS": -0.048
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.2323,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "34904562",
+      "titulo": "[Rheumatic diseases and allergies, the duality of the immune system].",
+      "año": 2021,
+      "revista": "Revista alergia Mexico (Tecamachalco, Puebla, Mexico : 1993)",
+      "doi": "10.29262/ram.v68i4.984",
+      "similitudes": {
+        "SALUD": 0.3645,
+        "SOBERANIA_ALIMENTARIA": 0.0604,
+        "SISTEMAS_ALIMENTARIOS": 0.0664
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3645,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "32772982",
+      "titulo": "Validation of semiquantitative FFQ administered to adults: a systematic review.",
+      "año": 2021,
+      "revista": "Public health nutrition",
+      "doi": "10.1017/S1368980020001834",
+      "similitudes": {
+        "SALUD": 0.3756,
+        "SOBERANIA_ALIMENTARIA": 0.4753,
+        "SISTEMAS_ALIMENTARIOS": 0.5158
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SISTEMAS_ALIMENTARIOS",
+          "nombre": "Sistemas Alimentarios Sostenibles",
+          "similitud": 0.5158,
+          "confianza": "media"
+        }
+      ],
+      "pronaces_secundarios": [
+        {
+          "codigo": "SOBERANIA_ALIMENTARIA",
+          "nombre": "PRONACE Soberanía Alimentaria",
+          "similitud": 0.4753,
+          "confianza": "media"
+        },
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3756,
+          "confianza": "baja"
+        }
+      ],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "34634849",
+      "titulo": "[The involvement of vitamin A in the production of secretory IgA in the respiratory epithelium for potential protection against SARS-CoV-2 infection].",
+      "año": 2021,
+      "revista": "Revista alergia Mexico (Tecamachalco, Puebla, Mexico : 1993)",
+      "doi": "10.29262/ram.v68i3.977",
+      "similitudes": {
+        "SALUD": 0.266,
+        "SOBERANIA_ALIMENTARIA": 0.1443,
+        "SISTEMAS_ALIMENTARIOS": 0.0549
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.266,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "33537824",
+      "titulo": "Potential immunomodulatory effects of vitamin D in the prevention of severe coronavirus disease 2019: An ally for Latin America (Review).",
+      "año": 2021,
+      "revista": "International journal of molecular medicine",
+      "doi": "10.3892/ijmm.2021.4865",
+      "similitudes": {
+        "SALUD": 0.3768,
+        "SOBERANIA_ALIMENTARIA": 0.2055,
+        "SISTEMAS_ALIMENTARIOS": 0.1136
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3768,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "33924538",
+      "titulo": "Neck and Wrist Circumferences as Indicators of Metabolic Alterations in the Pediatric Population: A Scoping Review.",
+      "año": 2021,
+      "revista": "Children (Basel, Switzerland)",
+      "doi": "10.3390/children8040297",
+      "similitudes": {
+        "SALUD": 0.3485,
+        "SOBERANIA_ALIMENTARIA": 0.2758,
+        "SISTEMAS_ALIMENTARIOS": 0.2337
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3485,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "34123874",
+      "titulo": "RT-qPCR Assays for Rapid Detection of the N501Y, 69-70del, K417N, and E484K SARS-CoV-2 Mutations: A Screening Strategy to Identify Variants With Clinical Impact.",
+      "año": 2021,
+      "revista": "Frontiers in cellular and infection microbiology",
+      "doi": "10.3389/fcimb.2021.672562",
+      "similitudes": {
+        "SALUD": 0.1997,
+        "SOBERANIA_ALIMENTARIA": 0.0346,
+        "SISTEMAS_ALIMENTARIOS": 0.0116
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.1997,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "34682388",
+      "titulo": "A Comprehensive Descriptive Epidemiological and Clinical Analysis of SARS-CoV-2 in West-Mexico during COVID-19 Pandemic 2020.",
+      "año": 2021,
+      "revista": "International journal of environmental research and public health",
+      "doi": "10.3390/ijerph182010644",
+      "similitudes": {
+        "SALUD": 0.3463,
+        "SOBERANIA_ALIMENTARIA": 0.1227,
+        "SISTEMAS_ALIMENTARIOS": 0.0707
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3463,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "34705056",
+      "titulo": "Association between IL-17A, IL-17F and IL-17RA gene polymorphisms and susceptibility to psoriasis and psoriatic arthritis: a meta-analysis.",
+      "año": 2021,
+      "revista": "Inflammation research : official journal of the European Histamine Research Society ... [et al.]",
+      "doi": "10.1007/s00011-021-01514-6",
+      "similitudes": {
+        "SALUD": 0.3013,
+        "SOBERANIA_ALIMENTARIA": 0.0666,
+        "SISTEMAS_ALIMENTARIOS": 0.0845
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3013,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "34416845",
+      "titulo": "Macrophage migration inhibitory factor: A promising oncogenic serological biomarker for oral squamous cell carcinoma.",
+      "año": 2021,
+      "revista": "International journal of immunopathology and pharmacology",
+      "doi": "10.1177/20587384211038417",
+      "similitudes": {
+        "SALUD": 0.2323,
+        "SOBERANIA_ALIMENTARIA": 0.0592,
+        "SISTEMAS_ALIMENTARIOS": 0.0526
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.2323,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "35744749",
+      "titulo": "Escherichia/Shigella, SCFAs, and Metabolic Pathways-The Triad That Orchestrates Intestinal Dysbiosis in Patients with Decompensated Alcoholic Cirrhosis from Western Mexico.",
+      "año": 2022,
+      "revista": "Microorganisms",
+      "doi": "10.3390/microorganisms10061231",
+      "similitudes": {
+        "SALUD": 0.2774,
+        "SOBERANIA_ALIMENTARIA": 0.2056,
+        "SISTEMAS_ALIMENTARIOS": 0.2889
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SISTEMAS_ALIMENTARIOS",
+          "nombre": "Sistemas Alimentarios Sostenibles",
+          "similitud": 0.2889,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "35405983",
+      "titulo": "Emotional Eating and Dietary Patterns: Reflecting Food Choices in People with and without Abdominal Obesity.",
+      "año": 2022,
+      "revista": "Nutrients",
+      "doi": "10.3390/nu14071371",
+      "similitudes": {
+        "SALUD": 0.2208,
+        "SOBERANIA_ALIMENTARIA": 0.3435,
+        "SISTEMAS_ALIMENTARIOS": 0.451
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SISTEMAS_ALIMENTARIOS",
+          "nombre": "Sistemas Alimentarios Sostenibles",
+          "similitud": 0.451,
+          "confianza": "media"
+        }
+      ],
+      "pronaces_secundarios": [
+        {
+          "codigo": "SOBERANIA_ALIMENTARIA",
+          "nombre": "PRONACE Soberanía Alimentaria",
+          "similitud": 0.3435,
+          "confianza": "tentativa"
+        }
+      ],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "35115601",
+      "titulo": "Therapeutic response to leflunomide in combo therapy and monotherapy is associated to serum teriflunomide (A77 1726) levels.",
+      "año": 2022,
+      "revista": "Scientific reports",
+      "doi": "10.1038/s41598-022-05644-7",
+      "similitudes": {
+        "SALUD": 0.4222,
+        "SOBERANIA_ALIMENTARIA": 0.0618,
+        "SISTEMAS_ALIMENTARIOS": 0.067
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.4222,
+          "confianza": "baja"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "34741913",
+      "titulo": "Breastfeeding training in Mexican health students may not be enough: A case analysis.",
+      "año": 2022,
+      "revista": "Nurse education today",
+      "doi": "10.1016/j.nedt.2021.105172",
+      "similitudes": {
+        "SALUD": 0.2238,
+        "SOBERANIA_ALIMENTARIA": 0.4812,
+        "SISTEMAS_ALIMENTARIOS": 0.3189
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SOBERANIA_ALIMENTARIA",
+          "nombre": "PRONACE Soberanía Alimentaria",
+          "similitud": 0.4812,
+          "confianza": "media"
+        }
+      ],
+      "pronaces_secundarios": [
+        {
+          "codigo": "SISTEMAS_ALIMENTARIOS",
+          "nombre": "Sistemas Alimentarios Sostenibles",
+          "similitud": 0.3189,
+          "confianza": "tentativa"
+        }
+      ],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "35268076",
+      "titulo": "The Effect of Dietary Interventions on Hypertriglyceridemia: From Public Health to Molecular Nutrition Evidence.",
+      "año": 2022,
+      "revista": "Nutrients",
+      "doi": "10.3390/nu14051104",
+      "similitudes": {
+        "SALUD": 0.3597,
+        "SOBERANIA_ALIMENTARIA": 0.3147,
+        "SISTEMAS_ALIMENTARIOS": 0.3797
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SISTEMAS_ALIMENTARIOS",
+          "nombre": "Sistemas Alimentarios Sostenibles",
+          "similitud": 0.3797,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3597,
+          "confianza": "baja"
+        },
+        {
+          "codigo": "SOBERANIA_ALIMENTARIA",
+          "nombre": "PRONACE Soberanía Alimentaria",
+          "similitud": 0.3147,
+          "confianza": "tentativa"
+        }
+      ],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "35745096",
+      "titulo": "Methodological Aspects in Randomized Clinical Trials of Nutritional Interventions.",
+      "año": 2022,
+      "revista": "Nutrients",
+      "doi": "10.3390/nu14122365",
+      "similitudes": {
+        "SALUD": 0.4793,
+        "SOBERANIA_ALIMENTARIA": 0.5439,
+        "SISTEMAS_ALIMENTARIOS": 0.4764
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SOBERANIA_ALIMENTARIA",
+          "nombre": "PRONACE Soberanía Alimentaria",
+          "similitud": 0.5439,
+          "confianza": "media"
+        }
+      ],
+      "pronaces_secundarios": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.4793,
+          "confianza": "media"
+        },
+        {
+          "codigo": "SISTEMAS_ALIMENTARIOS",
+          "nombre": "Sistemas Alimentarios Sostenibles",
+          "similitud": 0.4764,
+          "confianza": "media"
+        }
+      ],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "33586546",
+      "titulo": "Psychological responses to COVID-19 in a Mexican population: an exploratory study during second and third phases.",
+      "año": 2022,
+      "revista": "Psychology, health & medicine",
+      "doi": "10.1080/13548506.2021.1883689",
+      "similitudes": {
+        "SALUD": 0.1262,
+        "SOBERANIA_ALIMENTARIA": 0.1014,
+        "SISTEMAS_ALIMENTARIOS": 0.107
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.1262,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "35684114",
+      "titulo": "The Reproducibility and Relative Validity of a Food Frequency Questionnaire for Identifying Iron-Related Dietary Patterns in Pregnant Women.",
+      "año": 2022,
+      "revista": "Nutrients",
+      "doi": "10.3390/nu14112313",
+      "similitudes": {
+        "SALUD": 0.2502,
+        "SOBERANIA_ALIMENTARIA": 0.5346,
+        "SISTEMAS_ALIMENTARIOS": 0.4369
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SOBERANIA_ALIMENTARIA",
+          "nombre": "PRONACE Soberanía Alimentaria",
+          "similitud": 0.5346,
+          "confianza": "media"
+        }
+      ],
+      "pronaces_secundarios": [
+        {
+          "codigo": "SISTEMAS_ALIMENTARIOS",
+          "nombre": "Sistemas Alimentarios Sostenibles",
+          "similitud": 0.4369,
+          "confianza": "baja"
+        }
+      ],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "35908491",
+      "titulo": "Trace elements in blood of Baltic gray seal pups (Halichoerus grypus) from the Gulf of Riga and their relationship with biochemical and clinical parameters.",
+      "año": 2022,
+      "revista": "Marine pollution bulletin",
+      "doi": "10.1016/j.marpolbul.2022.113973",
+      "similitudes": {
+        "SALUD": 0.0859,
+        "SOBERANIA_ALIMENTARIA": 0.2198,
+        "SISTEMAS_ALIMENTARIOS": 0.167
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SOBERANIA_ALIMENTARIA",
+          "nombre": "PRONACE Soberanía Alimentaria",
+          "similitud": 0.2198,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "35259496",
+      "titulo": "The growing need to monitor the liver function after SARS-CoV-2 infection in the Mexican population with obesity.",
+      "año": 2022,
+      "revista": "Annals of hepatology",
+      "doi": "10.1016/j.aohep.2022.100698",
+      "similitudes": {
+        "SALUD": 0.2982,
+        "SOBERANIA_ALIMENTARIA": 0.1827,
+        "SISTEMAS_ALIMENTARIOS": 0.1443
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.2982,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": false
+    },
+    {
+      "pmid": "35871684",
+      "titulo": "A First Record of Organochlorine Pesticides in Barn Owls (Tyto alba) from Portugal: Assessing Trends from Variation in Feather and Liver Concentrations.",
+      "año": 2022,
+      "revista": "Bulletin of environmental contamination and toxicology",
+      "doi": "10.1007/s00128-022-03576-6",
+      "similitudes": {
+        "SALUD": 0.0334,
+        "SOBERANIA_ALIMENTARIA": 0.1419,
+        "SISTEMAS_ALIMENTARIOS": 0.2265
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SISTEMAS_ALIMENTARIOS",
+          "nombre": "Sistemas Alimentarios Sostenibles",
+          "similitud": 0.2265,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "35631243",
+      "titulo": "Role of Leu72Met of ",
+      "año": 2022,
+      "revista": "Nutrients",
+      "doi": "10.3390/nu14102100",
+      "similitudes": {
+        "SALUD": 0.2592,
+        "SOBERANIA_ALIMENTARIA": 0.226,
+        "SISTEMAS_ALIMENTARIOS": 0.2253
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.2592,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "35711690",
+      "titulo": "Effect of Metformin on Glycemic Control Regarding Carriers of the ",
+      "año": 2022,
+      "revista": "Diabetes, metabolic syndrome and obesity : targets and therapy",
+      "doi": "10.2147/DMSO.S354579",
+      "similitudes": {
+        "SALUD": 0.3798,
+        "SOBERANIA_ALIMENTARIA": 0.2329,
+        "SISTEMAS_ALIMENTARIOS": 0.2254
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3798,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "37510432",
+      "titulo": "Physical Activity Protocols in Non-Alcoholic Fatty Liver Disease Management: A Systematic Review of Randomized Clinical Trials and Animal Models.",
+      "año": 2023,
+      "revista": "Healthcare (Basel, Switzerland)",
+      "doi": "10.3390/healthcare11141992",
+      "similitudes": {
+        "SALUD": 0.4674,
+        "SOBERANIA_ALIMENTARIA": 0.1905,
+        "SISTEMAS_ALIMENTARIOS": 0.2326
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.4674,
+          "confianza": "media"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "37226130",
+      "titulo": "Food insecurity was negatively associated with adherence to the \"fruits, vegetables, and foods rich in animal protein\" dietary pattern among university students' households: the 2018 Mexican National Household Survey.",
+      "año": 2023,
+      "revista": "BMC public health",
+      "doi": "10.1186/s12889-023-15755-z",
+      "similitudes": {
+        "SALUD": 0.2351,
+        "SOBERANIA_ALIMENTARIA": 0.4998,
+        "SISTEMAS_ALIMENTARIOS": 0.4882
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SOBERANIA_ALIMENTARIA",
+          "nombre": "PRONACE Soberanía Alimentaria",
+          "similitud": 0.4998,
+          "confianza": "media"
+        }
+      ],
+      "pronaces_secundarios": [
+        {
+          "codigo": "SISTEMAS_ALIMENTARIOS",
+          "nombre": "Sistemas Alimentarios Sostenibles",
+          "similitud": 0.4882,
+          "confianza": "media"
+        }
+      ],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "36562214",
+      "titulo": "Nutritional, biochemical, and clinical determinants of hyperuricemia in systemic lupus erythematosus patients: Relationship with clinical and renal disease activity.",
+      "año": 2023,
+      "revista": "Lupus",
+      "doi": "10.1177/09612033221146923",
+      "similitudes": {
+        "SALUD": 0.3833,
+        "SOBERANIA_ALIMENTARIA": 0.2848,
+        "SISTEMAS_ALIMENTARIOS": 0.2387
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3833,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "37109231",
+      "titulo": "Severe COVID-19: Drugs and Clinical Trials.",
+      "año": 2023,
+      "revista": "Journal of clinical medicine",
+      "doi": "10.3390/jcm12082893",
+      "similitudes": {
+        "SALUD": 0.3546,
+        "SOBERANIA_ALIMENTARIA": 0.0543,
+        "SISTEMAS_ALIMENTARIOS": 0.0976
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3546,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "37851183",
+      "titulo": "Immunostimulant effects of diet supplementation with yellow (Pouteria campechiana), white (Casimiroa edulis), and black (Diospyros digyna) sapote nanocapsules on laying hens: in vitro and in vivo study.",
+      "año": 2023,
+      "revista": "Tropical animal health and production",
+      "doi": "10.1007/s11250-023-03778-y",
+      "similitudes": {
+        "SALUD": 0.2547,
+        "SOBERANIA_ALIMENTARIA": 0.344,
+        "SISTEMAS_ALIMENTARIOS": 0.312
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SOBERANIA_ALIMENTARIA",
+          "nombre": "PRONACE Soberanía Alimentaria",
+          "similitud": 0.344,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [
+        {
+          "codigo": "SISTEMAS_ALIMENTARIOS",
+          "nombre": "Sistemas Alimentarios Sostenibles",
+          "similitud": 0.312,
+          "confianza": "tentativa"
+        }
+      ],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "36683011",
+      "titulo": "Low glycemic index common bean snack increased satiety without modifying energy intake in adults with normal weight: randomized crossover trials.",
+      "año": 2023,
+      "revista": "International journal of food sciences and nutrition",
+      "doi": "10.1080/09637486.2023.2170335",
+      "similitudes": {
+        "SALUD": 0.2638,
+        "SOBERANIA_ALIMENTARIA": 0.4285,
+        "SISTEMAS_ALIMENTARIOS": 0.4495
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SISTEMAS_ALIMENTARIOS",
+          "nombre": "Sistemas Alimentarios Sostenibles",
+          "similitud": 0.4495,
+          "confianza": "baja"
+        }
+      ],
+      "pronaces_secundarios": [
+        {
+          "codigo": "SOBERANIA_ALIMENTARIA",
+          "nombre": "PRONACE Soberanía Alimentaria",
+          "similitud": 0.4285,
+          "confianza": "baja"
+        }
+      ],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "37865297",
+      "titulo": "A systematic review of educational nutrition interventions based on behavioral theories in school adolescents.",
+      "año": 2023,
+      "revista": "Appetite",
+      "doi": "10.1016/j.appet.2023.107087",
+      "similitudes": {
+        "SALUD": 0.2221,
+        "SOBERANIA_ALIMENTARIA": 0.465,
+        "SISTEMAS_ALIMENTARIOS": 0.4926
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SISTEMAS_ALIMENTARIOS",
+          "nombre": "Sistemas Alimentarios Sostenibles",
+          "similitud": 0.4926,
+          "confianza": "media"
+        }
+      ],
+      "pronaces_secundarios": [
+        {
+          "codigo": "SOBERANIA_ALIMENTARIA",
+          "nombre": "PRONACE Soberanía Alimentaria",
+          "similitud": 0.465,
+          "confianza": "media"
+        }
+      ],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "37140408",
+      "titulo": "Evening types as determined by subjective and objective measures are more emotional eaters.",
+      "año": 2023,
+      "revista": "Obesity (Silver Spring, Md.)",
+      "doi": "10.1002/oby.23749",
+      "similitudes": {
+        "SALUD": 0.1444,
+        "SOBERANIA_ALIMENTARIA": 0.1909,
+        "SISTEMAS_ALIMENTARIOS": 0.2754
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SISTEMAS_ALIMENTARIOS",
+          "nombre": "Sistemas Alimentarios Sostenibles",
+          "similitud": 0.2754,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "37383373",
+      "titulo": "A mix of ginger phenols exhibits anti‑adipogenic and lipolytic effects in mature adipocytes derived from 3T3‑L1 cells.",
+      "año": 2023,
+      "revista": "Experimental and therapeutic medicine",
+      "doi": "10.3892/etm.2023.12035",
+      "similitudes": {
+        "SALUD": 0.3062,
+        "SOBERANIA_ALIMENTARIA": 0.2003,
+        "SISTEMAS_ALIMENTARIOS": 0.2027
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3062,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "37628530",
+      "titulo": "A Balanced Dietary Ratio of n-6:n-3 Polyunsaturated Fatty Acids Exerts an Effect on Total Fatty Acid Profile in RBCs and Inflammatory Markers in Subjects with Obesity.",
+      "año": 2023,
+      "revista": "Healthcare (Basel, Switzerland)",
+      "doi": "10.3390/healthcare11162333",
+      "similitudes": {
+        "SALUD": 0.4559,
+        "SOBERANIA_ALIMENTARIA": 0.3295,
+        "SISTEMAS_ALIMENTARIOS": 0.3506
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.4559,
+          "confianza": "media"
+        }
+      ],
+      "pronaces_secundarios": [
+        {
+          "codigo": "SISTEMAS_ALIMENTARIOS",
+          "nombre": "Sistemas Alimentarios Sostenibles",
+          "similitud": 0.3506,
+          "confianza": "baja"
+        },
+        {
+          "codigo": "SOBERANIA_ALIMENTARIA",
+          "nombre": "PRONACE Soberanía Alimentaria",
+          "similitud": 0.3295,
+          "confianza": "tentativa"
+        }
+      ],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "37763094",
+      "titulo": "Skinfold Thickness as a Cardiometabolic Risk Predictor in Sedentary and Active Adult Populations.",
+      "año": 2023,
+      "revista": "Journal of personalized medicine",
+      "doi": "10.3390/jpm13091326",
+      "similitudes": {
+        "SALUD": 0.307,
+        "SOBERANIA_ALIMENTARIA": 0.1933,
+        "SISTEMAS_ALIMENTARIOS": 0.2433
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.307,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "37960221",
+      "titulo": "The Influence of Lifestyle on High-Density Lipoprotein Concentration among Mexican Emerging Adults.",
+      "año": 2023,
+      "revista": "Nutrients",
+      "doi": "10.3390/nu15214568",
+      "similitudes": {
+        "SALUD": 0.4163,
+        "SOBERANIA_ALIMENTARIA": 0.5371,
+        "SISTEMAS_ALIMENTARIOS": 0.4979
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SOBERANIA_ALIMENTARIA",
+          "nombre": "PRONACE Soberanía Alimentaria",
+          "similitud": 0.5371,
+          "confianza": "media"
+        }
+      ],
+      "pronaces_secundarios": [
+        {
+          "codigo": "SISTEMAS_ALIMENTARIOS",
+          "nombre": "Sistemas Alimentarios Sostenibles",
+          "similitud": 0.4979,
+          "confianza": "media"
+        },
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.4163,
+          "confianza": "baja"
+        }
+      ],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "37879306",
+      "titulo": "FTO genotypes (rs9939609 T&gt;A) are Associated with Increased Added Sugar Intake in Healthy Young Adults.",
+      "año": 2023,
+      "revista": "Lifestyle genomics",
+      "doi": "10.1159/000534741",
+      "similitudes": {
+        "SALUD": 0.3277,
+        "SOBERANIA_ALIMENTARIA": 0.3217,
+        "SISTEMAS_ALIMENTARIOS": 0.2933
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3277,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [
+        {
+          "codigo": "SOBERANIA_ALIMENTARIA",
+          "nombre": "PRONACE Soberanía Alimentaria",
+          "similitud": 0.3217,
+          "confianza": "tentativa"
+        }
+      ],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "38003956",
+      "titulo": "Effects of Foods of Mesoamerican Origin in Adipose Tissue and Liver-Related Metabolism.",
+      "año": 2023,
+      "revista": "Medicina (Kaunas, Lithuania)",
+      "doi": "10.3390/medicina59111907",
+      "similitudes": {
+        "SALUD": 0.4216,
+        "SOBERANIA_ALIMENTARIA": 0.3679,
+        "SISTEMAS_ALIMENTARIOS": 0.4214
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.4216,
+          "confianza": "baja"
+        }
+      ],
+      "pronaces_secundarios": [
+        {
+          "codigo": "SISTEMAS_ALIMENTARIOS",
+          "nombre": "Sistemas Alimentarios Sostenibles",
+          "similitud": 0.4214,
+          "confianza": "baja"
+        },
+        {
+          "codigo": "SOBERANIA_ALIMENTARIA",
+          "nombre": "PRONACE Soberanía Alimentaria",
+          "similitud": 0.3679,
+          "confianza": "baja"
+        }
+      ],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "37763654",
+      "titulo": "Breastfeeding-Related Health Benefits in Children and Mothers: Vital Organs Perspective.",
+      "año": 2023,
+      "revista": "Medicina (Kaunas, Lithuania)",
+      "doi": "10.3390/medicina59091535",
+      "similitudes": {
+        "SALUD": 0.2257,
+        "SOBERANIA_ALIMENTARIA": 0.3859,
+        "SISTEMAS_ALIMENTARIOS": 0.2537
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SOBERANIA_ALIMENTARIA",
+          "nombre": "PRONACE Soberanía Alimentaria",
+          "similitud": 0.3859,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "37892400",
+      "titulo": "A Nutrigenetic Strategy for Reducing Blood Lipids and Low-Grade Inflammation in Adults with Obesity and Overweight.",
+      "año": 2023,
+      "revista": "Nutrients",
+      "doi": "10.3390/nu15204324",
+      "similitudes": {
+        "SALUD": 0.4687,
+        "SOBERANIA_ALIMENTARIA": 0.4654,
+        "SISTEMAS_ALIMENTARIOS": 0.4128
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.4687,
+          "confianza": "media"
+        }
+      ],
+      "pronaces_secundarios": [
+        {
+          "codigo": "SOBERANIA_ALIMENTARIA",
+          "nombre": "PRONACE Soberanía Alimentaria",
+          "similitud": 0.4654,
+          "confianza": "media"
+        },
+        {
+          "codigo": "SISTEMAS_ALIMENTARIOS",
+          "nombre": "Sistemas Alimentarios Sostenibles",
+          "similitud": 0.4128,
+          "confianza": "baja"
+        }
+      ],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "36318507",
+      "titulo": "Elevated Serum Low-Density Lipoproteins-Cholesterol Levels and B1B2/B2B2 ",
+      "año": 2023,
+      "revista": "Metabolic syndrome and related disorders",
+      "doi": "10.1089/met.2022.0010",
+      "similitudes": {
+        "SALUD": 0.2906,
+        "SOBERANIA_ALIMENTARIA": 0.1696,
+        "SISTEMAS_ALIMENTARIOS": 0.2082
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.2906,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": false
+    },
+    {
+      "pmid": "36652934",
+      "titulo": "Abdominal Obesity, Excessive Adiposity, and the Taq1B CETP Variant Are Positively Associated with Serum Lipid Levels in Mexican Women.",
+      "año": 2023,
+      "revista": "Lifestyle genomics",
+      "doi": "10.1159/000529053",
+      "similitudes": {
+        "SALUD": 0.3708,
+        "SOBERANIA_ALIMENTARIA": 0.2952,
+        "SISTEMAS_ALIMENTARIOS": 0.2845
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3708,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "36834583",
+      "titulo": "Methyl Donor Micronutrients: A Potential Dietary Epigenetic Target in Systemic Lupus Erythematosus Patients.",
+      "año": 2023,
+      "revista": "International journal of molecular sciences",
+      "doi": "10.3390/ijms24043171",
+      "similitudes": {
+        "SALUD": 0.3577,
+        "SOBERANIA_ALIMENTARIA": 0.2684,
+        "SISTEMAS_ALIMENTARIOS": 0.2404
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3577,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "36355253",
+      "titulo": "Association of - 717 A > G (rs2794521) CRP polymorphism with high cardiovascular risk by C-reactive protein in systemic lupus erythematosus patients.",
+      "año": 2023,
+      "revista": "Clinical rheumatology",
+      "doi": "10.1007/s10067-022-06430-6",
+      "similitudes": {
+        "SALUD": 0.3956,
+        "SOBERANIA_ALIMENTARIA": 0.142,
+        "SISTEMAS_ALIMENTARIOS": 0.0941
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3956,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "36839394",
+      "titulo": "Nutritional Approaches to Modulate Cardiovascular Disease Risk in Systemic Lupus Erythematosus: A Literature Review.",
+      "año": 2023,
+      "revista": "Nutrients",
+      "doi": "10.3390/nu15041036",
+      "similitudes": {
+        "SALUD": 0.5248,
+        "SOBERANIA_ALIMENTARIA": 0.3284,
+        "SISTEMAS_ALIMENTARIOS": 0.3049
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.5248,
+          "confianza": "media"
+        }
+      ],
+      "pronaces_secundarios": [
+        {
+          "codigo": "SOBERANIA_ALIMENTARIA",
+          "nombre": "PRONACE Soberanía Alimentaria",
+          "similitud": 0.3284,
+          "confianza": "tentativa"
+        },
+        {
+          "codigo": "SISTEMAS_ALIMENTARIOS",
+          "nombre": "Sistemas Alimentarios Sostenibles",
+          "similitud": 0.3049,
+          "confianza": "tentativa"
+        }
+      ],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "38025831",
+      "titulo": "10‑Gingerol, a novel ginger compound, exhibits antiadipogenic effects without compromising cell viability in 3T3‑L1 cells.",
+      "año": 2023,
+      "revista": "Biomedical reports",
+      "doi": "10.3892/br.2023.1687",
+      "similitudes": {
+        "SALUD": 0.4321,
+        "SOBERANIA_ALIMENTARIA": 0.3113,
+        "SISTEMAS_ALIMENTARIOS": 0.2991
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.4321,
+          "confianza": "baja"
+        }
+      ],
+      "pronaces_secundarios": [
+        {
+          "codigo": "SOBERANIA_ALIMENTARIA",
+          "nombre": "PRONACE Soberanía Alimentaria",
+          "similitud": 0.3113,
+          "confianza": "tentativa"
+        }
+      ],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "37186438",
+      "titulo": "Lipid-Related Genetic Variants for Personalized Dietary Interventions: A Systematic Review.",
+      "año": 2023,
+      "revista": "Molecular nutrition & food research",
+      "doi": "10.1002/mnfr.202200675",
+      "similitudes": {
+        "SALUD": 0.4182,
+        "SOBERANIA_ALIMENTARIA": 0.3723,
+        "SISTEMAS_ALIMENTARIOS": 0.3866
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.4182,
+          "confianza": "baja"
+        }
+      ],
+      "pronaces_secundarios": [
+        {
+          "codigo": "SISTEMAS_ALIMENTARIOS",
+          "nombre": "Sistemas Alimentarios Sostenibles",
+          "similitud": 0.3866,
+          "confianza": "baja"
+        },
+        {
+          "codigo": "SOBERANIA_ALIMENTARIA",
+          "nombre": "PRONACE Soberanía Alimentaria",
+          "similitud": 0.3723,
+          "confianza": "baja"
+        }
+      ],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "37562137",
+      "titulo": "Medical nutrition therapy in patients receiving extracorporeal membrane oxygenation: knowledge in progress.",
+      "año": 2023,
+      "revista": "Archivos de cardiologia de Mexico",
+      "doi": "10.24875/ACM.22000109",
+      "similitudes": {
+        "SALUD": 0.2382,
+        "SOBERANIA_ALIMENTARIA": 0.3771,
+        "SISTEMAS_ALIMENTARIOS": 0.1884
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SOBERANIA_ALIMENTARIA",
+          "nombre": "PRONACE Soberanía Alimentaria",
+          "similitud": 0.3771,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "37433211",
+      "titulo": "FAAH Pro129Thr Variant Is Associated with Increased Cholesterol Levels in Normal-Weight Metabolically Unhealthy Subjects.",
+      "año": 2023,
+      "revista": "Metabolic syndrome and related disorders",
+      "doi": "10.1089/met.2023.0014",
+      "similitudes": {
+        "SALUD": 0.3282,
+        "SOBERANIA_ALIMENTARIA": 0.1233,
+        "SISTEMAS_ALIMENTARIOS": 0.2274
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3282,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": false
+    },
+    {
+      "pmid": "37420134",
+      "titulo": "Development, characterization, and immunomodulation performance of spray-dried Moringa oleifera seed extract in Longfin yellowtail Seriola rivoliana.",
+      "año": 2023,
+      "revista": "Veterinary research communications",
+      "doi": "10.1007/s11259-023-10156-4",
+      "similitudes": {
+        "SALUD": 0.1588,
+        "SOBERANIA_ALIMENTARIA": 0.3022,
+        "SISTEMAS_ALIMENTARIOS": 0.2812
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SOBERANIA_ALIMENTARIA",
+          "nombre": "PRONACE Soberanía Alimentaria",
+          "similitud": 0.3022,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "37049606",
+      "titulo": "Vitamin D in Depression: A Potential Bioactive Agent to Reduce Suicide and Suicide Attempt Risk.",
+      "año": 2023,
+      "revista": "Nutrients",
+      "doi": "10.3390/nu15071765",
+      "similitudes": {
+        "SALUD": 0.2507,
+        "SOBERANIA_ALIMENTARIA": 0.172,
+        "SISTEMAS_ALIMENTARIOS": 0.1497
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.2507,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "37515200",
+      "titulo": "Effect of Human Adenovirus 36 on Response to Metformin Monotherapy in Obese Mexican Patients with Type 2 Diabetes: A Prospective Cohort Study.",
+      "año": 2023,
+      "revista": "Viruses",
+      "doi": "10.3390/v15071514",
+      "similitudes": {
+        "SALUD": 0.3596,
+        "SOBERANIA_ALIMENTARIA": 0.1481,
+        "SISTEMAS_ALIMENTARIOS": 0.1616
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3596,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "38069427",
+      "titulo": "Pharmacomicrobiomics and Drug-Infection Interactions: The Impact of Commensal, Symbiotic and Pathogenic Microorganisms on a Host Response to Drug Therapy.",
+      "año": 2023,
+      "revista": "International journal of molecular sciences",
+      "doi": "10.3390/ijms242317100",
+      "similitudes": {
+        "SALUD": 0.2524,
+        "SOBERANIA_ALIMENTARIA": 0.0925,
+        "SISTEMAS_ALIMENTARIOS": 0.0958
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.2524,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "37901876",
+      "titulo": "Association of intestinal dysbiosis with susceptibility to multiple sclerosis: Evidence from different population studies (Review).",
+      "año": 2023,
+      "revista": "Biomedical reports",
+      "doi": "10.3892/br.2023.1675",
+      "similitudes": {
+        "SALUD": 0.294,
+        "SOBERANIA_ALIMENTARIA": 0.1241,
+        "SISTEMAS_ALIMENTARIOS": 0.0947
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.294,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "35697893",
+      "titulo": "A Commentary on: Serum Trace Element Concentrations in Rheumatoid Arthritis.",
+      "año": 2023,
+      "revista": "Biological trace element research",
+      "doi": "10.1007/s12011-022-03319-y",
+      "similitudes": {
+        "SALUD": 0.2771,
+        "SOBERANIA_ALIMENTARIA": 0.1162,
+        "SISTEMAS_ALIMENTARIOS": 0.0823
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.2771,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": false
+    },
+    {
+      "pmid": "37522456",
+      "titulo": "Relationship between lipid profile, anthropometric indicators, and appetite-regulating hormones in infants according to type of feeding.",
+      "año": 2023,
+      "revista": "Nutricion hospitalaria",
+      "doi": "10.20960/nh.04477",
+      "similitudes": {
+        "SALUD": 0.235,
+        "SOBERANIA_ALIMENTARIA": 0.3589,
+        "SISTEMAS_ALIMENTARIOS": 0.275
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SOBERANIA_ALIMENTARIA",
+          "nombre": "PRONACE Soberanía Alimentaria",
+          "similitud": 0.3589,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "37140401",
+      "titulo": "Lifestyle mediators of associations among siestas, obesity, and metabolic health.",
+      "año": 2023,
+      "revista": "Obesity (Silver Spring, Md.)",
+      "doi": "10.1002/oby.23765",
+      "similitudes": {
+        "SALUD": 0.3605,
+        "SOBERANIA_ALIMENTARIA": 0.3364,
+        "SISTEMAS_ALIMENTARIOS": 0.3554
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3605,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [
+        {
+          "codigo": "SISTEMAS_ALIMENTARIOS",
+          "nombre": "Sistemas Alimentarios Sostenibles",
+          "similitud": 0.3554,
+          "confianza": "baja"
+        },
+        {
+          "codigo": "SOBERANIA_ALIMENTARIA",
+          "nombre": "PRONACE Soberanía Alimentaria",
+          "similitud": 0.3364,
+          "confianza": "tentativa"
+        }
+      ],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "38732048",
+      "titulo": "A Two-Faced Gut Microbiome: Butyrogenic and Proinflammatory Bacteria Predominate in the Intestinal Milieu of People Living with HIV from Western Mexico.",
+      "año": 2024,
+      "revista": "International journal of molecular sciences",
+      "doi": "10.3390/ijms25094830",
+      "similitudes": {
+        "SALUD": 0.253,
+        "SOBERANIA_ALIMENTARIA": 0.2634,
+        "SISTEMAS_ALIMENTARIOS": 0.2201
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SOBERANIA_ALIMENTARIA",
+          "nombre": "PRONACE Soberanía Alimentaria",
+          "similitud": 0.2634,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "39200435",
+      "titulo": "Beyond the Classroom: The Influence of Food Insecurity, Mental Health, and Sleep Quality on University Students' Academic Performance.",
+      "año": 2024,
+      "revista": "Foods (Basel, Switzerland)",
+      "doi": "10.3390/foods13162508",
+      "similitudes": {
+        "SALUD": 0.1163,
+        "SOBERANIA_ALIMENTARIA": 0.2606,
+        "SISTEMAS_ALIMENTARIOS": 0.3305
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SISTEMAS_ALIMENTARIOS",
+          "nombre": "Sistemas Alimentarios Sostenibles",
+          "similitud": 0.3305,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "38397742",
+      "titulo": "Acute Antioxidant Response to Two Types of Exercises: 2000 M Run vs. Burpee Test.",
+      "año": 2024,
+      "revista": "Antioxidants (Basel, Switzerland)",
+      "doi": "10.3390/antiox13020144",
+      "similitudes": {
+        "SALUD": 0.391,
+        "SOBERANIA_ALIMENTARIA": 0.1983,
+        "SISTEMAS_ALIMENTARIOS": 0.2213
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.391,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "37833561",
+      "titulo": "Transcriptional and epigenetic changes after dietary and surgical weight loss interventions in an animal model of obesity.",
+      "año": 2024,
+      "revista": "International journal of obesity (2005)",
+      "doi": "10.1038/s41366-023-01395-1",
+      "similitudes": {
+        "SALUD": 0.2807,
+        "SOBERANIA_ALIMENTARIA": 0.1695,
+        "SISTEMAS_ALIMENTARIOS": 0.2487
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.2807,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "38680728",
+      "titulo": "Educational Nutritional Intervention Program for Adolescents Based on Social Cognitive Theory: Pilot Study of a Cluster Randomized Controlled Trial.",
+      "año": 2024,
+      "revista": "Health services insights",
+      "doi": "10.1177/11786329241249011",
+      "similitudes": {
+        "SALUD": 0.2722,
+        "SOBERANIA_ALIMENTARIA": 0.4444,
+        "SISTEMAS_ALIMENTARIOS": 0.4784
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SISTEMAS_ALIMENTARIOS",
+          "nombre": "Sistemas Alimentarios Sostenibles",
+          "similitud": 0.4784,
+          "confianza": "media"
+        }
+      ],
+      "pronaces_secundarios": [
+        {
+          "codigo": "SOBERANIA_ALIMENTARIA",
+          "nombre": "PRONACE Soberanía Alimentaria",
+          "similitud": 0.4444,
+          "confianza": "baja"
+        }
+      ],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "39729580",
+      "titulo": "Positive correlation between n- 6 : n- 3 PUFA ratio intake with serum oxHDL/HDL-c ratio in patients with coronary artery disease.",
+      "año": 2024,
+      "revista": "Coronary artery disease",
+      "doi": "10.1097/MCA.0000000000001437",
+      "similitudes": {
+        "SALUD": 0.4141,
+        "SOBERANIA_ALIMENTARIA": 0.2391,
+        "SISTEMAS_ALIMENTARIOS": 0.3339
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.4141,
+          "confianza": "baja"
+        }
+      ],
+      "pronaces_secundarios": [
+        {
+          "codigo": "SISTEMAS_ALIMENTARIOS",
+          "nombre": "Sistemas Alimentarios Sostenibles",
+          "similitud": 0.3339,
+          "confianza": "tentativa"
+        }
+      ],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "38823293",
+      "titulo": "Social representations of breastfeeding in health science students: A first step to strengthening their training.",
+      "año": 2024,
+      "revista": "Nurse education in practice",
+      "doi": "10.1016/j.nepr.2024.103991",
+      "similitudes": {
+        "SALUD": 0.181,
+        "SOBERANIA_ALIMENTARIA": 0.3964,
+        "SISTEMAS_ALIMENTARIOS": 0.3144
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SOBERANIA_ALIMENTARIA",
+          "nombre": "PRONACE Soberanía Alimentaria",
+          "similitud": 0.3964,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [
+        {
+          "codigo": "SISTEMAS_ALIMENTARIOS",
+          "nombre": "Sistemas Alimentarios Sostenibles",
+          "similitud": 0.3144,
+          "confianza": "tentativa"
+        }
+      ],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "38673816",
+      "titulo": "Loss of the Y Chromosome: A Review of Molecular Mechanisms, Age Inference, and Implications for Men's Health.",
+      "año": 2024,
+      "revista": "International journal of molecular sciences",
+      "doi": "10.3390/ijms25084230",
+      "similitudes": {
+        "SALUD": 0.1881,
+        "SOBERANIA_ALIMENTARIA": 0.0126,
+        "SISTEMAS_ALIMENTARIOS": 0.0428
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.1881,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "38422035",
+      "titulo": "Genetic risk score for insulin resistance based on gene variants associated to amino acid metabolism in young adults.",
+      "año": 2024,
+      "revista": "PloS one",
+      "doi": "10.1371/journal.pone.0299543",
+      "similitudes": {
+        "SALUD": 0.2918,
+        "SOBERANIA_ALIMENTARIA": 0.1928,
+        "SISTEMAS_ALIMENTARIOS": 0.1643
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.2918,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "37830306",
+      "titulo": "Low 25-Hydroxyvitamin D [25(OH)D] Levels as a Predictor of Depressive Symptoms: Evidence from Community-Dwelling Older Adults Population in Mexico City.",
+      "año": 2024,
+      "revista": "Experimental aging research",
+      "doi": "10.1080/0361073X.2023.2269803",
+      "similitudes": {
+        "SALUD": 0.2808,
+        "SOBERANIA_ALIMENTARIA": 0.1608,
+        "SISTEMAS_ALIMENTARIOS": 0.1777
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.2808,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "38114812",
+      "titulo": "Association between the FAAH C385A variant (rs324420) and obesity-related traits: a systematic review.",
+      "año": 2024,
+      "revista": "International journal of obesity (2005)",
+      "doi": "10.1038/s41366-023-01428-9",
+      "similitudes": {
+        "SALUD": 0.2739,
+        "SOBERANIA_ALIMENTARIA": 0.1294,
+        "SISTEMAS_ALIMENTARIOS": 0.1649
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.2739,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "38986627",
+      "titulo": "Effect of coffee intake on appetite parameters in woman with overweight or obesity: A pilot crossover randomized trial.",
+      "año": 2024,
+      "revista": "Endocrinologia, diabetes y nutricion",
+      "doi": "10.1016/j.endien.2024.03.021",
+      "similitudes": {
+        "SALUD": 0.2839,
+        "SOBERANIA_ALIMENTARIA": 0.3038,
+        "SISTEMAS_ALIMENTARIOS": 0.371
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SISTEMAS_ALIMENTARIOS",
+          "nombre": "Sistemas Alimentarios Sostenibles",
+          "similitud": 0.371,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [
+        {
+          "codigo": "SOBERANIA_ALIMENTARIA",
+          "nombre": "PRONACE Soberanía Alimentaria",
+          "similitud": 0.3038,
+          "confianza": "tentativa"
+        }
+      ],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "39599716",
+      "titulo": "Relationship Between Serum Levels of Oxidized Lipoproteins, Circulating Levels of Myeloperoxidase and Paraoxonase 1, and Diet in Young Subjects with Insulin Resistance.",
+      "año": 2024,
+      "revista": "Nutrients",
+      "doi": "10.3390/nu16223930",
+      "similitudes": {
+        "SALUD": 0.3112,
+        "SOBERANIA_ALIMENTARIA": 0.2458,
+        "SISTEMAS_ALIMENTARIOS": 0.2376
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3112,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "38610209",
+      "titulo": "FTO rs9939609: T>A Variant and Physical Inactivity as Important Risk Factors for Class III Obesity: A Cross-Sectional Study.",
+      "año": 2024,
+      "revista": "Healthcare (Basel, Switzerland)",
+      "doi": "10.3390/healthcare12070787",
+      "similitudes": {
+        "SALUD": 0.4039,
+        "SOBERANIA_ALIMENTARIA": 0.348,
+        "SISTEMAS_ALIMENTARIOS": 0.3421
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.4039,
+          "confianza": "baja"
+        }
+      ],
+      "pronaces_secundarios": [
+        {
+          "codigo": "SOBERANIA_ALIMENTARIA",
+          "nombre": "PRONACE Soberanía Alimentaria",
+          "similitud": 0.348,
+          "confianza": "tentativa"
+        },
+        {
+          "codigo": "SISTEMAS_ALIMENTARIOS",
+          "nombre": "Sistemas Alimentarios Sostenibles",
+          "similitud": 0.3421,
+          "confianza": "tentativa"
+        }
+      ],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "39351515",
+      "titulo": "Contribution of extracellular vesicles to steatosis-related liver disease and their therapeutic potential.",
+      "año": 2024,
+      "revista": "World journal of hepatology",
+      "doi": "10.4254/wjh.v16.i9.1211",
+      "similitudes": {
+        "SALUD": 0.361,
+        "SOBERANIA_ALIMENTARIA": 0.0933,
+        "SISTEMAS_ALIMENTARIOS": 0.178
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.361,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "39200434",
+      "titulo": "Clusters of Sociodemographic Characteristics and Their Association with Food Insecurity in Mexican University Students.",
+      "año": 2024,
+      "revista": "Foods (Basel, Switzerland)",
+      "doi": "10.3390/foods13162507",
+      "similitudes": {
+        "SALUD": 0.1364,
+        "SOBERANIA_ALIMENTARIA": 0.3912,
+        "SISTEMAS_ALIMENTARIOS": 0.351
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SOBERANIA_ALIMENTARIA",
+          "nombre": "PRONACE Soberanía Alimentaria",
+          "similitud": 0.3912,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [
+        {
+          "codigo": "SISTEMAS_ALIMENTARIOS",
+          "nombre": "Sistemas Alimentarios Sostenibles",
+          "similitud": 0.351,
+          "confianza": "baja"
+        }
+      ],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "38782407",
+      "titulo": "Association of c.+677 C>T (rs1801133) and c.+1298 A>C (rs1801131) ",
+      "año": 2024,
+      "revista": "Lupus",
+      "doi": "10.1177/09612033241257158",
+      "similitudes": {
+        "SALUD": 0.4143,
+        "SOBERANIA_ALIMENTARIA": 0.2188,
+        "SISTEMAS_ALIMENTARIOS": 0.1798
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.4143,
+          "confianza": "baja"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "39385585",
+      "titulo": "10-Gingerol reduces cytoplasmic lipid droplets and induces lipolysis in 3T3-L1 adipocytes.",
+      "año": 2024,
+      "revista": "Adipocyte",
+      "doi": "10.1080/21623945.2024.2411453",
+      "similitudes": {
+        "SALUD": 0.3206,
+        "SOBERANIA_ALIMENTARIA": 0.2115,
+        "SISTEMAS_ALIMENTARIOS": 0.23
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3206,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "39334752",
+      "titulo": "10-Gingerol Increases Antioxidant Enzymes and Attenuates Lipopolysaccharide-Induced Inflammation by Modulating Adipokines in 3T3-L1 Adipocytes.",
+      "año": 2024,
+      "revista": "Antioxidants (Basel, Switzerland)",
+      "doi": "10.3390/antiox13091093",
+      "similitudes": {
+        "SALUD": 0.3278,
+        "SOBERANIA_ALIMENTARIA": 0.1996,
+        "SISTEMAS_ALIMENTARIOS": 0.2253
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3278,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "39458515",
+      "titulo": "FADS1 Genetic Variant and Omega-3 Supplementation Are Associated with Changes in Fatty Acid Composition in Red Blood Cells of Subjects with Obesity.",
+      "año": 2024,
+      "revista": "Nutrients",
+      "doi": "10.3390/nu16203522",
+      "similitudes": {
+        "SALUD": 0.4759,
+        "SOBERANIA_ALIMENTARIA": 0.2957,
+        "SISTEMAS_ALIMENTARIOS": 0.3109
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.4759,
+          "confianza": "media"
+        }
+      ],
+      "pronaces_secundarios": [
+        {
+          "codigo": "SISTEMAS_ALIMENTARIOS",
+          "nombre": "Sistemas Alimentarios Sostenibles",
+          "similitud": 0.3109,
+          "confianza": "tentativa"
+        }
+      ],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "38397875",
+      "titulo": "Analysis of Potential Vitamin D Molecule Biomarkers: Association of Calcitriol and Its Hydroxylation Efficiency Ratio with Cardiovascular Disease Risk in Rheumatoid Arthritis Patients.",
+      "año": 2024,
+      "revista": "Biomedicines",
+      "doi": "10.3390/biomedicines12020273",
+      "similitudes": {
+        "SALUD": 0.4021,
+        "SOBERANIA_ALIMENTARIA": 0.1453,
+        "SISTEMAS_ALIMENTARIOS": 0.1354
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.4021,
+          "confianza": "baja"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "39433954",
+      "titulo": "H3K9me3 demethylation by JMJD2B is regulated by pirfenidone resulting in improved NASH.",
+      "año": 2024,
+      "revista": "Scientific reports",
+      "doi": "10.1038/s41598-024-75458-2",
+      "similitudes": {
+        "SALUD": 0.3757,
+        "SOBERANIA_ALIMENTARIA": 0.2253,
+        "SISTEMAS_ALIMENTARIOS": 0.3092
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3757,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [
+        {
+          "codigo": "SISTEMAS_ALIMENTARIOS",
+          "nombre": "Sistemas Alimentarios Sostenibles",
+          "similitud": 0.3092,
+          "confianza": "tentativa"
+        }
+      ],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "38709772",
+      "titulo": "Relationship of serum and dietary vitamin D with high cardiometabolic risk in Mexican systemic lupus erythematosus patients: A cross-sectional study.",
+      "año": 2024,
+      "revista": "Lupus",
+      "doi": "10.1177/09612033241252060",
+      "similitudes": {
+        "SALUD": 0.3759,
+        "SOBERANIA_ALIMENTARIA": 0.3226,
+        "SISTEMAS_ALIMENTARIOS": 0.3096
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3759,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [
+        {
+          "codigo": "SOBERANIA_ALIMENTARIA",
+          "nombre": "PRONACE Soberanía Alimentaria",
+          "similitud": 0.3226,
+          "confianza": "tentativa"
+        },
+        {
+          "codigo": "SISTEMAS_ALIMENTARIOS",
+          "nombre": "Sistemas Alimentarios Sostenibles",
+          "similitud": 0.3096,
+          "confianza": "tentativa"
+        }
+      ],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": false
+    },
+    {
+      "pmid": "39519583",
+      "titulo": "Updated-Food Choice Questionnaire: Cultural Adaptation and Validation in a Spanish-Speaking Population from Mexico.",
+      "año": 2024,
+      "revista": "Nutrients",
+      "doi": "10.3390/nu16213749",
+      "similitudes": {
+        "SALUD": 0.2092,
+        "SOBERANIA_ALIMENTARIA": 0.4995,
+        "SISTEMAS_ALIMENTARIOS": 0.4656
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SOBERANIA_ALIMENTARIA",
+          "nombre": "PRONACE Soberanía Alimentaria",
+          "similitud": 0.4995,
+          "confianza": "media"
+        }
+      ],
+      "pronaces_secundarios": [
+        {
+          "codigo": "SISTEMAS_ALIMENTARIOS",
+          "nombre": "Sistemas Alimentarios Sostenibles",
+          "similitud": 0.4656,
+          "confianza": "media"
+        }
+      ],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "39268569",
+      "titulo": "Comparison of repeatability of subjective appetite sensations in men and women at different menstrual cycle phase.",
+      "año": 2024,
+      "revista": "Nutricion hospitalaria",
+      "doi": "10.20960/nh.05153",
+      "similitudes": {
+        "SALUD": 0.1522,
+        "SOBERANIA_ALIMENTARIA": 0.1952,
+        "SISTEMAS_ALIMENTARIOS": 0.2124
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SISTEMAS_ALIMENTARIOS",
+          "nombre": "Sistemas Alimentarios Sostenibles",
+          "similitud": 0.2124,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "38667126",
+      "titulo": "Effects of Physical Activity on Cognition, Behavior, and Motor Skills in Youth with Autism Spectrum Disorder: A Systematic Review of Intervention Studies.",
+      "año": 2024,
+      "revista": "Behavioral sciences (Basel, Switzerland)",
+      "doi": "10.3390/bs14040330",
+      "similitudes": {
+        "SALUD": 0.2389,
+        "SOBERANIA_ALIMENTARIA": 0.1455,
+        "SISTEMAS_ALIMENTARIOS": 0.132
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.2389,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "39590816",
+      "titulo": "Modulatory L-Alliin Effect on Acute Inflammatory Cytokines in Diet-Induced Obesity Mice.",
+      "año": 2024,
+      "revista": "Metabolites",
+      "doi": "10.3390/metabo14110580",
+      "similitudes": {
+        "SALUD": 0.3422,
+        "SOBERANIA_ALIMENTARIA": 0.2483,
+        "SISTEMAS_ALIMENTARIOS": 0.2693
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3422,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": false
+    },
+    {
+      "pmid": "38667575",
+      "titulo": "The Role of Diet and Physical Activity in Shaping COVID-19 Severity: Design, Validation, and Application of a Retrospective Questionnaire.",
+      "año": 2024,
+      "revista": "Healthcare (Basel, Switzerland)",
+      "doi": "10.3390/healthcare12080813",
+      "similitudes": {
+        "SALUD": 0.4272,
+        "SOBERANIA_ALIMENTARIA": 0.3301,
+        "SISTEMAS_ALIMENTARIOS": 0.4093
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.4272,
+          "confianza": "baja"
+        }
+      ],
+      "pronaces_secundarios": [
+        {
+          "codigo": "SISTEMAS_ALIMENTARIOS",
+          "nombre": "Sistemas Alimentarios Sostenibles",
+          "similitud": 0.4093,
+          "confianza": "baja"
+        },
+        {
+          "codigo": "SOBERANIA_ALIMENTARIA",
+          "nombre": "PRONACE Soberanía Alimentaria",
+          "similitud": 0.3301,
+          "confianza": "tentativa"
+        }
+      ],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "40349439",
+      "titulo": "First record of trace elements in cetaceans stranded along the Asturias Coastline, Northwest Spain: One great diversity area of marine mammals.",
+      "año": 2025,
+      "revista": "Journal of trace elements in medicine and biology : organ of the Society for Minerals and Trace Elements (GMS)",
+      "doi": "10.1016/j.jtemb.2025.127669",
+      "similitudes": {
+        "SALUD": 0.038,
+        "SOBERANIA_ALIMENTARIA": 0.1441,
+        "SISTEMAS_ALIMENTARIOS": 0.0964
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SOBERANIA_ALIMENTARIA",
+          "nombre": "PRONACE Soberanía Alimentaria",
+          "similitud": 0.1441,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "40682854",
+      "titulo": "Macrophage migration inhibitory factor: Exploring physiological roles and comparing health benefits against oncogenic and autoimmune risks (Review).",
+      "año": 2025,
+      "revista": "International journal of molecular medicine",
+      "doi": "10.3892/ijmm.2025.5590",
+      "similitudes": {
+        "SALUD": 0.3871,
+        "SOBERANIA_ALIMENTARIA": 0.0962,
+        "SISTEMAS_ALIMENTARIOS": 0.0398
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3871,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "40076851",
+      "titulo": "The Role of TLRs in Obesity and Its Related Metabolic Disorders.",
+      "año": 2025,
+      "revista": "International journal of molecular sciences",
+      "doi": "10.3390/ijms26052229",
+      "similitudes": {
+        "SALUD": 0.4999,
+        "SOBERANIA_ALIMENTARIA": 0.1497,
+        "SISTEMAS_ALIMENTARIOS": 0.2357
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.4999,
+          "confianza": "media"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "39940247",
+      "titulo": "Chrononutrition in Chronic Kidney Disease.",
+      "año": 2025,
+      "revista": "Nutrients",
+      "doi": "10.3390/nu17030389",
+      "similitudes": {
+        "SALUD": 0.4173,
+        "SOBERANIA_ALIMENTARIA": 0.2918,
+        "SISTEMAS_ALIMENTARIOS": 0.3126
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.4173,
+          "confianza": "baja"
+        }
+      ],
+      "pronaces_secundarios": [
+        {
+          "codigo": "SISTEMAS_ALIMENTARIOS",
+          "nombre": "Sistemas Alimentarios Sostenibles",
+          "similitud": 0.3126,
+          "confianza": "tentativa"
+        }
+      ],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "40761804",
+      "titulo": "Assembly and activation of the NLRP3 inflammasome and cytokine quantification in response to exercise in adults with different metabolic conditions: a systematic review.",
+      "año": 2025,
+      "revista": "Frontiers in sports and active living",
+      "doi": "10.3389/fspor.2025.1602208",
+      "similitudes": {
+        "SALUD": 0.4604,
+        "SOBERANIA_ALIMENTARIA": 0.1248,
+        "SISTEMAS_ALIMENTARIOS": 0.1004
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.4604,
+          "confianza": "media"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "40559113",
+      "titulo": "Phenotype-Driven Variability in Longitudinal Body Composition Changes After a Very Low-Calorie Ketogenic Intervention: A Machine Learning Cluster Approach.",
+      "año": 2025,
+      "revista": "Journal of personalized medicine",
+      "doi": "10.3390/jpm15060251",
+      "similitudes": {
+        "SALUD": 0.2935,
+        "SOBERANIA_ALIMENTARIA": 0.2938,
+        "SISTEMAS_ALIMENTARIOS": 0.3466
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SISTEMAS_ALIMENTARIOS",
+          "nombre": "Sistemas Alimentarios Sostenibles",
+          "similitud": 0.3466,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": false
+    },
+    {
+      "pmid": "40361669",
+      "titulo": "Industrial Applications, Principal Sources, and Extraction of Galactomannans: A Review.",
+      "año": 2025,
+      "revista": "Foods (Basel, Switzerland)",
+      "doi": "10.3390/foods14091587",
+      "similitudes": {
+        "SALUD": 0.1117,
+        "SOBERANIA_ALIMENTARIA": 0.1803,
+        "SISTEMAS_ALIMENTARIOS": 0.2986
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SISTEMAS_ALIMENTARIOS",
+          "nombre": "Sistemas Alimentarios Sostenibles",
+          "similitud": 0.2986,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "40281819",
+      "titulo": "Malnutrition in Substance Use Disorders: A Critical Issue in Their Treatment and Recovery.",
+      "año": 2025,
+      "revista": "Healthcare (Basel, Switzerland)",
+      "doi": "10.3390/healthcare13080868",
+      "similitudes": {
+        "SALUD": 0.3933,
+        "SOBERANIA_ALIMENTARIA": 0.3924,
+        "SISTEMAS_ALIMENTARIOS": 0.3482
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3933,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [
+        {
+          "codigo": "SOBERANIA_ALIMENTARIA",
+          "nombre": "PRONACE Soberanía Alimentaria",
+          "similitud": 0.3924,
+          "confianza": "baja"
+        },
+        {
+          "codigo": "SISTEMAS_ALIMENTARIOS",
+          "nombre": "Sistemas Alimentarios Sostenibles",
+          "similitud": 0.3482,
+          "confianza": "tentativa"
+        }
+      ],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "40573106",
+      "titulo": "Dietary ",
+      "año": 2025,
+      "revista": "Nutrients",
+      "doi": "10.3390/nu17121996",
+      "similitudes": {
+        "SALUD": 0.408,
+        "SOBERANIA_ALIMENTARIA": 0.253,
+        "SISTEMAS_ALIMENTARIOS": 0.3438
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.408,
+          "confianza": "baja"
+        }
+      ],
+      "pronaces_secundarios": [
+        {
+          "codigo": "SISTEMAS_ALIMENTARIOS",
+          "nombre": "Sistemas Alimentarios Sostenibles",
+          "similitud": 0.3438,
+          "confianza": "tentativa"
+        }
+      ],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": false
+    },
+    {
+      "pmid": "40284995",
+      "titulo": "Modulation of the Inflammatory Response by Adenovirus 36 in Patients with Obesity and Type 2 Diabetes: A Nested Case-Control Study Within a Cohort.",
+      "año": 2025,
+      "revista": "Viruses",
+      "doi": "10.3390/v17040552",
+      "similitudes": {
+        "SALUD": 0.4287,
+        "SOBERANIA_ALIMENTARIA": 0.136,
+        "SISTEMAS_ALIMENTARIOS": 0.1541
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.4287,
+          "confianza": "baja"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "39795230",
+      "titulo": "Phenolic Compounds and Anthocyanins in Legumes and Their Impact on Inflammation, Oxidative Stress, and Metabolism: Comprehensive Review.",
+      "año": 2025,
+      "revista": "Molecules (Basel, Switzerland)",
+      "doi": "10.3390/molecules30010174",
+      "similitudes": {
+        "SALUD": 0.3883,
+        "SOBERANIA_ALIMENTARIA": 0.2835,
+        "SISTEMAS_ALIMENTARIOS": 0.3114
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3883,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [
+        {
+          "codigo": "SISTEMAS_ALIMENTARIOS",
+          "nombre": "Sistemas Alimentarios Sostenibles",
+          "similitud": 0.3114,
+          "confianza": "tentativa"
+        }
+      ],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "40565453",
+      "titulo": "Serum OxLDL Levels Are Positively Associated with the Number of Ischemic Events and Damaged Blood Vessels in Patients with Coronary Artery Disease.",
+      "año": 2025,
+      "revista": "Healthcare (Basel, Switzerland)",
+      "doi": "10.3390/healthcare13121426",
+      "similitudes": {
+        "SALUD": 0.2538,
+        "SOBERANIA_ALIMENTARIA": -0.0041,
+        "SISTEMAS_ALIMENTARIOS": 0.0069
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.2538,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": false
+    },
+    {
+      "pmid": "40733199",
+      "titulo": "Immunometabolic Effects of Ginger (",
+      "año": 2025,
+      "revista": "Molecules (Basel, Switzerland)",
+      "doi": "10.3390/molecules30142933",
+      "similitudes": {
+        "SALUD": 0.4605,
+        "SOBERANIA_ALIMENTARIA": 0.3506,
+        "SISTEMAS_ALIMENTARIOS": 0.34
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.4605,
+          "confianza": "media"
+        }
+      ],
+      "pronaces_secundarios": [
+        {
+          "codigo": "SOBERANIA_ALIMENTARIA",
+          "nombre": "PRONACE Soberanía Alimentaria",
+          "similitud": 0.3506,
+          "confianza": "baja"
+        },
+        {
+          "codigo": "SISTEMAS_ALIMENTARIOS",
+          "nombre": "Sistemas Alimentarios Sostenibles",
+          "similitud": 0.34,
+          "confianza": "tentativa"
+        }
+      ],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "40577283",
+      "titulo": "A mixture of ginger phenolic compounds enhances mitochondrial function, activates AMPK, and reduces lipid accumulation in adipocytes.",
+      "año": 2025,
+      "revista": "PloS one",
+      "doi": "10.1371/journal.pone.0326690",
+      "similitudes": {
+        "SALUD": 0.2573,
+        "SOBERANIA_ALIMENTARIA": 0.1738,
+        "SISTEMAS_ALIMENTARIOS": 0.1726
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.2573,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "39617000",
+      "titulo": "Guidance and Position of RINN22 regarding Precision Nutrition and Nutriomics.",
+      "año": 2025,
+      "revista": "Lifestyle genomics",
+      "doi": "10.1159/000542789",
+      "similitudes": {
+        "SALUD": 0.435,
+        "SOBERANIA_ALIMENTARIA": 0.5177,
+        "SISTEMAS_ALIMENTARIOS": 0.497
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SOBERANIA_ALIMENTARIA",
+          "nombre": "PRONACE Soberanía Alimentaria",
+          "similitud": 0.5177,
+          "confianza": "media"
+        }
+      ],
+      "pronaces_secundarios": [
+        {
+          "codigo": "SISTEMAS_ALIMENTARIOS",
+          "nombre": "Sistemas Alimentarios Sostenibles",
+          "similitud": 0.497,
+          "confianza": "media"
+        },
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.435,
+          "confianza": "baja"
+        }
+      ],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "39856824",
+      "titulo": "Associations of Sociodemographic Characteristics with Food Choice Motives' Importance Among Mexican Adults: A Cross-Sectional Analysis.",
+      "año": 2025,
+      "revista": "Foods (Basel, Switzerland)",
+      "doi": "10.3390/foods14020158",
+      "similitudes": {
+        "SALUD": 0.1261,
+        "SOBERANIA_ALIMENTARIA": 0.407,
+        "SISTEMAS_ALIMENTARIOS": 0.4728
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SISTEMAS_ALIMENTARIOS",
+          "nombre": "Sistemas Alimentarios Sostenibles",
+          "similitud": 0.4728,
+          "confianza": "media"
+        }
+      ],
+      "pronaces_secundarios": [
+        {
+          "codigo": "SOBERANIA_ALIMENTARIA",
+          "nombre": "PRONACE Soberanía Alimentaria",
+          "similitud": 0.407,
+          "confianza": "baja"
+        }
+      ],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "39512009",
+      "titulo": "[Erythrocyte and dietary omega-3 fatty acid profile in overweight and obese pregnant women].",
+      "año": 2025,
+      "revista": "Nutricion hospitalaria",
+      "doi": "10.20960/nh.05332",
+      "similitudes": {
+        "SALUD": 0.1906,
+        "SOBERANIA_ALIMENTARIA": 0.3119,
+        "SISTEMAS_ALIMENTARIOS": 0.2632
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SOBERANIA_ALIMENTARIA",
+          "nombre": "PRONACE Soberanía Alimentaria",
+          "similitud": 0.3119,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "40428437",
+      "titulo": "Design and Optimization of a Second-Generation Extruded Snack Using Carrot Waste, Blue Corn Flour, and Ellagic Acid as Functional Ingredients.",
+      "año": 2025,
+      "revista": "Foods (Basel, Switzerland)",
+      "doi": "10.3390/foods14101657",
+      "similitudes": {
+        "SALUD": 0.1274,
+        "SOBERANIA_ALIMENTARIA": 0.3667,
+        "SISTEMAS_ALIMENTARIOS": 0.4337
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SISTEMAS_ALIMENTARIOS",
+          "nombre": "Sistemas Alimentarios Sostenibles",
+          "similitud": 0.4337,
+          "confianza": "baja"
+        }
+      ],
+      "pronaces_secundarios": [
+        {
+          "codigo": "SOBERANIA_ALIMENTARIA",
+          "nombre": "PRONACE Soberanía Alimentaria",
+          "similitud": 0.3667,
+          "confianza": "baja"
+        }
+      ],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "39788958",
+      "titulo": "The blood pressure lowering effect of beetroot juice is impaired in periodontitis and recovered after periodontal treatment.",
+      "año": 2025,
+      "revista": "NPJ biofilms and microbiomes",
+      "doi": "10.1038/s41522-024-00622-5",
+      "similitudes": {
+        "SALUD": 0.2632,
+        "SOBERANIA_ALIMENTARIA": 0.237,
+        "SISTEMAS_ALIMENTARIOS": 0.2144
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.2632,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "39820029",
+      "titulo": "Uncoupling Proteins Variants Are Linked to Hypercholesterolemia and Abdominal Obesity in Metabolically Unhealthy Women.",
+      "año": 2025,
+      "revista": "Lifestyle genomics",
+      "doi": "10.1159/000543484",
+      "similitudes": {
+        "SALUD": 0.3341,
+        "SOBERANIA_ALIMENTARIA": 0.2255,
+        "SISTEMAS_ALIMENTARIOS": 0.2084
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3341,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "40732969",
+      "titulo": "Mutual Impact of Dietary Antioxidants and ",
+      "año": 2025,
+      "revista": "Nutrients",
+      "doi": "10.3390/nu17142345",
+      "similitudes": {
+        "SALUD": 0.4445,
+        "SOBERANIA_ALIMENTARIA": 0.342,
+        "SISTEMAS_ALIMENTARIOS": 0.3885
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.4445,
+          "confianza": "baja"
+        }
+      ],
+      "pronaces_secundarios": [
+        {
+          "codigo": "SISTEMAS_ALIMENTARIOS",
+          "nombre": "Sistemas Alimentarios Sostenibles",
+          "similitud": 0.3885,
+          "confianza": "baja"
+        },
+        {
+          "codigo": "SOBERANIA_ALIMENTARIA",
+          "nombre": "PRONACE Soberanía Alimentaria",
+          "similitud": 0.342,
+          "confianza": "tentativa"
+        }
+      ],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": false
+    },
+    {
+      "pmid": "40150513",
+      "titulo": "Effect of a Supervised Aerobic Exercise Training Program and Ginkgo Biloba Extract on Metabolic Parameters and Functional Capacity in HIV-Infected Subjects.",
+      "año": 2025,
+      "revista": "Healthcare (Basel, Switzerland)",
+      "doi": "10.3390/healthcare13060663",
+      "similitudes": {
+        "SALUD": 0.3486,
+        "SOBERANIA_ALIMENTARIA": 0.1944,
+        "SISTEMAS_ALIMENTARIOS": 0.1459
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3486,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": false
+    },
+    {
+      "pmid": "39857130",
+      "titulo": "Effect of a Diet Supplemented with Marine Omega-3 Fatty Acids on Inflammatory Markers in Subjects with Obesity: A Randomized Active Placebo-Controlled Trial.",
+      "año": 2025,
+      "revista": "Healthcare (Basel, Switzerland)",
+      "doi": "10.3390/healthcare13020103",
+      "similitudes": {
+        "SALUD": 0.401,
+        "SOBERANIA_ALIMENTARIA": 0.2829,
+        "SISTEMAS_ALIMENTARIOS": 0.3053
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.401,
+          "confianza": "baja"
+        }
+      ],
+      "pronaces_secundarios": [
+        {
+          "codigo": "SISTEMAS_ALIMENTARIOS",
+          "nombre": "Sistemas Alimentarios Sostenibles",
+          "similitud": 0.3053,
+          "confianza": "tentativa"
+        }
+      ],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "40586404",
+      "titulo": "Sex differences in the prevalence and profile of metabolic syndrome: results of a screening program from Western Mexico in self-appointed healthy adults.",
+      "año": 2025,
+      "revista": "Endokrynologia Polska",
+      "doi": "10.5603/ep.104506",
+      "similitudes": {
+        "SALUD": 0.3956,
+        "SOBERANIA_ALIMENTARIA": 0.3069,
+        "SISTEMAS_ALIMENTARIOS": 0.2459
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.3956,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [
+        {
+          "codigo": "SOBERANIA_ALIMENTARIA",
+          "nombre": "PRONACE Soberanía Alimentaria",
+          "similitud": 0.3069,
+          "confianza": "tentativa"
+        }
+      ],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    },
+    {
+      "pmid": "40004196",
+      "titulo": "Carboxylated Osteocalcin as an Independent Predictor of Mean Arterial Pressure and the Atherogenic Index in Adults.",
+      "año": 2025,
+      "revista": "International journal of molecular sciences",
+      "doi": "10.3390/ijms26041733",
+      "similitudes": {
+        "SALUD": 0.2943,
+        "SOBERANIA_ALIMENTARIA": 0.2216,
+        "SISTEMAS_ALIMENTARIOS": 0.1374
+      },
+      "pronaces_principales": [
+        {
+          "codigo": "SALUD",
+          "nombre": "PRONACE Salud",
+          "similitud": 0.2943,
+          "confianza": "tentativa"
+        }
+      ],
+      "pronaces_secundarios": [],
+      "metodo": "embeddings_cosine_similarity",
+      "tiene_abstract": true
+    }
+  ]
+}

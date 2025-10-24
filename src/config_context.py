@@ -323,7 +323,7 @@ REGION_OCCIDENTE = {
         "economia": "2da economía nacional",
         "pib_regional": "65.7% del PIB de región Occidente"
     },
-    "deficit_formacion": "Único doctorado en nutrición traslacional en región Occidente (PNPC-CONAHCYT)"
+    "deficit_formacion": "Único doctorado en nutrición traslacional en región Occidente"
 }
 
 INFRAESTRUCTURA_UDG = {
