@@ -108,13 +108,7 @@ ODS_CONTEXTO = {
             "sobrepeso_infantil": "7.7% en menores de 5 años",
             "anemia_mujeres": "15.8% (incremento de 11.6% en 2012)",
             "meta_2025": "México proyectado a cumplir solo 1 de 6 metas nutricionales globales"
-        },
-        "contribucion_dcnt": [
-            "Investigación en primeros 1000 días de vida (programación metabólica)",
-            "Epigenética y genómica nutricional en población mexicana",
-            "Intervenciones basadas en biomarcadores moleculares",
-            "Evaluación de programas de suplementación"
-        ]
+        }
     },
     "ODS_3": {
         "nombre": "Salud y Bienestar",
@@ -127,13 +121,7 @@ ODS_CONTEXTO = {
             "hipertension": "47% cumple criterios",
             "proyeccion_2050": "88% con sobrepeso/obesidad sin intervenciones efectivas",
             "mortalidad": "Enfermedades cardíacas, diabetes y tumores son principales causas de muerte"
-        },
-        "contribucion_dcnt": [
-            "Genómica nutricional para identificar poblaciones alto riesgo",
-            "Intervenciones personalizadas basadas en perfil genético",
-            "Diseño de intervenciones poblacionales escalables",
-            "Investigación traslacional clínica para mejorar atención"
-        ]
+        }
     },
     "ODS_10": {
         "nombre": "Reducción de las Desigualdades",
@@ -143,13 +131,7 @@ ODS_CONTEXTO = {
             "quintil_bajo_bienestar": "20.8% baja talla vs mucho menor en quintiles altos",
             "region_pacifico_sur": "20% baja talla vs 12.8% promedio",
             "anemia_poblacion_vulnerable": "34.3% en mujeres con menores capacidades económicas"
-        },
-        "contribucion_dcnt": [
-            "Intervenciones culturalmente pertinentes (ej. comunidades Wixárikas)",
-            "Investigación con diversidad epistémica",
-            "Reducción de inequidades en salud nutricional",
-            "Desarrollo de soluciones de bajo costo para poblaciones vulnerables"
-        ]
+        }
     },
     "ODS_12": {
         "nombre": "Producción y Consumo Responsables",
@@ -161,13 +143,7 @@ ODS_CONTEXTO = {
             "inseguridad_alimentaria": "20.7% población (moderada o severa)",
             "ultraprocesados": "46.6% del consumo total (incremento de 7.1 puntos en 20 años)",
             "bebidas_azucaradas": "27% de muertes por diabetes relacionadas con bebidas azucaradas"
-        },
-        "contribucion_dcnt": [
-            "Evaluación de alimentos tradicionales vs ultraprocesados",
-            "Desarrollo de alimentos funcionales con biodiversidad mexicana",
-            "Sistemas alimentarios más eficientes y sostenibles",
-            "Educación nutricional para cambiar patrones de consumo"
-        ]
+        }
     }
 }
 
@@ -397,7 +373,7 @@ POBLACIONES_VULNERABLES = {
         "ubicacion": "Norte de Jalisco (Mezquitic)",
         "caracteristicas": "Alto aislamiento geográfico en Sierra Madre Occidental",
         "problemas": "Problemas alimentario-nutricionales infantiles documentados desde 1999",
-        "colaboracion_udg": "25+ años, invitación del Consejo de Salud Comunitaria Werika",
+        "colaboracion_udg": "Colaboración de UdeG, invitación del Consejo de Salud Comunitaria Werika",
         "necesidad": "Investigadores con competencias en nutrición traslacional e interculturalidad"
     },
     "agua_caliente_poncitlan": {

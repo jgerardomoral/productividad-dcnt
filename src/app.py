@@ -784,11 +784,6 @@ def main():
                 - 12.8% niños con baja talla (estancado desde 2012)
                 - 27.4% en población indígena vs 13.9% promedio nacional
                 - Anemia en mujeres: 15.8% (↑ desde 11.6% en 2012)
-
-                **Contribución del DCNT-UdeG:**
-                - Investigación en primeros 1000 días de vida
-                - Epigenética y genómica nutricional
-                - Intervenciones basadas en biomarcadores
                 """)
 
             with tabs_ods[1]:
@@ -801,11 +796,6 @@ def main():
                 - 18.3% adultos con diabetes (14.6 millones)
                 - 75.2% con sobrepeso/obesidad
                 - Proyección 2050: 88% con sobrepeso/obesidad
-
-                **Contribución del DCNT-UdeG:**
-                - Identificación de poblaciones alto riesgo
-                - Intervenciones personalizadas (genómica)
-                - Intervenciones poblacionales escalables
                 """)
 
             with tabs_ods[2]:
@@ -816,11 +806,6 @@ def main():
                 - Baja talla: 27.4% indígena vs 13.9% promedio
                 - Quintil bajo: 20.8% vs mucho menor en quintiles altos
                 - Anemia vulnerable: 34.3% en mujeres de bajos recursos
-
-                **Contribución del DCNT-UdeG:**
-                - Intervenciones culturalmente pertinentes
-                - 25+ años con comunidades Wixárikas
-                - Reducción de inequidades en salud
                 """)
 
             with tabs_ods[3]:
@@ -831,11 +816,6 @@ def main():
                 - Desperdicio: 20.4 millones ton/año (34% producción)
                 - Ultraprocesados: 46.6% del consumo total
                 - 27% muertes diabetes relacionadas con bebidas azucaradas
-
-                **Contribución del DCNT-UdeG:**
-                - Evaluación alimentos tradicionales vs ultraprocesados
-                - Alimentos funcionales (biodiversidad mexicana)
-                - Sistemas alimentarios sostenibles
                 """)
     else:
         st.warning("⚠️ Ejecuta primero el script de clasificación paralela para generar los datos de ODS")
