@@ -250,9 +250,9 @@ def load_data():
     publications = pd.read_csv(base_dir / "publications_base.csv")
 
     # Intentar cargar clasificaciones mejoradas (si existen)
-    # Primero intentar cargar el ensemble final (mejor resultado)
+    # Primero intentar cargar el ensemble final corregido (mejor resultado)
     try:
-        with open(base_dir / "ods_classification_ensemble_final.json", 'r', encoding='utf-8') as f:
+        with open(base_dir / "ods_classification_ensemble_fixed.json", 'r', encoding='utf-8') as f:
             ods_full = json.load(f)
             # Extraer solo la lista de artículos
             ods_data = ods_full.get('articulos', [])
@@ -276,8 +276,8 @@ def load_data():
 
     # Intentar cargar clasificación de líneas mejorada
     try:
-        # Primero intentar la versión mejorada
-        with open(base_dir / "lineas_classification" / "embeddings_results_enhanced.json", 'r', encoding='utf-8') as f:
+        # Usar final_classification_fixed.json que tiene el formato correcto para el dashboard
+        with open(base_dir / "lineas_classification" / "final_classification_fixed.json", 'r', encoding='utf-8') as f:
             lineas_data = json.load(f)
     except FileNotFoundError:
         lineas_data = None
