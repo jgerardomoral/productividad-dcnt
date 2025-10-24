@@ -61,6 +61,7 @@ archive/
 
 # Data folders (contain sensitive research data)
 data/lineas_classification/
+!data/lineas_classification/final_classification_fixed.json
 data/batch*_linea*/
 # Excluir archivos de progreso pero mantener metadata principal
 data/pubmed_extracted/metadata_progress_*.json
