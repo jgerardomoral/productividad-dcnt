@@ -274,7 +274,7 @@ def load_data():
         themes_data = []
 
     try:
-        with open(base_dir / "lineas_classification" / "final_classification.json", 'r', encoding='utf-8') as f:
+        with open(base_dir / "classifications" / "lineas_classification.json", 'r', encoding='utf-8') as f:
             lineas_data = json.load(f)
     except FileNotFoundError:
         lineas_data = None
@@ -2962,9 +2962,10 @@ def main():
 
     else:
         st.warning("""
-        ⚠️ **Datos de clasificación no disponibles**
+        ⚠️ **Datos de clasificación de líneas no disponibles**
 
-        Ejecuta primero el script de clasificación:
+        Los datos de clasificación por líneas de investigación no están disponibles.
+        Para regenerar estos datos, ejecuta:
         1. `python src/embeddings_classifier.py` - Clasificación con Embeddings
         2. `python src/convert_embeddings_to_dashboard.py` - Conversión a formato dashboard
         """)
