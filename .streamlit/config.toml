@@ -1,0 +1,11 @@
+[theme]
+# Configuración base - se sobrescribirá con CSS dinámico
+primaryColor = "#1f77b4"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f0f2f6"
+textColor = "#262730"
+font = "sans serif"
+
+[server]
+headless = true
+enableXsrfProtection = false

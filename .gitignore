@@ -12,7 +12,7 @@ env/
 .venv
 
 # Streamlit
-.streamlit/
+.streamlit/secrets.toml
 
 # IDE
 .vscode/

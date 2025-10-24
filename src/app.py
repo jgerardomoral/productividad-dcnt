@@ -38,73 +38,202 @@ def get_theme_css(theme):
     if theme == 'dark':
         return """
         <style>
-            /* Tema Oscuro */
+            /* =========================== TEMA OSCURO =========================== */
+
+            /* Fondo principal de la app */
+            .stApp {
+                background-color: #0e1117 !important;
+            }
+
+            /* Fondo del contenido principal */
+            .main .block-container {
+                background-color: #0e1117 !important;
+            }
+
+            /* Sidebar */
+            [data-testid="stSidebar"] {
+                background-color: #262730 !important;
+            }
+
+            [data-testid="stSidebar"] * {
+                color: #fafafa !important;
+            }
+
+            /* Headers personalizados */
             .main-header {
                 font-size: 2.5rem;
                 font-weight: bold;
-                color: #4da6ff;
+                color: #58a6ff !important;
                 text-align: center;
                 padding: 1rem 0;
             }
+
             .section-header {
                 font-size: 1.8rem;
                 font-weight: bold;
-                color: #e0e0e0;
-                border-bottom: 3px solid #4da6ff;
+                color: #e6edf3 !important;
+                border-bottom: 3px solid #58a6ff;
                 padding-bottom: 0.5rem;
                 margin-top: 2rem;
             }
-            .metric-card {
-                background-color: #2b2b2b;
-                padding: 1.5rem;
-                border-radius: 10px;
-                border-left: 5px solid #4da6ff;
+
+            /* Texto general */
+            .stMarkdown, p, span, label, div {
+                color: #c9d1d9 !important;
             }
-            .stMetric {
-                background-color: #1e1e1e;
+
+            h1, h2, h3, h4, h5, h6 {
+                color: #e6edf3 !important;
+            }
+
+            /* Métricas */
+            [data-testid="stMetric"] {
+                background-color: #161b22 !important;
                 padding: 1rem;
-                border-radius: 5px;
-                box-shadow: 0 2px 4px rgba(0,0,0,0.3);
+                border-radius: 8px;
+                border: 1px solid #30363d;
             }
-            /* Ajustar colores de texto en modo oscuro */
-            .stMarkdown, p, h1, h2, h3, h4, h5, h6 {
-                color: #e0e0e0 !important;
+
+            [data-testid="stMetricValue"] {
+                color: #58a6ff !important;
             }
-            div[data-testid="stMetricValue"] {
-                color: #4da6ff !important;
+
+            [data-testid="stMetricLabel"] {
+                color: #8b949e !important;
+            }
+
+            /* Tabs */
+            .stTabs [data-baseweb="tab-list"] {
+                background-color: #161b22 !important;
+            }
+
+            .stTabs [data-baseweb="tab"] {
+                color: #8b949e !important;
+                background-color: #0d1117 !important;
+            }
+
+            .stTabs [aria-selected="true"] {
+                color: #58a6ff !important;
+                background-color: #161b22 !important;
+                border-bottom-color: #58a6ff !important;
+            }
+
+            /* Radio buttons */
+            [data-testid="stRadio"] label {
+                color: #c9d1d9 !important;
+            }
+
+            /* Dividers */
+            hr {
+                border-color: #30363d !important;
+            }
+
+            /* Success/Info boxes */
+            .stAlert {
+                background-color: #161b22 !important;
+                color: #c9d1d9 !important;
+                border: 1px solid #30363d;
             }
         </style>
         """
     else:
         return """
         <style>
-            /* Tema Claro */
+            /* =========================== TEMA CLARO =========================== */
+
+            /* Fondo principal de la app */
+            .stApp {
+                background-color: #ffffff !important;
+            }
+
+            /* Fondo del contenido principal */
+            .main .block-container {
+                background-color: #ffffff !important;
+            }
+
+            /* Sidebar */
+            [data-testid="stSidebar"] {
+                background-color: #f0f2f6 !important;
+            }
+
+            [data-testid="stSidebar"] * {
+                color: #31333F !important;
+            }
+
+            /* Headers personalizados */
             .main-header {
                 font-size: 2.5rem;
                 font-weight: bold;
-                color: #1f77b4;
+                color: #1f77b4 !important;
                 text-align: center;
                 padding: 1rem 0;
             }
+
             .section-header {
                 font-size: 1.8rem;
                 font-weight: bold;
-                color: #2c3e50;
+                color: #2c3e50 !important;
                 border-bottom: 3px solid #1f77b4;
                 padding-bottom: 0.5rem;
                 margin-top: 2rem;
             }
-            .metric-card {
-                background-color: #f8f9fa;
-                padding: 1.5rem;
-                border-radius: 10px;
-                border-left: 5px solid #1f77b4;
+
+            /* Texto general */
+            .stMarkdown, p, span, label, div {
+                color: #31333F !important;
             }
-            .stMetric {
-                background-color: #ffffff;
+
+            h1, h2, h3, h4, h5, h6 {
+                color: #262730 !important;
+            }
+
+            /* Métricas */
+            [data-testid="stMetric"] {
+                background-color: #f8f9fa !important;
                 padding: 1rem;
-                border-radius: 5px;
-                box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+                border-radius: 8px;
+                border: 1px solid #e6e9ef;
+            }
+
+            [data-testid="stMetricValue"] {
+                color: #1f77b4 !important;
+            }
+
+            [data-testid="stMetricLabel"] {
+                color: #666666 !important;
+            }
+
+            /* Tabs */
+            .stTabs [data-baseweb="tab-list"] {
+                background-color: #f0f2f6 !important;
+            }
+
+            .stTabs [data-baseweb="tab"] {
+                color: #666666 !important;
+                background-color: #ffffff !important;
+            }
+
+            .stTabs [aria-selected="true"] {
+                color: #1f77b4 !important;
+                background-color: #ffffff !important;
+                border-bottom-color: #1f77b4 !important;
+            }
+
+            /* Radio buttons */
+            [data-testid="stRadio"] label {
+                color: #31333F !important;
+            }
+
+            /* Dividers */
+            hr {
+                border-color: #e6e9ef !important;
+            }
+
+            /* Success/Info boxes */
+            .stAlert {
+                background-color: #f8f9fa !important;
+                color: #31333F !important;
+                border: 1px solid #e6e9ef;
             }
         </style>
         """
