@@ -60,9 +60,13 @@ logs/
 archive/
 
 # Data folders (contain sensitive research data)
-data/pubmed_extracted/
 data/lineas_classification/
 data/batch*_linea*/
+# Excluir archivos de progreso pero mantener metadata principal
+data/pubmed_extracted/metadata_progress_*.json
+data/pubmed_extracted/metadata_final_*.json
+data/pubmed_extracted/extraction_stats_*.json
+data/pubmed_extracted/batch*/
 
 # Large model files
 *.pkl
